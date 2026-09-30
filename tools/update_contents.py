@@ -15,8 +15,11 @@ def entries(cfg):
     for i,n in enumerate(cfg['nodes']):children[n.get('parentId')].append((n.get('order',0),i,n))
     result=[]
     def visit(pid,prefix):
-        for number,(_,_,node) in enumerate(sorted(children[pid]),1):
-            numbers=prefix+[str(number)];result.append((node,'.'.join(numbers)));visit(node['id'],numbers)
+        siblings=sorted(children[pid])
+        start=0 if pid is None and siblings and siblings[0][2]['title'].strip().lower() in ('前言','preface') else 1
+        for number,(_,_,node) in enumerate(siblings,start):
+            label=f'{number:02}' if pid is None else str(number)
+            numbers=prefix+[label];result.append((node,'.'.join(numbers)));visit(node['id'],numbers)
     visit(None,[])
     if len(result)!=len(cfg['nodes']):raise ValueError('Invalid chapter hierarchy')
     return result
