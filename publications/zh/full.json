@@ -1,0 +1,2590 @@
+{
+  "version": "title-tree-mvp-v1",
+  "projectName": "zh_工作书库",
+  "sourceFile": ".",
+  "sourceCopy": null,
+  "sourceHash": "",
+  "preambleFile": null,
+  "nodes": [
+    {
+      "id": "n0001",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 0,
+      "title": "前言",
+      "file": "中文/通用内容/前言.md",
+      "draft": false
+    },
+    {
+      "id": "n0002",
+      "pairId": null,
+      "parentId": "n0001",
+      "level": 2,
+      "order": 0,
+      "title": "版权声明",
+      "file": "中文/通用内容/前言/版权声明.md",
+      "draft": false
+    },
+    {
+      "id": "n0003",
+      "pairId": null,
+      "parentId": "n0001",
+      "level": 2,
+      "order": 1,
+      "title": "修订记录",
+      "file": "中文/通用内容/前言/修订记录.md",
+      "draft": false
+    },
+    {
+      "id": "n0004",
+      "pairId": null,
+      "parentId": "n0001",
+      "level": 2,
+      "order": 2,
+      "title": "免责声明",
+      "file": "中文/通用内容/前言/免责声明.md",
+      "draft": false
+    },
+    {
+      "id": "n0005",
+      "pairId": null,
+      "parentId": "n0001",
+      "level": 2,
+      "order": 3,
+      "title": "关于本手册",
+      "file": "中文/通用内容/前言/关于本手册.md",
+      "draft": false
+    },
+    {
+      "id": "n0006",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 1,
+      "title": "简介",
+      "file": "中文/硬件操作手册/简介.md",
+      "draft": false
+    },
+    {
+      "id": "n0007",
+      "pairId": null,
+      "parentId": "n0006",
+      "level": 2,
+      "order": 0,
+      "title": "适用人群",
+      "file": "中文/硬件操作手册/简介/适用人群.md",
+      "draft": false
+    },
+    {
+      "id": "n0008",
+      "pairId": null,
+      "parentId": "n0006",
+      "level": 2,
+      "order": 1,
+      "title": "预期用途",
+      "file": "中文/硬件操作手册/简介/预期用途.md",
+      "draft": false
+    },
+    {
+      "id": "n0009",
+      "pairId": null,
+      "parentId": "n0006",
+      "level": 2,
+      "order": 2,
+      "title": "使用限制",
+      "file": "中文/硬件操作手册/简介/使用限制.md",
+      "draft": false
+    },
+    {
+      "id": "n0010",
+      "pairId": null,
+      "parentId": "n0009",
+      "level": 3,
+      "order": 0,
+      "title": "环境使用限制",
+      "file": "中文/硬件操作手册/简介/使用限制/环境使用限制.md",
+      "draft": false
+    },
+    {
+      "id": "n0011",
+      "pairId": null,
+      "parentId": "n0009",
+      "level": 3,
+      "order": 1,
+      "title": "加工材料与耗材限制",
+      "file": "中文/硬件操作手册/简介/使用限制/加工材料与耗材限制.md",
+      "draft": false
+    },
+    {
+      "id": "n0012",
+      "pairId": null,
+      "parentId": "n0009",
+      "level": 3,
+      "order": 2,
+      "title": "冷却液使用限制",
+      "file": "中文/硬件操作手册/简介/使用限制/冷却液使用限制.md",
+      "draft": false
+    },
+    {
+      "id": "n0013",
+      "pairId": null,
+      "parentId": "n0009",
+      "level": 3,
+      "order": 3,
+      "title": "安全操作限制",
+      "file": "中文/硬件操作手册/简介/使用限制/安全操作限制.md",
+      "draft": false
+    },
+    {
+      "id": "n0014",
+      "pairId": null,
+      "parentId": "n0009",
+      "level": 3,
+      "order": 4,
+      "title": "改装与参数限制",
+      "file": "中文/硬件操作手册/简介/使用限制/改装与参数限制.md",
+      "draft": false
+    },
+    {
+      "id": "n0015",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 10,
+      "title": "附录",
+      "file": "中文/硬件操作手册/附录.md",
+      "draft": false
+    },
+    {
+      "id": "n0016",
+      "pairId": null,
+      "parentId": "n0015",
+      "level": 2,
+      "order": 0,
+      "title": "术语表",
+      "file": "中文/硬件操作手册/附录/术语表.md",
+      "draft": false
+    },
+    {
+      "id": "n0017",
+      "pairId": null,
+      "parentId": "n0015",
+      "level": 2,
+      "order": 1,
+      "title": "资源与支持",
+      "file": "中文/硬件操作手册/附录/资源与支持.md",
+      "draft": false
+    },
+    {
+      "id": "n0018",
+      "pairId": null,
+      "parentId": "n0017",
+      "level": 3,
+      "order": 0,
+      "title": "社区与学院访问",
+      "file": "中文/硬件操作手册/附录/资源与支持/社区与学院访问.md",
+      "draft": false
+    },
+    {
+      "id": "n0019",
+      "pairId": null,
+      "parentId": "n0017",
+      "level": 3,
+      "order": 1,
+      "title": "PC 端访问",
+      "file": "中文/硬件操作手册/附录/资源与支持/PC 端访问.md",
+      "draft": false
+    },
+    {
+      "id": "n0020",
+      "pairId": null,
+      "parentId": "n0019",
+      "level": 4,
+      "order": 0,
+      "title": "用户社区",
+      "file": "中文/硬件操作手册/附录/资源与支持/PC 端访问/用户社区.md",
+      "draft": false
+    },
+    {
+      "id": "n0021",
+      "pairId": null,
+      "parentId": "n0019",
+      "level": 4,
+      "order": 1,
+      "title": "在线学院",
+      "file": "中文/硬件操作手册/附录/资源与支持/PC 端访问/在线学院.md",
+      "draft": false
+    },
+    {
+      "id": "n0022",
+      "pairId": null,
+      "parentId": "n0015",
+      "level": 2,
+      "order": 2,
+      "title": "保修政策",
+      "file": "中文/硬件操作手册/附录/保修政策.md",
+      "draft": false
+    },
+    {
+      "id": "n0023",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 2,
+      "title": "安全",
+      "file": "中文/硬件操作手册/安全.md",
+      "draft": false
+    },
+    {
+      "id": "n0024",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 0,
+      "title": "通用安全准则",
+      "file": "中文/硬件操作手册/安全/通用安全准则.md",
+      "draft": false
+    },
+    {
+      "id": "n0025",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 1,
+      "title": "安全标识说明",
+      "file": "中文/硬件操作手册/安全/安全标识说明.md",
+      "draft": false
+    },
+    {
+      "id": "n0026",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 2,
+      "title": "安全符号与标签",
+      "file": "中文/硬件操作手册/安全/安全符号与标签.md",
+      "draft": false
+    },
+    {
+      "id": "n0027",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 3,
+      "title": "通用安全要求",
+      "file": "中文/硬件操作手册/安全/通用安全要求.md",
+      "draft": false
+    },
+    {
+      "id": "n0028",
+      "pairId": null,
+      "parentId": "n0027",
+      "level": 3,
+      "order": 0,
+      "title": "人员要求",
+      "file": "中文/硬件操作手册/安全/通用安全要求/人员要求.md",
+      "draft": false
+    },
+    {
+      "id": "n0029",
+      "pairId": null,
+      "parentId": "n0027",
+      "level": 3,
+      "order": 1,
+      "title": "场所要求",
+      "file": "中文/硬件操作手册/安全/通用安全要求/场所要求.md",
+      "draft": false
+    },
+    {
+      "id": "n0030",
+      "pairId": null,
+      "parentId": "n0027",
+      "level": 3,
+      "order": 2,
+      "title": "设备安全",
+      "file": "中文/硬件操作手册/安全/通用安全要求/设备安全.md",
+      "draft": false
+    },
+    {
+      "id": "n0031",
+      "pairId": null,
+      "parentId": "n0027",
+      "level": 3,
+      "order": 3,
+      "title": "应急与消防安全",
+      "file": "中文/硬件操作手册/安全/通用安全要求/应急与消防安全.md",
+      "draft": false
+    },
+    {
+      "id": "n0032",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 4,
+      "title": "电气要求",
+      "file": "中文/硬件操作手册/安全/电气要求.md",
+      "draft": false
+    },
+    {
+      "id": "n0033",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 5,
+      "title": "激光要求",
+      "file": "中文/选配件/安全/激光要求.md",
+      "draft": false
+    },
+    {
+      "id": "n0034",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 7,
+      "title": "急停装置",
+      "file": "中文/硬件操作手册/安全/急停装置.md",
+      "draft": false
+    },
+    {
+      "id": "n0035",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 8,
+      "title": "防护门检测装置",
+      "file": "中文/硬件操作手册/安全/防护门检测装置.md",
+      "draft": false
+    },
+    {
+      "id": "n0036",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 9,
+      "title": "符合性声明",
+      "file": "中文/硬件操作手册/安全/符合性声明.md",
+      "draft": false
+    },
+    {
+      "id": "n0037",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 3,
+      "title": "运输与部署",
+      "file": "中文/硬件操作手册/运输与部署.md",
+      "draft": false
+    },
+    {
+      "id": "n0038",
+      "pairId": null,
+      "parentId": "n0037",
+      "level": 2,
+      "order": 0,
+      "title": "搬运",
+      "file": "中文/硬件操作手册/运输与部署/搬运.md",
+      "draft": false
+    },
+    {
+      "id": "n0039",
+      "pairId": null,
+      "parentId": "n0038",
+      "level": 3,
+      "order": 0,
+      "title": "搬运安全要求",
+      "file": "中文/硬件操作手册/运输与部署/搬运/搬运安全要求.md",
+      "draft": false
+    },
+    {
+      "id": "n0040",
+      "pairId": null,
+      "parentId": "n0038",
+      "level": 3,
+      "order": 1,
+      "title": "搬运工具要求",
+      "file": "中文/硬件操作手册/运输与部署/搬运/搬运工具要求.md",
+      "draft": false
+    },
+    {
+      "id": "n0041",
+      "pairId": null,
+      "parentId": "n0037",
+      "level": 2,
+      "order": 1,
+      "title": "开箱",
+      "file": "中文/硬件操作手册/运输与部署/开箱.md",
+      "draft": false
+    },
+    {
+      "id": "n0042",
+      "pairId": null,
+      "parentId": "n0041",
+      "level": 3,
+      "order": 0,
+      "title": "检查包装状态",
+      "file": "中文/硬件操作手册/运输与部署/开箱/检查包装状态.md",
+      "draft": false
+    },
+    {
+      "id": "n0043",
+      "pairId": null,
+      "parentId": "n0042",
+      "level": 4,
+      "order": 0,
+      "title": "外包装检查",
+      "file": "中文/硬件操作手册/运输与部署/开箱/检查包装状态/外包装检查.md",
+      "draft": false
+    },
+    {
+      "id": "n0044",
+      "pairId": null,
+      "parentId": "n0042",
+      "level": 4,
+      "order": 1,
+      "title": "内包装检查",
+      "file": "中文/硬件操作手册/运输与部署/开箱/检查包装状态/内包装检查.md",
+      "draft": false
+    },
+    {
+      "id": "n0045",
+      "pairId": null,
+      "parentId": "n0041",
+      "level": 3,
+      "order": 1,
+      "title": "检查设备外观",
+      "file": "中文/硬件操作手册/运输与部署/开箱/检查设备外观.md",
+      "draft": false
+    },
+    {
+      "id": "n0046",
+      "pairId": null,
+      "parentId": "n0041",
+      "level": 3,
+      "order": 3,
+      "title": "清点配件",
+      "file": "中文/硬件操作手册/运输与部署/开箱/清点配件.md",
+      "draft": false
+    },
+    {
+      "id": "n0047",
+      "pairId": null,
+      "parentId": "new-3c643016793249c28153eb85b77a8453",
+      "level": 4,
+      "order": 0,
+      "title": "拆除外部包装与防护材料",
+      "file": "中文/硬件操作手册/运输与部署/开箱/拆除运输防护/拆除外部包装与防护材料.md",
+      "draft": false
+    },
+    {
+      "id": "n0048",
+      "pairId": null,
+      "parentId": "n0041",
+      "level": 3,
+      "order": 4,
+      "title": "拆除内部运输固定与防护",
+      "file": "中文/硬件操作手册/运输与部署/开箱/拆除内部运输固定与防护.md",
+      "draft": false
+    },
+    {
+      "id": "n0049",
+      "pairId": null,
+      "parentId": "new-3c643016793249c28153eb85b77a8453",
+      "level": 4,
+      "order": 1,
+      "title": "主机运输固定钣金拆除",
+      "file": "中文/硬件操作手册/运输与部署/开箱/拆除运输防护/主机运输固定钣金拆除.md",
+      "draft": false
+    },
+    {
+      "id": "n0050",
+      "pairId": null,
+      "parentId": "n0048",
+      "level": 4,
+      "order": 2,
+      "title": "主机运输把手拆除",
+      "file": "中文/硬件操作手册/运输与部署/开箱/拆除内部运输固定与防护/主机运输把手拆除.md",
+      "draft": false
+    },
+    {
+      "id": "n0051",
+      "pairId": null,
+      "parentId": "n0048",
+      "level": 4,
+      "order": 0,
+      "title": "主轴与工作台固定钣金拆除",
+      "file": "中文/硬件操作手册/运输与部署/开箱/拆除内部运输固定与防护/主轴与工作台固定钣金拆除.md",
+      "draft": false
+    },
+    {
+      "id": "n0052",
+      "pairId": null,
+      "parentId": "n0041",
+      "level": 3,
+      "order": 5,
+      "title": "拆除后检查",
+      "file": "中文/硬件操作手册/运输与部署/开箱/拆除后检查.md",
+      "draft": false
+    },
+    {
+      "id": "n0053",
+      "pairId": null,
+      "parentId": "n0037",
+      "level": 2,
+      "order": 2,
+      "title": "安装要求",
+      "file": "中文/硬件操作手册/运输与部署/安装要求.md",
+      "draft": false
+    },
+    {
+      "id": "n0054",
+      "pairId": null,
+      "parentId": "n0053",
+      "level": 3,
+      "order": 0,
+      "title": "环境要求",
+      "file": "中文/硬件操作手册/运输与部署/安装要求/环境要求.md",
+      "draft": false
+    },
+    {
+      "id": "n0055",
+      "pairId": null,
+      "parentId": "n0053",
+      "level": 3,
+      "order": 1,
+      "title": "电源要求",
+      "file": "中文/硬件操作手册/运输与部署/安装要求/电源要求.md",
+      "draft": false
+    },
+    {
+      "id": "n0056",
+      "pairId": null,
+      "parentId": "n0053",
+      "level": 3,
+      "order": 2,
+      "title": "工作台要求",
+      "file": "中文/硬件操作手册/运输与部署/安装要求/工作台要求.md",
+      "draft": false
+    },
+    {
+      "id": "n0057",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 4,
+      "title": "安装与连接",
+      "file": "中文/硬件操作手册/安装与连接.md",
+      "draft": false
+    },
+    {
+      "id": "n0058",
+      "pairId": null,
+      "parentId": "n0057",
+      "level": 2,
+      "order": 0,
+      "title": "主机结构",
+      "file": "中文/硬件操作手册/安装与连接/主机结构.md",
+      "draft": false
+    },
+    {
+      "id": "n0059",
+      "pairId": null,
+      "parentId": "n0058",
+      "level": 3,
+      "order": 0,
+      "title": "主机部件",
+      "file": "中文/硬件操作手册/安装与连接/主机结构/主机部件.md",
+      "draft": false
+    },
+    {
+      "id": "n0060",
+      "pairId": null,
+      "parentId": "n0058",
+      "level": 3,
+      "order": 1,
+      "title": "接口介绍",
+      "file": "中文/硬件操作手册/安装与连接/主机结构/接口介绍.md",
+      "draft": false
+    },
+    {
+      "id": "n0061",
+      "pairId": null,
+      "parentId": "n0057",
+      "level": 2,
+      "order": 1,
+      "title": "配置清单",
+      "file": "中文/选配件/安装与连接/配置清单.md",
+      "draft": false
+    },
+    {
+      "id": "n0062",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 0,
+      "title": "主机",
+      "file": "中文/选配件/安装与连接/配置清单/主机.md",
+      "draft": false
+    },
+    {
+      "id": "n0063",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 1,
+      "title": "标准配件盒",
+      "file": "中文/选配件/安装与连接/配置清单/标准配件盒.md",
+      "draft": false
+    },
+    {
+      "id": "n0064",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 2,
+      "title": "排渣套件",
+      "file": "中文/选配件/安装与连接/配置清单/排渣套件.md",
+      "draft": false
+    },
+    {
+      "id": "n0065",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 3,
+      "title": "维护套件",
+      "file": "中文/选配件/安装与连接/配置清单/维护套件.md",
+      "draft": false
+    },
+    {
+      "id": "n0066",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 4,
+      "title": "基础工具包",
+      "file": "中文/选配件/安装与连接/配置清单/基础工具包.md",
+      "draft": false
+    },
+    {
+      "id": "n0067",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 5,
+      "title": "公制标准刀具包及配件（选配）",
+      "file": "中文/选配件/安装与连接/配置清单/公制标准刀具包及配件（选配）.md",
+      "draft": false
+    },
+    {
+      "id": "n0068",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 6,
+      "title": "英制标准刀具包及配件（选配）",
+      "file": "中文/选配件/安装与连接/配置清单/英制标准刀具包及配件（选配）.md",
+      "draft": false
+    },
+    {
+      "id": "n0069",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 7,
+      "title": "原材料体验包",
+      "file": "中文/选配件/安装与连接/配置清单/原材料体验包.md",
+      "draft": false
+    },
+    {
+      "id": "n0070",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 8,
+      "title": "入门套件",
+      "file": "中文/选配件/安装与连接/配置清单/入门套件.md",
+      "draft": false
+    },
+    {
+      "id": "n0071",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 9,
+      "title": "集尘毛刷",
+      "file": "中文/选配件/安装与连接/配置清单/集尘毛刷.md",
+      "draft": false
+    },
+    {
+      "id": "n0072",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 10,
+      "title": "第四轴",
+      "file": "中文/选配件/安装与连接/配置清单/第四轴.md",
+      "draft": false
+    },
+    {
+      "id": "n0073",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 11,
+      "title": "手轮",
+      "file": "中文/选配件/安装与连接/配置清单/手轮.md",
+      "draft": false
+    },
+    {
+      "id": "n0074",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 12,
+      "title": "电动虎钳",
+      "file": "中文/选配件/安装与连接/配置清单/电动虎钳.md",
+      "draft": false
+    },
+    {
+      "id": "n0075",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 13,
+      "title": "激光器",
+      "file": "中文/选配件/安装与连接/配置清单/激光器.md",
+      "draft": false
+    },
+    {
+      "id": "n0076",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 14,
+      "title": "金属刀具套件",
+      "file": "中文/选配件/安装与连接/配置清单/金属刀具套件.md",
+      "draft": false
+    },
+    {
+      "id": "n0077",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 15,
+      "title": "木头刀具套件",
+      "file": "中文/选配件/安装与连接/配置清单/木头刀具套件.md",
+      "draft": false
+    },
+    {
+      "id": "n0078",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 16,
+      "title": "塑料刀具套件",
+      "file": "中文/选配件/安装与连接/配置清单/塑料刀具套件.md",
+      "draft": false
+    },
+    {
+      "id": "n0079",
+      "pairId": null,
+      "parentId": "n0061",
+      "level": 3,
+      "order": 17,
+      "title": "其他",
+      "file": "中文/选配件/安装与连接/配置清单/其他.md",
+      "draft": false
+    },
+    {
+      "id": "n0080",
+      "pairId": null,
+      "parentId": "n0057",
+      "level": 2,
+      "order": 2,
+      "title": "安装与连接",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接.md",
+      "draft": false
+    },
+    {
+      "id": "n0081",
+      "pairId": null,
+      "parentId": "n0080",
+      "level": 3,
+      "order": 0,
+      "title": "夹具套装安装",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/夹具套装安装.md",
+      "draft": false
+    },
+    {
+      "id": "n0082",
+      "pairId": null,
+      "parentId": "n0081",
+      "level": 4,
+      "order": 0,
+      "title": "L型定位治具和 OK夹",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/夹具套装安装/L型定位治具和 OK夹.md",
+      "draft": false
+    },
+    {
+      "id": "n0083",
+      "pairId": null,
+      "parentId": "n0081",
+      "level": 4,
+      "order": 1,
+      "title": "L型定位治具 + 侧夹",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/夹具套装安装/L型定位治具 + 侧夹.md",
+      "draft": false
+    },
+    {
+      "id": "n0084",
+      "pairId": null,
+      "parentId": "n0081",
+      "level": 4,
+      "order": 2,
+      "title": "平面板夹",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/夹具套装安装/平面板夹.md",
+      "draft": false
+    },
+    {
+      "id": "n0085",
+      "pairId": null,
+      "parentId": "n0080",
+      "level": 3,
+      "order": 1,
+      "title": "刀套与夹头安装",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/刀套与夹头安装.md",
+      "draft": false
+    },
+    {
+      "id": "n0086",
+      "pairId": null,
+      "parentId": "n0085",
+      "level": 4,
+      "order": 0,
+      "title": "主轴夹头安装与锁紧",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/刀套与夹头安装/主轴夹头安装与锁紧.md",
+      "draft": false
+    },
+    {
+      "id": "n0087",
+      "pairId": null,
+      "parentId": "n0085",
+      "level": 4,
+      "order": 1,
+      "title": "刀套拆装筒",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/刀套与夹头安装/刀套拆装筒.md",
+      "draft": false
+    },
+    {
+      "id": "n0088",
+      "pairId": null,
+      "parentId": "n0085",
+      "level": 4,
+      "order": 2,
+      "title": "筒夹拆装",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/刀套与夹头安装/筒夹拆装.md",
+      "draft": false
+    },
+    {
+      "id": "n0089",
+      "pairId": null,
+      "parentId": "n0085",
+      "level": 4,
+      "order": 3,
+      "title": "铣刀安装",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/刀套与夹头安装/铣刀安装.md",
+      "draft": false
+    },
+    {
+      "id": "n0090",
+      "pairId": null,
+      "parentId": "n0085",
+      "level": 4,
+      "order": 4,
+      "title": "铣刀拆卸",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/刀套与夹头安装/铣刀拆卸.md",
+      "draft": false
+    },
+    {
+      "id": "n0091",
+      "pairId": null,
+      "parentId": "n0080",
+      "level": 3,
+      "order": 2,
+      "title": "激光器安装（选配）",
+      "file": "中文/选配件/安装与连接/安装与连接/激光器安装（选配）.md",
+      "draft": false
+    },
+    {
+      "id": "n0092",
+      "pairId": null,
+      "parentId": "n0080",
+      "level": 3,
+      "order": 3,
+      "title": "吸尘器套件安装",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/吸尘器套件安装.md",
+      "draft": false
+    },
+    {
+      "id": "n0093",
+      "pairId": null,
+      "parentId": "n0080",
+      "level": 3,
+      "order": 4,
+      "title": "手轮连接（选配）",
+      "file": "中文/选配件/安装与连接/安装与连接/手轮连接（选配）.md",
+      "draft": false
+    },
+    {
+      "id": "n0094",
+      "pairId": null,
+      "parentId": "n0080",
+      "level": 3,
+      "order": 5,
+      "title": "排屑螺杆安装",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/排屑螺杆安装.md",
+      "draft": false
+    },
+    {
+      "id": "n0095",
+      "pairId": null,
+      "parentId": "n0094",
+      "level": 4,
+      "order": 0,
+      "title": "左、右排屑螺杆安装",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/排屑螺杆安装/左、右排屑螺杆安装.md",
+      "draft": false
+    },
+    {
+      "id": "n0096",
+      "pairId": null,
+      "parentId": "n0094",
+      "level": 4,
+      "order": 1,
+      "title": "前排屑螺杆安装",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/排屑螺杆安装/前排屑螺杆安装.md",
+      "draft": false
+    },
+    {
+      "id": "n0097",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 5,
+      "title": "软件安装",
+      "file": "中文/软件操作手册/软件安装.md",
+      "draft": false
+    },
+    {
+      "id": "n0098",
+      "pairId": null,
+      "parentId": "n0097",
+      "level": 2,
+      "order": 0,
+      "title": "NestStudio",
+      "file": "中文/软件操作手册/软件安装/NestStudio.md",
+      "draft": false
+    },
+    {
+      "id": "n0099",
+      "pairId": null,
+      "parentId": "n0098",
+      "level": 3,
+      "order": 0,
+      "title": "软件介绍",
+      "file": "中文/软件操作手册/软件安装/NestStudio/软件介绍.md",
+      "draft": false
+    },
+    {
+      "id": "n0100",
+      "pairId": null,
+      "parentId": "n0098",
+      "level": 3,
+      "order": 1,
+      "title": "系统要求",
+      "file": "中文/软件操作手册/软件安装/NestStudio/系统要求.md",
+      "draft": false
+    },
+    {
+      "id": "n0101",
+      "pairId": null,
+      "parentId": "n0098",
+      "level": 3,
+      "order": 2,
+      "title": "Windows 下载与安装",
+      "file": "中文/软件操作手册/软件安装/NestStudio/Windows 下载与安装.md",
+      "draft": false
+    },
+    {
+      "id": "n0102",
+      "pairId": null,
+      "parentId": "n0101",
+      "level": 4,
+      "order": 1,
+      "title": "Windows 安装",
+      "file": "中文/软件操作手册/软件安装/NestStudio/Windows 下载与安装/Windows 安装.md",
+      "draft": false
+    },
+    {
+      "id": "n0103",
+      "pairId": null,
+      "parentId": "new-93c9757b8c4a46dda8135ce7ef46c182",
+      "level": 4,
+      "order": 1,
+      "title": "MacOS 安装",
+      "file": "中文/软件操作手册/软件安装/NestStudio/macOS 下载与安装/MacOS 安装.md",
+      "draft": false
+    },
+    {
+      "id": "n0104",
+      "pairId": null,
+      "parentId": "n0098",
+      "level": 3,
+      "order": 4,
+      "title": "设备连接",
+      "file": "中文/软件操作手册/软件安装/NestStudio/设备连接.md",
+      "draft": false
+    },
+    {
+      "id": "n0105",
+      "pairId": null,
+      "parentId": "n0104",
+      "level": 4,
+      "order": 0,
+      "title": "有线连接",
+      "file": "中文/软件操作手册/软件安装/NestStudio/设备连接/有线连接.md",
+      "draft": false
+    },
+    {
+      "id": "n0106",
+      "pairId": null,
+      "parentId": "n0104",
+      "level": 4,
+      "order": 1,
+      "title": "无线连接",
+      "file": "中文/软件操作手册/软件安装/NestStudio/设备连接/无线连接.md",
+      "draft": false
+    },
+    {
+      "id": "n0107",
+      "pairId": null,
+      "parentId": "n0097",
+      "level": 2,
+      "order": 1,
+      "title": "NestPad",
+      "file": "中文/软件操作手册/软件安装/NestPad.md",
+      "draft": false
+    },
+    {
+      "id": "n0108",
+      "pairId": null,
+      "parentId": "n0107",
+      "level": 3,
+      "order": 0,
+      "title": "首次开机与设备自检",
+      "file": "中文/软件操作手册/软件安装/NestPad/首次开机与设备自检.md",
+      "draft": false
+    },
+    {
+      "id": "n0109",
+      "pairId": null,
+      "parentId": "n0107",
+      "level": 3,
+      "order": 1,
+      "title": "软件更新",
+      "file": "中文/软件操作手册/软件安装/NestPad/软件更新.md",
+      "draft": false
+    },
+    {
+      "id": "n0110",
+      "pairId": null,
+      "parentId": "n0109",
+      "level": 4,
+      "order": 0,
+      "title": "首次开机更新",
+      "file": "中文/软件操作手册/软件安装/NestPad/软件更新/首次开机更新.md",
+      "draft": false
+    },
+    {
+      "id": "n0111",
+      "pairId": null,
+      "parentId": "n0109",
+      "level": 4,
+      "order": 1,
+      "title": "检查与更新",
+      "file": "中文/软件操作手册/软件安装/NestPad/软件更新/检查与更新.md",
+      "draft": false
+    },
+    {
+      "id": "n0112",
+      "pairId": null,
+      "parentId": "n0097",
+      "level": 2,
+      "order": 2,
+      "title": "社区接入",
+      "file": "中文/软件操作手册/软件安装/社区接入.md",
+      "draft": false
+    },
+    {
+      "id": "n0113",
+      "pairId": null,
+      "parentId": "n0112",
+      "level": 3,
+      "order": 0,
+      "title": "NestPad 接入",
+      "file": "中文/软件操作手册/软件安装/社区接入/NestPad 接入.md",
+      "draft": false
+    },
+    {
+      "id": "n0115",
+      "pairId": null,
+      "parentId": "n0112",
+      "level": 3,
+      "order": 1,
+      "title": "CAM 软件接入社区",
+      "file": "中文/软件操作手册/软件安装/社区接入/CAM 软件接入社区.md",
+      "draft": false
+    },
+    {
+      "id": "n0116",
+      "pairId": null,
+      "parentId": "n0112",
+      "level": 3,
+      "order": 2,
+      "title": "官网接入",
+      "file": "中文/软件操作手册/软件安装/社区接入/官网接入.md",
+      "draft": false
+    },
+    {
+      "id": "n0117",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 6,
+      "title": "软件功能与使用",
+      "file": "中文/软件操作手册/软件功能与使用.md",
+      "draft": false
+    },
+    {
+      "id": "n0118",
+      "pairId": null,
+      "parentId": "n0117",
+      "level": 2,
+      "order": 0,
+      "title": "软件界面概览",
+      "file": "中文/软件操作手册/软件功能与使用/软件界面概览.md",
+      "draft": false
+    },
+    {
+      "id": "n0119",
+      "pairId": null,
+      "parentId": "n0118",
+      "level": 3,
+      "order": 0,
+      "title": "首页",
+      "file": "中文/软件操作手册/软件功能与使用/软件界面概览/首页.md",
+      "draft": false
+    },
+    {
+      "id": "n0120",
+      "pairId": null,
+      "parentId": "n0118",
+      "level": 3,
+      "order": 1,
+      "title": "创意工坊",
+      "file": "中文/软件操作手册/软件功能与使用/软件界面概览/创意工坊.md",
+      "draft": false
+    },
+    {
+      "id": "n0121",
+      "pairId": null,
+      "parentId": "n0118",
+      "level": 3,
+      "order": 2,
+      "title": "用户指南",
+      "file": "中文/软件操作手册/软件功能与使用/软件界面概览/用户指南.md",
+      "draft": false
+    },
+    {
+      "id": "n0122",
+      "pairId": null,
+      "parentId": "n0118",
+      "level": 3,
+      "order": 3,
+      "title": "准备页面",
+      "file": "中文/软件操作手册/软件功能与使用/软件界面概览/准备页面.md",
+      "draft": false
+    },
+    {
+      "id": "n0123",
+      "pairId": null,
+      "parentId": "n0118",
+      "level": 3,
+      "order": 4,
+      "title": "预览页面概览",
+      "file": "中文/软件操作手册/软件功能与使用/软件界面概览/预览页面概览.md",
+      "draft": false
+    },
+    {
+      "id": "n0124",
+      "pairId": null,
+      "parentId": "n0118",
+      "level": 3,
+      "order": 5,
+      "title": "设备页面",
+      "file": "中文/软件操作手册/软件功能与使用/软件界面概览/设备页面.md",
+      "draft": false
+    },
+    {
+      "id": "n0125",
+      "pairId": null,
+      "parentId": "n0124",
+      "level": 4,
+      "order": 0,
+      "title": "刀具管理",
+      "file": "中文/软件操作手册/软件功能与使用/软件界面概览/设备页面/刀具管理.md",
+      "draft": false
+    },
+    {
+      "id": "n0126",
+      "pairId": null,
+      "parentId": "n0124",
+      "level": 4,
+      "order": 1,
+      "title": "冷却液管理",
+      "file": "中文/软件操作手册/软件功能与使用/软件界面概览/设备页面/冷却液管理.md",
+      "draft": false
+    },
+    {
+      "id": "n0127",
+      "pairId": null,
+      "parentId": "n0124",
+      "level": 4,
+      "order": 2,
+      "title": "机器校准",
+      "file": "中文/软件操作手册/软件功能与使用/软件界面概览/设备页面/机器校准.md",
+      "draft": false
+    },
+    {
+      "id": "n0128",
+      "pairId": null,
+      "parentId": "n0117",
+      "level": 2,
+      "order": 1,
+      "title": "NestStudio 界面功能",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能.md",
+      "draft": false
+    },
+    {
+      "id": "n0129",
+      "pairId": null,
+      "parentId": "n0128",
+      "level": 3,
+      "order": 0,
+      "title": "顶部工具栏",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/顶部工具栏.md",
+      "draft": false
+    },
+    {
+      "id": "n0130",
+      "pairId": null,
+      "parentId": "n0128",
+      "level": 3,
+      "order": 1,
+      "title": "常用快捷功能",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/常用快捷功能.md",
+      "draft": false
+    },
+    {
+      "id": "n0131",
+      "pairId": null,
+      "parentId": "n0128",
+      "level": 3,
+      "order": 2,
+      "title": "模型导入",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/模型导入.md",
+      "draft": false
+    },
+    {
+      "id": "n0132",
+      "pairId": null,
+      "parentId": "n0131",
+      "level": 4,
+      "order": 0,
+      "title": "导入方式",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/模型导入/导入方式.md",
+      "draft": false
+    },
+    {
+      "id": "n0133",
+      "pairId": null,
+      "parentId": "n0131",
+      "level": 4,
+      "order": 1,
+      "title": "文件格式",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/模型导入/文件格式.md",
+      "draft": false
+    },
+    {
+      "id": "n0134",
+      "pairId": null,
+      "parentId": "n0131",
+      "level": 4,
+      "order": 2,
+      "title": "导入检测",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/模型导入/导入检测.md",
+      "draft": false
+    },
+    {
+      "id": "n0135",
+      "pairId": null,
+      "parentId": "n0128",
+      "level": 3,
+      "order": 3,
+      "title": "加工参数设置",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/加工参数设置.md",
+      "draft": false
+    },
+    {
+      "id": "n0136",
+      "pairId": null,
+      "parentId": "n0135",
+      "level": 4,
+      "order": 0,
+      "title": "基础信息",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/加工参数设置/基础信息.md",
+      "draft": false
+    },
+    {
+      "id": "n0137",
+      "pairId": null,
+      "parentId": "n0135",
+      "level": 4,
+      "order": 1,
+      "title": "参数设置概览",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/加工参数设置/参数设置概览.md",
+      "draft": false
+    },
+    {
+      "id": "n0138",
+      "pairId": null,
+      "parentId": "n0135",
+      "level": 4,
+      "order": 2,
+      "title": "自定义设置",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/加工参数设置/自定义设置.md",
+      "draft": false
+    },
+    {
+      "id": "n0139",
+      "pairId": null,
+      "parentId": "n0128",
+      "level": 3,
+      "order": 4,
+      "title": "3D刀路预览",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/3D刀路预览.md",
+      "draft": false
+    },
+    {
+      "id": "n0140",
+      "pairId": null,
+      "parentId": "n0139",
+      "level": 4,
+      "order": 0,
+      "title": "项目信息与刀路管理面板",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/3D刀路预览/项目信息与刀路管理面板.md",
+      "draft": false
+    },
+    {
+      "id": "n0141",
+      "pairId": null,
+      "parentId": "n0139",
+      "level": 4,
+      "order": 1,
+      "title": "3D刀路仿真视图区",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/3D刀路预览/3D刀路仿真视图区.md",
+      "draft": false
+    },
+    {
+      "id": "n0142",
+      "pairId": null,
+      "parentId": "n0128",
+      "level": 3,
+      "order": 5,
+      "title": "4轴刀路预览",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/4轴刀路预览.md",
+      "draft": false
+    },
+    {
+      "id": "n0143",
+      "pairId": null,
+      "parentId": "n0128",
+      "level": 3,
+      "order": 6,
+      "title": "自动分中",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/自动分中.md",
+      "draft": false
+    },
+    {
+      "id": "n0144",
+      "pairId": null,
+      "parentId": "n0128",
+      "level": 3,
+      "order": 7,
+      "title": "激光描边",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/激光描边.md",
+      "draft": false
+    },
+    {
+      "id": "n0145",
+      "pairId": null,
+      "parentId": "n0128",
+      "level": 3,
+      "order": 8,
+      "title": "G-code 导入",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/G-code 导入.md",
+      "draft": false
+    },
+    {
+      "id": "n0146",
+      "pairId": null,
+      "parentId": "n0128",
+      "level": 3,
+      "order": 9,
+      "title": "刀具管理",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/刀具管理.md",
+      "draft": false
+    },
+    {
+      "id": "n0147",
+      "pairId": null,
+      "parentId": "n0146",
+      "level": 4,
+      "order": 0,
+      "title": "刀具装载",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/刀具管理/刀具装载.md",
+      "draft": false
+    },
+    {
+      "id": "n0148",
+      "pairId": null,
+      "parentId": "n0146",
+      "level": 4,
+      "order": 1,
+      "title": "刀具生命周期管理",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/刀具管理/刀具生命周期管理.md",
+      "draft": false
+    },
+    {
+      "id": "n0149",
+      "pairId": null,
+      "parentId": "n0128",
+      "level": 3,
+      "order": 10,
+      "title": "冷却液管理",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/冷却液管理.md",
+      "draft": false
+    },
+    {
+      "id": "n0150",
+      "pairId": null,
+      "parentId": "n0128",
+      "level": 3,
+      "order": 11,
+      "title": "机器校准",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/机器校准.md",
+      "draft": false
+    },
+    {
+      "id": "n0151",
+      "pairId": null,
+      "parentId": "n0150",
+      "level": 4,
+      "order": 0,
+      "title": "设备信息",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/机器校准/设备信息.md",
+      "draft": false
+    },
+    {
+      "id": "n0152",
+      "pairId": null,
+      "parentId": "n0150",
+      "level": 4,
+      "order": 1,
+      "title": "设备校准",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/机器校准/设备校准.md",
+      "draft": false
+    },
+    {
+      "id": "n0153",
+      "pairId": null,
+      "parentId": "n0128",
+      "level": 3,
+      "order": 12,
+      "title": "任务加工",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/任务加工.md",
+      "draft": false
+    },
+    {
+      "id": "n0154",
+      "pairId": null,
+      "parentId": "n0153",
+      "level": 4,
+      "order": 0,
+      "title": "3D刀路",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/任务加工/3D刀路.md",
+      "draft": false
+    },
+    {
+      "id": "n0155",
+      "pairId": null,
+      "parentId": "n0153",
+      "level": 4,
+      "order": 1,
+      "title": "控制台",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/任务加工/控制台.md",
+      "draft": false
+    },
+    {
+      "id": "n0156",
+      "pairId": null,
+      "parentId": "n0153",
+      "level": 4,
+      "order": 2,
+      "title": "G-code 文件加工指引",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/任务加工/G-code 文件加工指引.md",
+      "draft": false
+    },
+    {
+      "id": "n0157",
+      "pairId": null,
+      "parentId": "n0153",
+      "level": 4,
+      "order": 3,
+      "title": "设备快速调试",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/任务加工/设备快速调试.md",
+      "draft": false
+    },
+    {
+      "id": "n0158",
+      "pairId": null,
+      "parentId": "n0128",
+      "level": 3,
+      "order": 13,
+      "title": "用户账号",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/用户账号.md",
+      "draft": false
+    },
+    {
+      "id": "n0159",
+      "pairId": null,
+      "parentId": "n0158",
+      "level": 4,
+      "order": 0,
+      "title": "登录",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/用户账号/登录.md",
+      "draft": false
+    },
+    {
+      "id": "n0160",
+      "pairId": null,
+      "parentId": "n0158",
+      "level": 4,
+      "order": 1,
+      "title": "注册",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/用户账号/注册.md",
+      "draft": false
+    },
+    {
+      "id": "n0161",
+      "pairId": null,
+      "parentId": "n0158",
+      "level": 4,
+      "order": 2,
+      "title": "找回密码",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/用户账号/找回密码.md",
+      "draft": false
+    },
+    {
+      "id": "n0162",
+      "pairId": null,
+      "parentId": "n0158",
+      "level": 4,
+      "order": 3,
+      "title": "云空间",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/用户账号/云空间.md",
+      "draft": false
+    },
+    {
+      "id": "n0163",
+      "pairId": null,
+      "parentId": "n0128",
+      "level": 3,
+      "order": 14,
+      "title": "文件夹",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/文件夹.md",
+      "draft": false
+    },
+    {
+      "id": "n0164",
+      "pairId": null,
+      "parentId": "n0128",
+      "level": 3,
+      "order": 15,
+      "title": "设置",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/设置.md",
+      "draft": false
+    },
+    {
+      "id": "n0165",
+      "pairId": null,
+      "parentId": "n0128",
+      "level": 3,
+      "order": 16,
+      "title": "软急停",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/软急停.md",
+      "draft": false
+    },
+    {
+      "id": "n0166",
+      "pairId": null,
+      "parentId": "n0117",
+      "level": 2,
+      "order": 2,
+      "title": "NestPad",
+      "file": "中文/软件操作手册/NestPad.md",
+      "draft": false
+    },
+    {
+      "id": "n0167",
+      "pairId": null,
+      "parentId": "n0166",
+      "level": 3,
+      "order": 0,
+      "title": "功能概览",
+      "file": "中文/软件操作手册/NestPad/功能概览.md",
+      "draft": false
+    },
+    {
+      "id": "n0168",
+      "pairId": null,
+      "parentId": "n0167",
+      "level": 4,
+      "order": 0,
+      "title": "NestPad 界面概览",
+      "file": "中文/软件操作手册/NestPad/功能概览/NestPad 界面概览.md",
+      "draft": false
+    },
+    {
+      "id": "n0169",
+      "pairId": null,
+      "parentId": "n0167",
+      "level": 4,
+      "order": 1,
+      "title": "顶部导航栏",
+      "file": "中文/软件操作手册/NestPad/功能概览/顶部导航栏.md",
+      "draft": false
+    },
+    {
+      "id": "n0170",
+      "pairId": null,
+      "parentId": "n0166",
+      "level": 3,
+      "order": 1,
+      "title": "加工执行与监控",
+      "file": "中文/软件操作手册/NestPad/加工执行与监控.md",
+      "draft": false
+    },
+    {
+      "id": "n0171",
+      "pairId": null,
+      "parentId": "n0170",
+      "level": 4,
+      "order": 0,
+      "title": "文件导入",
+      "file": "中文/软件操作手册/NestPad/加工执行与监控/文件导入.md",
+      "draft": false
+    },
+    {
+      "id": "n0172",
+      "pairId": null,
+      "parentId": "n0170",
+      "level": 4,
+      "order": 1,
+      "title": "文件校验和解析",
+      "file": "中文/软件操作手册/NestPad/加工执行与监控/文件校验和解析.md",
+      "draft": false
+    },
+    {
+      "id": "n0173",
+      "pairId": null,
+      "parentId": "n0170",
+      "level": 4,
+      "order": 2,
+      "title": "加工管控",
+      "file": "中文/软件操作手册/NestPad/加工执行与监控/加工管控.md",
+      "draft": false
+    },
+    {
+      "id": "n0174",
+      "pairId": null,
+      "parentId": "n0170",
+      "level": 4,
+      "order": 3,
+      "title": "加工状态",
+      "file": "中文/软件操作手册/NestPad/加工执行与监控/加工状态.md",
+      "draft": false
+    },
+    {
+      "id": "n0175",
+      "pairId": null,
+      "parentId": "n0166",
+      "level": 3,
+      "order": 2,
+      "title": "子模块与配件",
+      "file": "中文/软件操作手册/NestPad/子模块与配件.md",
+      "draft": false
+    },
+    {
+      "id": "n0176",
+      "pairId": null,
+      "parentId": "n0166",
+      "level": 3,
+      "order": 3,
+      "title": "手动操控与校准",
+      "file": "中文/软件操作手册/NestPad/手动操控与校准.md",
+      "draft": false
+    },
+    {
+      "id": "n0177",
+      "pairId": null,
+      "parentId": "n0176",
+      "level": 4,
+      "order": 0,
+      "title": "主轴运动面板",
+      "file": "中文/软件操作手册/NestPad/手动操控与校准/主轴运动面板.md",
+      "draft": false
+    },
+    {
+      "id": "n0178",
+      "pairId": null,
+      "parentId": "n0176",
+      "level": 4,
+      "order": 1,
+      "title": "坐标系设置",
+      "file": "中文/软件操作手册/NestPad/手动操控与校准/坐标系设置.md",
+      "draft": false
+    },
+    {
+      "id": "n0179",
+      "pairId": null,
+      "parentId": "n0176",
+      "level": 4,
+      "order": 2,
+      "title": "机械回零",
+      "file": "中文/软件操作手册/NestPad/手动操控与校准/机械回零.md",
+      "draft": false
+    },
+    {
+      "id": "n0180",
+      "pairId": null,
+      "parentId": "n0176",
+      "level": 4,
+      "order": 3,
+      "title": "运动参数设置",
+      "file": "中文/软件操作手册/NestPad/手动操控与校准/运动参数设置.md",
+      "draft": false
+    },
+    {
+      "id": "n0181",
+      "pairId": null,
+      "parentId": "n0166",
+      "level": 3,
+      "order": 4,
+      "title": "刀具管理",
+      "file": "中文/软件操作手册/NestPad/刀具管理.md",
+      "draft": false
+    },
+    {
+      "id": "n0182",
+      "pairId": null,
+      "parentId": "n0166",
+      "level": 3,
+      "order": 5,
+      "title": "基础设置",
+      "file": "中文/软件操作手册/NestPad/基础设置.md",
+      "draft": false
+    },
+    {
+      "id": "n0183",
+      "pairId": null,
+      "parentId": "n0182",
+      "level": 4,
+      "order": 0,
+      "title": "账号设置",
+      "file": "中文/软件操作手册/NestPad/基础设置/账号设置.md",
+      "draft": false
+    },
+    {
+      "id": "n0184",
+      "pairId": null,
+      "parentId": "n0182",
+      "level": 4,
+      "order": 1,
+      "title": "网络设置",
+      "file": "中文/软件操作手册/NestPad/基础设置/网络设置.md",
+      "draft": false
+    },
+    {
+      "id": "n0185",
+      "pairId": null,
+      "parentId": "n0182",
+      "level": 4,
+      "order": 2,
+      "title": "更新",
+      "file": "中文/软件操作手册/NestPad/基础设置/更新.md",
+      "draft": false
+    },
+    {
+      "id": "n0186",
+      "pairId": null,
+      "parentId": "n0182",
+      "level": 4,
+      "order": 3,
+      "title": "存储管理",
+      "file": "中文/软件操作手册/NestPad/基础设置/存储管理.md",
+      "draft": false
+    },
+    {
+      "id": "n0187",
+      "pairId": null,
+      "parentId": "n0182",
+      "level": 4,
+      "order": 4,
+      "title": "校准与工具",
+      "file": "中文/软件操作手册/NestPad/基础设置/校准与工具.md",
+      "draft": false
+    },
+    {
+      "id": "n0188",
+      "pairId": null,
+      "parentId": "n0182",
+      "level": 4,
+      "order": 5,
+      "title": "偏好设置",
+      "file": "中文/软件操作手册/NestPad/基础设置/偏好设置.md",
+      "draft": false
+    },
+    {
+      "id": "n0189",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 7,
+      "title": "首次加工",
+      "file": "中文/首次加工指南/首次加工.md",
+      "draft": false
+    },
+    {
+      "id": "n0190",
+      "pairId": null,
+      "parentId": "n0189",
+      "level": 2,
+      "order": 0,
+      "title": "创建新项目",
+      "file": "中文/首次加工指南/首次加工/创建新项目.md",
+      "draft": false
+    },
+    {
+      "id": "n0191",
+      "pairId": null,
+      "parentId": "n0189",
+      "level": 2,
+      "order": 1,
+      "title": "导入模型文件",
+      "file": "中文/首次加工指南/首次加工/导入模型文件.md",
+      "draft": false
+    },
+    {
+      "id": "n0192",
+      "pairId": null,
+      "parentId": "n0189",
+      "level": 2,
+      "order": 2,
+      "title": "设置加工参数",
+      "file": "中文/首次加工指南/首次加工/设置加工参数.md",
+      "draft": false
+    },
+    {
+      "id": "n0193",
+      "pairId": null,
+      "parentId": "n0189",
+      "level": 2,
+      "order": 3,
+      "title": "生成刀路",
+      "file": "中文/首次加工指南/首次加工/生成刀路.md",
+      "draft": false
+    },
+    {
+      "id": "n0194",
+      "pairId": null,
+      "parentId": "n0189",
+      "level": 2,
+      "order": 4,
+      "title": "加工文件预览",
+      "file": "中文/首次加工指南/首次加工/加工文件预览.md",
+      "draft": false
+    },
+    {
+      "id": "n0195",
+      "pairId": null,
+      "parentId": "n0189",
+      "level": 2,
+      "order": 5,
+      "title": "工件（毛坯）坐标设置",
+      "file": "中文/首次加工指南/首次加工/工件（毛坯）坐标设置.md",
+      "draft": false
+    },
+    {
+      "id": "n0196",
+      "pairId": null,
+      "parentId": "n0189",
+      "level": 2,
+      "order": 6,
+      "title": "在线监测",
+      "file": "中文/首次加工指南/首次加工/在线监测.md",
+      "draft": false
+    },
+    {
+      "id": "n0197",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 8,
+      "title": "设备操作",
+      "file": "中文/硬件操作手册/设备操作.md",
+      "draft": false
+    },
+    {
+      "id": "n0198",
+      "pairId": null,
+      "parentId": "n0197",
+      "level": 2,
+      "order": 0,
+      "title": "刀库",
+      "file": "中文/硬件操作手册/设备操作/刀库.md",
+      "draft": false
+    },
+    {
+      "id": "n0199",
+      "pairId": null,
+      "parentId": "n0198",
+      "level": 3,
+      "order": 0,
+      "title": "RFID 标签使用",
+      "file": "中文/硬件操作手册/设备操作/刀库/RFID 标签使用.md",
+      "draft": false
+    },
+    {
+      "id": "n0200",
+      "pairId": null,
+      "parentId": "n0199",
+      "level": 4,
+      "order": 0,
+      "title": "RFID 标签与刀具绑定",
+      "file": "中文/硬件操作手册/设备操作/刀库/RFID 标签使用/RFID 标签与刀具绑定.md",
+      "draft": false
+    },
+    {
+      "id": "n0201",
+      "pairId": null,
+      "parentId": "n0199",
+      "level": 4,
+      "order": 1,
+      "title": "刀具操作",
+      "file": "中文/硬件操作手册/设备操作/刀库/RFID 标签使用/刀具操作.md",
+      "draft": false
+    },
+    {
+      "id": "n0202",
+      "pairId": null,
+      "parentId": "n0198",
+      "level": 3,
+      "order": 1,
+      "title": "刀库位置调整",
+      "file": "中文/硬件操作手册/设备操作/刀库/刀库位置调整.md",
+      "draft": false
+    },
+    {
+      "id": "n0203",
+      "pairId": null,
+      "parentId": "n0202",
+      "level": 4,
+      "order": 0,
+      "title": "安装前准备",
+      "file": "中文/硬件操作手册/设备操作/刀库/刀库位置调整/安装前准备.md",
+      "draft": false
+    },
+    {
+      "id": "n0204",
+      "pairId": null,
+      "parentId": "n0197",
+      "level": 2,
+      "order": 1,
+      "title": "空压机使用",
+      "file": "中文/硬件操作手册/设备操作/空压机使用.md",
+      "draft": false
+    },
+    {
+      "id": "n0205",
+      "pairId": null,
+      "parentId": "n0204",
+      "level": 3,
+      "order": 0,
+      "title": "空压机连接",
+      "file": "中文/硬件操作手册/设备操作/空压机使用/空压机连接.md",
+      "draft": false
+    },
+    {
+      "id": "n0206",
+      "pairId": null,
+      "parentId": "n0204",
+      "level": 3,
+      "order": 1,
+      "title": "电源连接",
+      "file": "中文/硬件操作手册/设备操作/空压机使用/电源连接.md",
+      "draft": false
+    },
+    {
+      "id": "n0207",
+      "pairId": null,
+      "parentId": "n0204",
+      "level": 3,
+      "order": 2,
+      "title": "开机与关机",
+      "file": "中文/硬件操作手册/设备操作/空压机使用/开机与关机.md",
+      "draft": false
+    },
+    {
+      "id": "n0208",
+      "pairId": null,
+      "parentId": "n0204",
+      "level": 3,
+      "order": 3,
+      "title": "压力调节",
+      "file": "中文/硬件操作手册/设备操作/空压机使用/压力调节.md",
+      "draft": false
+    },
+    {
+      "id": "n0209",
+      "pairId": null,
+      "parentId": "n0197",
+      "level": 2,
+      "order": 2,
+      "title": "水箱和喷淋使用",
+      "file": "中文/硬件操作手册/设备操作/水箱和喷淋使用.md",
+      "draft": false
+    },
+    {
+      "id": "n0210",
+      "pairId": null,
+      "parentId": "n0209",
+      "level": 3,
+      "order": 0,
+      "title": "组件说明",
+      "file": "中文/硬件操作手册/设备操作/水箱和喷淋使用/组件说明.md",
+      "draft": false
+    },
+    {
+      "id": "n0211",
+      "pairId": null,
+      "parentId": "n0209",
+      "level": 3,
+      "order": 1,
+      "title": "水箱安装与加液",
+      "file": "中文/硬件操作手册/设备操作/水箱和喷淋使用/水箱安装与加液.md",
+      "draft": false
+    },
+    {
+      "id": "n0212",
+      "pairId": null,
+      "parentId": "n0209",
+      "level": 3,
+      "order": 2,
+      "title": "水路连接",
+      "file": "中文/硬件操作手册/设备操作/水箱和喷淋使用/水路连接.md",
+      "draft": false
+    },
+    {
+      "id": "n0213",
+      "pairId": null,
+      "parentId": "n0209",
+      "level": 3,
+      "order": 3,
+      "title": "喷淋设置与调节",
+      "file": "中文/硬件操作手册/设备操作/水箱和喷淋使用/喷淋设置与调节.md",
+      "draft": false
+    },
+    {
+      "id": "n0214",
+      "pairId": null,
+      "parentId": "n0209",
+      "level": 3,
+      "order": 4,
+      "title": "排水与维护",
+      "file": "中文/硬件操作手册/设备操作/水箱和喷淋使用/排水与维护.md",
+      "draft": false
+    },
+    {
+      "id": "n0215",
+      "pairId": null,
+      "parentId": "n0197",
+      "level": 2,
+      "order": 3,
+      "title": "第四轴（选配）",
+      "file": "中文/选配件/设备操作/第四轴（选配）.md",
+      "draft": false
+    },
+    {
+      "id": "n0216",
+      "pairId": null,
+      "parentId": "n0215",
+      "level": 3,
+      "order": 0,
+      "title": "第四轴安装",
+      "file": "中文/选配件/设备操作/第四轴（选配）/第四轴安装.md",
+      "draft": false
+    },
+    {
+      "id": "n0217",
+      "pairId": null,
+      "parentId": "n0216",
+      "level": 4,
+      "order": 0,
+      "title": "安装前准备",
+      "file": "中文/选配件/设备操作/第四轴（选配）/第四轴安装/安装前准备.md",
+      "draft": false
+    },
+    {
+      "id": "n0218",
+      "pairId": null,
+      "parentId": "n0216",
+      "level": 4,
+      "order": 1,
+      "title": "安装步骤",
+      "file": "中文/选配件/设备操作/第四轴（选配）/第四轴安装/安装步骤.md",
+      "draft": false
+    },
+    {
+      "id": "n0219",
+      "pairId": null,
+      "parentId": "n0216",
+      "level": 4,
+      "order": 2,
+      "title": "安装后调试",
+      "file": "中文/选配件/设备操作/第四轴（选配）/第四轴安装/安装后调试.md",
+      "draft": false
+    },
+    {
+      "id": "n0220",
+      "pairId": null,
+      "parentId": "n0215",
+      "level": 3,
+      "order": 1,
+      "title": "工件装夹",
+      "file": "中文/选配件/设备操作/第四轴（选配）/工件装夹.md",
+      "draft": false
+    },
+    {
+      "id": "n0221",
+      "pairId": null,
+      "parentId": "n0215",
+      "level": 3,
+      "order": 3,
+      "title": "PC 端操作",
+      "file": "中文/选配件/设备操作/第四轴（选配）/PC 端操作.md",
+      "draft": false
+    },
+    {
+      "id": "n0222",
+      "pairId": null,
+      "parentId": "n0221",
+      "level": 4,
+      "order": 0,
+      "title": "毛坯尺寸",
+      "file": "中文/选配件/设备操作/第四轴（选配）/PC 端操作/毛坯尺寸.md",
+      "draft": false
+    },
+    {
+      "id": "n0223",
+      "pairId": null,
+      "parentId": "n0221",
+      "level": 4,
+      "order": 1,
+      "title": "毛坯与模型对齐方式",
+      "file": "中文/选配件/设备操作/第四轴（选配）/PC 端操作/毛坯与模型对齐方式.md",
+      "draft": false
+    },
+    {
+      "id": "n0224",
+      "pairId": null,
+      "parentId": "n0221",
+      "level": 4,
+      "order": 2,
+      "title": "刀具参数",
+      "file": "中文/选配件/设备操作/第四轴（选配）/PC 端操作/刀具参数.md",
+      "draft": false
+    },
+    {
+      "id": "n0225",
+      "pairId": null,
+      "parentId": "n0221",
+      "level": 4,
+      "order": 3,
+      "title": "NestPad 操作",
+      "file": "中文/选配件/设备操作/第四轴（选配）/PC 端操作/NestPad 操作.md",
+      "draft": false
+    },
+    {
+      "id": "n0226",
+      "pairId": null,
+      "parentId": "n0215",
+      "level": 3,
+      "order": 4,
+      "title": "保养维护",
+      "file": "中文/选配件/设备操作/第四轴（选配）/保养维护.md",
+      "draft": false
+    },
+    {
+      "id": "n0227",
+      "pairId": null,
+      "parentId": "n0197",
+      "level": 2,
+      "order": 4,
+      "title": "虎钳（选配）",
+      "file": "中文/选配件/设备操作/虎钳（选配）.md",
+      "draft": false
+    },
+    {
+      "id": "n0228",
+      "pairId": null,
+      "parentId": "n0227",
+      "level": 3,
+      "order": 0,
+      "title": "虎钳安装",
+      "file": "中文/选配件/设备操作/虎钳（选配）/虎钳安装.md",
+      "draft": false
+    },
+    {
+      "id": "n0229",
+      "pairId": null,
+      "parentId": "n0228",
+      "level": 4,
+      "order": 0,
+      "title": "安装前准备",
+      "file": "中文/选配件/设备操作/虎钳（选配）/虎钳安装/安装前准备.md",
+      "draft": false
+    },
+    {
+      "id": "n0230",
+      "pairId": null,
+      "parentId": "n0228",
+      "level": 4,
+      "order": 1,
+      "title": "安装步骤",
+      "file": "中文/选配件/设备操作/虎钳（选配）/虎钳安装/安装步骤.md",
+      "draft": false
+    },
+    {
+      "id": "n0231",
+      "pairId": null,
+      "parentId": "n0228",
+      "level": 4,
+      "order": 2,
+      "title": "调试",
+      "file": "中文/选配件/设备操作/虎钳（选配）/虎钳安装/调试.md",
+      "draft": false
+    },
+    {
+      "id": "n0232",
+      "pairId": null,
+      "parentId": "n0227",
+      "level": 3,
+      "order": 1,
+      "title": "保养维护",
+      "file": "中文/选配件/设备操作/虎钳（选配）/保养维护.md",
+      "draft": false
+    },
+    {
+      "id": "n0233",
+      "pairId": null,
+      "parentId": "n0227",
+      "level": 3,
+      "order": 2,
+      "title": "工件装夹",
+      "file": "中文/选配件/设备操作/虎钳（选配）/工件装夹.md",
+      "draft": false
+    },
+    {
+      "id": "n0234",
+      "pairId": null,
+      "parentId": "n0227",
+      "level": 3,
+      "order": 3,
+      "title": "PC 端操作",
+      "file": "中文/选配件/设备操作/虎钳（选配）/PC 端操作.md",
+      "draft": false
+    },
+    {
+      "id": "n0235",
+      "pairId": null,
+      "parentId": "n0234",
+      "level": 4,
+      "order": 0,
+      "title": "虎钳控制",
+      "file": "中文/选配件/设备操作/虎钳（选配）/PC 端操作/虎钳控制.md",
+      "draft": false
+    },
+    {
+      "id": "n0236",
+      "pairId": null,
+      "parentId": "n0234",
+      "level": 4,
+      "order": 1,
+      "title": "浮雕圆柱工件夹持",
+      "file": "中文/选配件/设备操作/虎钳（选配）/PC 端操作/浮雕圆柱工件夹持.md",
+      "draft": false
+    },
+    {
+      "id": "n0237",
+      "pairId": null,
+      "parentId": "n0227",
+      "level": 3,
+      "order": 4,
+      "title": "NestPad 端操作",
+      "file": "中文/选配件/设备操作/虎钳（选配）/NestPad 端操作.md",
+      "draft": false
+    },
+    {
+      "id": "n0238",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 9,
+      "title": "技术参数",
+      "file": "中文/硬件操作手册/技术参数.md",
+      "draft": false
+    },
+    {
+      "id": "n0239",
+      "pairId": null,
+      "parentId": "n0238",
+      "level": 2,
+      "order": 0,
+      "title": "设备参数",
+      "file": "中文/硬件操作手册/技术参数/设备参数.md",
+      "draft": false
+    },
+    {
+      "id": "n0240",
+      "pairId": null,
+      "parentId": "n0238",
+      "level": 2,
+      "order": 1,
+      "title": "轴参数",
+      "file": "中文/硬件操作手册/技术参数/轴参数.md",
+      "draft": false
+    },
+    {
+      "id": "n0241",
+      "pairId": null,
+      "parentId": "n0238",
+      "level": 2,
+      "order": 2,
+      "title": "电源参数",
+      "file": "中文/硬件操作手册/技术参数/电源参数.md",
+      "draft": false
+    },
+    {
+      "id": "n0242",
+      "pairId": null,
+      "parentId": "n0238",
+      "level": 2,
+      "order": 3,
+      "title": "加工尺寸",
+      "file": "中文/硬件操作手册/技术参数/加工尺寸.md",
+      "draft": false
+    },
+    {
+      "id": "n0243",
+      "pairId": null,
+      "parentId": "n0242",
+      "level": 3,
+      "order": 0,
+      "title": "三轴加工尺寸",
+      "file": "中文/硬件操作手册/技术参数/加工尺寸/三轴加工尺寸.md",
+      "draft": false
+    },
+    {
+      "id": "n0244",
+      "pairId": null,
+      "parentId": "n0242",
+      "level": 3,
+      "order": 1,
+      "title": "第四轴加工尺寸",
+      "file": "中文/选配件/技术参数/加工尺寸/第四轴加工尺寸.md",
+      "draft": false
+    },
+    {
+      "id": "n0245",
+      "pairId": null,
+      "parentId": "n0242",
+      "level": 3,
+      "order": 2,
+      "title": "第四轴最大可加工直径",
+      "file": "中文/选配件/技术参数/加工尺寸/第四轴最大可加工直径.md",
+      "draft": false
+    },
+    {
+      "id": "new-c7ad9cd3bf364fc4bed01bdb128770f9",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 6,
+      "title": "探针安全探测区域",
+      "file": "中文/硬件操作手册/安全/探针安全探测区域.md",
+      "draft": false
+    },
+    {
+      "id": "auto-4314a1c11e6143ec85d3e5b597e98ba0",
+      "pairId": null,
+      "parentId": "new-c7ad9cd3bf364fc4bed01bdb128770f9",
+      "level": 3,
+      "order": 0,
+      "title": "刀库右置",
+      "file": "中文/硬件操作手册/安全/探针安全探测区域/刀库右置.md",
+      "draft": false
+    },
+    {
+      "id": "new-abb7d8c689734233be351809ac09178a",
+      "pairId": null,
+      "parentId": "new-c7ad9cd3bf364fc4bed01bdb128770f9",
+      "level": 3,
+      "order": 1,
+      "title": "刀库后置",
+      "file": "中文/硬件操作手册/安全/探针安全探测区域/刀库后置.md",
+      "draft": false
+    },
+    {
+      "id": "new-f2061c4bd20140a38716f6ee26127437",
+      "pairId": null,
+      "parentId": "n0101",
+      "level": 4,
+      "order": 0,
+      "title": "Windows 软件下载",
+      "file": "中文/软件操作手册/软件安装/NestStudio/Windows 下载与安装/Windows 软件下载.md",
+      "draft": false
+    },
+    {
+      "id": "new-93c9757b8c4a46dda8135ce7ef46c182",
+      "pairId": null,
+      "parentId": "n0098",
+      "level": 3,
+      "order": 3,
+      "title": "macOS 下载与安装",
+      "file": "中文/软件操作手册/软件安装/NestStudio/macOS 下载与安装.md",
+      "draft": true
+    },
+    {
+      "id": "new-b5d913617d7b4709a6e66c3b61c49500",
+      "pairId": null,
+      "parentId": "new-93c9757b8c4a46dda8135ce7ef46c182",
+      "level": 4,
+      "order": 0,
+      "title": "macOS 软件下载",
+      "file": "中文/软件操作手册/软件安装/NestStudio/macOS 下载与安装/macOS 软件下载.md",
+      "draft": false
+    },
+    {
+      "id": "new-6eabae9db44046f0958c10964a834c34",
+      "pairId": null,
+      "parentId": "n0215",
+      "level": 3,
+      "order": 2,
+      "title": "卡盘正反爪更换",
+      "file": "中文/选配件/设备操作/第四轴（选配）/卡盘正反爪更换.md",
+      "draft": false
+    },
+    {
+      "id": "new-1a0fe096563d42e6b8a4ad8294983c6b",
+      "pairId": "pair-e5664f26de5b4119904e75a0dd015797",
+      "parentId": "n0094",
+      "level": 4,
+      "order": 2,
+      "title": "排渣管道安装",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/排屑螺杆安装/排渣管道安装.md",
+      "draft": false
+    },
+    {
+      "id": "new-a5e967e63e99438b9b57a3129a5ec73d",
+      "pairId": "pair-58cb81697bcf4464991bb627caf9d1cc",
+      "parentId": "new-c7ad9cd3bf364fc4bed01bdb128770f9",
+      "level": 3,
+      "order": 2,
+      "title": "配置浅口虎钳",
+      "file": "中文/硬件操作手册/安全/探针安全探测区域/配置浅口虎钳.md",
+      "draft": false
+    },
+    {
+      "id": "new-6a8451c1b8ba4855bde8024faf879a75",
+      "pairId": "pair-91f6247aba7542f1915d25940116cdf2",
+      "parentId": "n0048",
+      "level": 4,
+      "order": 1,
+      "title": "拆除内部运输防护材料",
+      "file": "中文/硬件操作手册/运输与部署/开箱/拆除内部运输固定与防护/拆除内部运输防护材料.md",
+      "draft": false
+    },
+    {
+      "id": "new-3c643016793249c28153eb85b77a8453",
+      "pairId": "pair-a800172aeba84a1d945c9d8f704224b8",
+      "parentId": "n0041",
+      "level": 3,
+      "order": 2,
+      "title": "拆除运输防护",
+      "file": "中文/硬件操作手册/运输与部署/开箱/拆除运输防护.md",
+      "draft": false
+    },
+    {
+      "id": "auto-5acad8ba3fa847f1bd4a7ec7c4035318",
+      "pairId": null,
+      "parentId": "n0202",
+      "level": 4,
+      "order": 1,
+      "title": "拆卸原刀库",
+      "file": "中文/硬件操作手册/设备操作/刀库/刀库位置调整/拆卸原刀库.md",
+      "draft": false
+    },
+    {
+      "id": "auto-7b3ff66ca56249179bbe1fb3d1b6bf12",
+      "pairId": null,
+      "parentId": "n0202",
+      "level": 4,
+      "order": 2,
+      "title": "右侧切换至右后侧安装",
+      "file": "中文/硬件操作手册/设备操作/刀库/刀库位置调整/右侧切换至右后侧安装.md",
+      "draft": false
+    },
+    {
+      "id": "auto-b209966544364662b1e9a5c0ae69f9f1",
+      "pairId": null,
+      "parentId": "n0202",
+      "level": 4,
+      "order": 3,
+      "title": "右后侧切换至右侧安装",
+      "file": "中文/硬件操作手册/设备操作/刀库/刀库位置调整/右后侧切换至右侧安装.md",
+      "draft": false
+    }
+  ]
+}

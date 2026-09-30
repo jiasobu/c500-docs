@@ -13,7 +13,7 @@
       "level": 1,
       "order": 0,
       "title": "Preface",
-      "file": "1 preface&overview.md",
+      "file": "English/Shared Content/Preface.md",
       "draft": false
     },
     {
@@ -23,7 +23,7 @@
       "level": 2,
       "order": 1,
       "title": "Revisions",
-      "file": "1 preface&overview__003-Revisions.md",
+      "file": "English/Shared Content/Preface/Revisions.md",
       "draft": false
     },
     {
@@ -33,7 +33,7 @@
       "level": 2,
       "order": 3,
       "title": "About This Guide",
-      "file": "book-specific/first-machining-about.md",
+      "file": "English/First Machining Guide/Preface/About This Guide.md",
       "draft": false
     },
     {
@@ -43,7 +43,7 @@
       "level": 1,
       "order": 1,
       "title": "Initial Operation",
-      "file": "7 Initial Operation.md",
+      "file": "English/First Machining Guide/Initial Operation.md",
       "draft": false
     },
     {
@@ -53,7 +53,7 @@
       "level": 2,
       "order": 0,
       "title": "Creating a New Project",
-      "file": "7 Initial Operation__002-Creating a New Project.md",
+      "file": "English/First Machining Guide/Initial Operation/Creating a New Project.md",
       "draft": false
     },
     {
@@ -63,7 +63,7 @@
       "level": 2,
       "order": 1,
       "title": "Importing Model Files",
-      "file": "7 Initial Operation__003-Importing Model Files.md",
+      "file": "English/First Machining Guide/Initial Operation/Importing Model Files.md",
       "draft": false
     },
     {
@@ -73,7 +73,7 @@
       "level": 2,
       "order": 2,
       "title": "Configuring Machining Parameters",
-      "file": "7 Initial Operation__004-Configuring Machining Parameters.md",
+      "file": "English/First Machining Guide/Initial Operation/Configuring Machining Parameters.md",
       "draft": false
     },
     {
@@ -83,7 +83,7 @@
       "level": 2,
       "order": 3,
       "title": "Generating Toolpaths",
-      "file": "7 Initial Operation__005-Generating Toolpaths.md",
+      "file": "English/First Machining Guide/Initial Operation/Generating Toolpaths.md",
       "draft": false
     },
     {
@@ -93,7 +93,7 @@
       "level": 2,
       "order": 4,
       "title": "Toolpath Preview",
-      "file": "7 Initial Operation__006-Toolpath Preview.md",
+      "file": "English/First Machining Guide/Initial Operation/Toolpath Preview.md",
       "draft": false
     },
     {
@@ -103,7 +103,7 @@
       "level": 2,
       "order": 5,
       "title": "Workpiece Coordinate System Setup",
-      "file": "7 Initial Operation__007-Workpiece Coordinate System Setup.md",
+      "file": "English/First Machining Guide/Initial Operation/Workpiece Coordinate System Setup.md",
       "draft": false
     },
     {
@@ -113,7 +113,7 @@
       "level": 2,
       "order": 6,
       "title": "Real-Time Monitoring",
-      "file": "7 Initial Operation__008-Real-Time Monitoring.md",
+      "file": "English/First Machining Guide/Initial Operation/Real-Time Monitoring.md",
       "draft": false
     }
   ]

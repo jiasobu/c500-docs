@@ -22,27 +22,30 @@ def convert(source,target):
 
 count=0; records=[]; folders={}
 for lang in ('zh','en'):
-    sources=[('full',ROOT/'library'/lang/'.publication-order.json')]
-    sources.extend((p.stem,p) for p in sorted((ROOT/'publications'/lang).glob('*.json')))
+    sources=[(p.stem,p) for p in sorted((ROOT/'publications'/lang).glob('*.json'))]
     for name,config_path in sources:
         cfg=json.loads(text(config_path)); target=ROOT/'_build'/lang/name
         folders[(lang,name)]=str(target)
         for node in cfg['nodes']:
             if not node.get('file'): continue
-            source=ROOT/'library'/lang/node['file']
+            source=(ROOT/node['file']).resolve()
             if not source.is_file(): raise ValueError('Missing chapter: '+str(source))
-            dest=target/node['file']
+            if not source.is_relative_to(ROOT): raise ValueError('Chapter outside library')
+            source_file=node['file']
+            generated_file='content/'+node['id']+'.md'
+            dest=target/generated_file
             write(dest,convert(source,dest))
-            records.append({'workspace':lang+'/'+name,'node':node['id'],'file':node['file'],'source_sha256':hashlib.sha256(source.read_bytes()).hexdigest()})
+            records.append({'workspace':lang+'/'+name,'node':node['id'],'file':source_file,'source_sha256':hashlib.sha256(source.read_bytes()).hexdigest()})
+            node['file']=generated_file
             count+=1
-        cfg['sourceFile']=str(ROOT/'library'/lang)
+        cfg['sourceFile']=str(ROOT)
         write(target/'.publication-order.json',json.dumps(cfg,ensure_ascii=False,indent=2)+'\n')
 wiki=json.loads(text(ROOT/'wiki'/'wiki-map.json'))
 for page in wiki['pages']:
     for lang in ('zh','en'):
         item=page.get(lang,{})
         if item.get('workbenchNodeId'):
-            cfg=json.loads(text(ROOT/'library'/lang/'.publication-order.json'))
+            cfg=json.loads(text(ROOT/'publications'/lang/'full.json'))
             if item['workbenchNodeId'] not in {n['id'] for n in cfg['nodes']}:
                 raise ValueError('Unknown Wiki node: '+item['workbenchNodeId'])
 write(ROOT/'wiki'/'workbench-link.json',json.dumps({lang:folders[(lang,'full')] for lang in ('zh','en')},ensure_ascii=False,indent=2))
