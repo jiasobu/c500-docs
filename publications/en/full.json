@@ -333,7 +333,7 @@
       "level": 2,
       "order": 5,
       "title": "Laser Requirements",
-      "file": "English/Accessories/03 Safety/06 Laser Requirements/README.md",
+      "file": "English/Shared Content/03 Safety/06 Laser Requirements/README.md",
       "draft": false
     },
     {
@@ -613,7 +613,7 @@
       "level": 2,
       "order": 1,
       "title": "Configuration List",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/README.md",
       "draft": false
     },
     {
@@ -623,7 +623,7 @@
       "level": 3,
       "order": 0,
       "title": "Main Unit",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/01 Main Unit/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/01 Main Unit/README.md",
       "draft": false
     },
     {
@@ -633,7 +633,7 @@
       "level": 3,
       "order": 1,
       "title": "Standard Accessories Box",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/02 Standard Accessories Box/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/02 Standard Accessories Box/README.md",
       "draft": false
     },
     {
@@ -643,7 +643,7 @@
       "level": 3,
       "order": 2,
       "title": "Chip-Discharge Kit",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/03 Chip-Discharge Kit/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/03 Chip-Discharge Kit/README.md",
       "draft": false
     },
     {
@@ -653,7 +653,7 @@
       "level": 3,
       "order": 3,
       "title": "Maintenance Kit",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/04 Maintenance Kit/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/04 Maintenance Kit/README.md",
       "draft": false
     },
     {
@@ -663,7 +663,7 @@
       "level": 3,
       "order": 4,
       "title": "Basic Tool Kit",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/05 Basic Tool Kit/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/05 Basic Tool Kit/README.md",
       "draft": false
     },
     {
@@ -673,7 +673,7 @@
       "level": 3,
       "order": 5,
       "title": "Metric Standard Cutting-Tool Set and Accessories (Optional)",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/06 Metric Standard Cutting-Tool Set and Accessories (Optional)/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/06 Metric Standard Cutting-Tool Set and Accessories (Optional)/README.md",
       "draft": false
     },
     {
@@ -683,7 +683,7 @@
       "level": 3,
       "order": 6,
       "title": "Imperial Standard Cutting-Tool Set and Accessories (Optional)",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/07 Imperial Standard Cutting-Tool Set and Accessories (Optional)/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/07 Imperial Standard Cutting-Tool Set and Accessories (Optional)/README.md",
       "draft": false
     },
     {
@@ -693,7 +693,7 @@
       "level": 3,
       "order": 7,
       "title": "Raw-Material Sample Pack",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/08 Raw-Material Sample Pack/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/08 Raw-Material Sample Pack/README.md",
       "draft": false
     },
     {
@@ -703,7 +703,7 @@
       "level": 3,
       "order": 8,
       "title": "Starter Kit",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/09 Starter Kit/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/09 Starter Kit/README.md",
       "draft": false
     },
     {
@@ -713,7 +713,7 @@
       "level": 3,
       "order": 9,
       "title": "Dust Shoe",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/10 Dust Shoe/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/10 Dust Shoe/README.md",
       "draft": false
     },
     {
@@ -723,7 +723,7 @@
       "level": 3,
       "order": 10,
       "title": "4th-Axis",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/11 4th-Axis/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/11 4th-Axis/README.md",
       "draft": false
     },
     {
@@ -733,7 +733,7 @@
       "level": 3,
       "order": 11,
       "title": "MPG Handwheel",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/12 MPG Handwheel/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/12 MPG Handwheel/README.md",
       "draft": false
     },
     {
@@ -743,7 +743,7 @@
       "level": 3,
       "order": 12,
       "title": "Electric Vise",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/13 Electric Vise/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/13 Electric Vise/README.md",
       "draft": false
     },
     {
@@ -753,7 +753,7 @@
       "level": 3,
       "order": 13,
       "title": "Laser Module",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/14 Laser Module/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/14 Laser Module/README.md",
       "draft": false
     },
     {
@@ -763,7 +763,7 @@
       "level": 3,
       "order": 14,
       "title": "Metal Cutting-Tool Set",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/15 Metal Cutting-Tool Set/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/15 Metal Cutting-Tool Set/README.md",
       "draft": false
     },
     {
@@ -773,7 +773,7 @@
       "level": 3,
       "order": 15,
       "title": "Wood Cutting-Tool Set",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/16 Wood Cutting-Tool Set/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/16 Wood Cutting-Tool Set/README.md",
       "draft": false
     },
     {
@@ -783,7 +783,7 @@
       "level": 3,
       "order": 16,
       "title": "Plastic Cutting-Tool Set",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/17 Plastic Cutting-Tool Set/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/17 Plastic Cutting-Tool Set/README.md",
       "draft": false
     },
     {
@@ -793,7 +793,7 @@
       "level": 3,
       "order": 17,
       "title": "Other Items",
-      "file": "English/Accessories/05 Installation and Connection/02 Configuration List/18 Other Items/README.md",
+      "file": "English/Shared Content/05 Installation and Connection/02 Configuration List/18 Other Items/README.md",
       "draft": false
     },
     {
