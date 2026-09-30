@@ -1,0 +1,12 @@
+### 配置浅口虎钳
+
+
+安装浅口虎钳时，探针安全探测区域为 150 × 200 × 116 mm，具体范围如下图所示。
+
+
+![](../../../../../assets/LowProfile_Vise-4e8eba2b59d8.png){width=10cm}
+
+<!-- mdwb:figure id=47dcf68e04cb0f7d -->
+图 2-3 配置浅口虎钳
+<!-- /mdwb:figure -->
+
