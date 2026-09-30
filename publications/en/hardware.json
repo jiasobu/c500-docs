@@ -1,0 +1,1100 @@
+{
+  "version": "title-tree-mvp-v1",
+  "projectName": "C500 Machine Operation Manual",
+  "sourceFile": ".",
+  "sourceCopy": null,
+  "sourceHash": "",
+  "preambleFile": null,
+  "nodes": [
+    {
+      "id": "n0001",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 0,
+      "title": "Preface",
+      "file": "1 preface&overview.md",
+      "draft": false
+    },
+    {
+      "id": "n0003",
+      "pairId": null,
+      "parentId": "n0001",
+      "level": 2,
+      "order": 1,
+      "title": "Revisions",
+      "file": "1 preface&overview__003-Revisions.md",
+      "draft": false
+    },
+    {
+      "id": "n0005",
+      "pairId": null,
+      "parentId": "n0001",
+      "level": 2,
+      "order": 3,
+      "title": "About This Manual",
+      "file": "book-specific/hardware-about.md",
+      "draft": false
+    },
+    {
+      "id": "n0006",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 1,
+      "title": "Overview",
+      "file": "1 preface&overview__006-Overview.md",
+      "draft": false
+    },
+    {
+      "id": "n0007",
+      "pairId": null,
+      "parentId": "n0006",
+      "level": 2,
+      "order": 0,
+      "title": "Intended Users",
+      "file": "1 preface&overview__007-Intended Users.md",
+      "draft": false
+    },
+    {
+      "id": "n0008",
+      "pairId": null,
+      "parentId": "n0006",
+      "level": 2,
+      "order": 1,
+      "title": "Intended Use",
+      "file": "1 preface&overview__008-Intended Use.md",
+      "draft": false
+    },
+    {
+      "id": "n0009",
+      "pairId": null,
+      "parentId": "n0006",
+      "level": 2,
+      "order": 2,
+      "title": "Usage Restrictions",
+      "file": "1 preface&overview__009-Usage Restrictions.md",
+      "draft": false
+    },
+    {
+      "id": "n0010",
+      "pairId": null,
+      "parentId": "n0009",
+      "level": 3,
+      "order": 0,
+      "title": "Environmental usage restrictions",
+      "file": "1 preface&overview__010-Environmental usage restrictions.md",
+      "draft": false
+    },
+    {
+      "id": "n0011",
+      "pairId": null,
+      "parentId": "n0009",
+      "level": 3,
+      "order": 1,
+      "title": "Material and Consumable Restrictions",
+      "file": "1 preface&overview__011-Material and Consumable Restrictions.md",
+      "draft": false
+    },
+    {
+      "id": "n0012",
+      "pairId": null,
+      "parentId": "n0009",
+      "level": 3,
+      "order": 2,
+      "title": "Coolant Use Restrictions",
+      "file": "1 preface&overview__012-Coolant Use Restrictions.md",
+      "draft": false
+    },
+    {
+      "id": "n0013",
+      "pairId": null,
+      "parentId": "n0009",
+      "level": 3,
+      "order": 3,
+      "title": "Safety operation restrictions",
+      "file": "1 preface&overview__013-Safety operation restrictions.md",
+      "draft": false
+    },
+    {
+      "id": "n0014",
+      "pairId": null,
+      "parentId": "n0009",
+      "level": 3,
+      "order": 4,
+      "title": "Modification and parameter restrictions",
+      "file": "1 preface&overview__014-Modification and parameter restrictions.md",
+      "draft": false
+    },
+    {
+      "id": "n0015",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 7,
+      "title": "Appendix",
+      "file": "10 Appendix.md",
+      "draft": false
+    },
+    {
+      "id": "n0016",
+      "pairId": null,
+      "parentId": "n0015",
+      "level": 2,
+      "order": 0,
+      "title": "Glossary",
+      "file": "10 Appendix__002-Glossary.md",
+      "draft": false
+    },
+    {
+      "id": "n0017",
+      "pairId": null,
+      "parentId": "n0015",
+      "level": 2,
+      "order": 1,
+      "title": "Resources and Support",
+      "file": "10 Appendix__003-Resources and Support.md",
+      "draft": false
+    },
+    {
+      "id": "n0018",
+      "pairId": null,
+      "parentId": "n0017",
+      "level": 3,
+      "order": 0,
+      "title": "Community and Academy Access",
+      "file": "10 Appendix__004-Community and Academy Access.md",
+      "draft": false
+    },
+    {
+      "id": "n0019",
+      "pairId": null,
+      "parentId": "n0017",
+      "level": 3,
+      "order": 1,
+      "title": "Access on PC",
+      "file": "10 Appendix__005-Access on PC.md",
+      "draft": false
+    },
+    {
+      "id": "n0020",
+      "pairId": null,
+      "parentId": "n0019",
+      "level": 4,
+      "order": 0,
+      "title": "User Community",
+      "file": "10 Appendix__006-User Community.md",
+      "draft": false
+    },
+    {
+      "id": "n0021",
+      "pairId": null,
+      "parentId": "n0019",
+      "level": 4,
+      "order": 1,
+      "title": "Academy",
+      "file": "10 Appendix__007-Academy.md",
+      "draft": false
+    },
+    {
+      "id": "n0022",
+      "pairId": null,
+      "parentId": "n0015",
+      "level": 2,
+      "order": 2,
+      "title": "Warranty",
+      "file": "10 Appendix__008-Warranty.md",
+      "draft": false
+    },
+    {
+      "id": "n0023",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 2,
+      "title": "Safety",
+      "file": "2 Safety.md",
+      "draft": false
+    },
+    {
+      "id": "n0024",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 0,
+      "title": "General Safety Guidelines",
+      "file": "2 Safety__002-General Safety Guidelines.md",
+      "draft": false
+    },
+    {
+      "id": "n0025",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 1,
+      "title": "Safety Sign Definitions",
+      "file": "2 Safety__003-Safety Sign Definitions.md",
+      "draft": false
+    },
+    {
+      "id": "n0026",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 2,
+      "title": "Safety Symbols and Labels",
+      "file": "2 Safety__004-Safety Symbols and Labels.md",
+      "draft": false
+    },
+    {
+      "id": "n0027",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 3,
+      "title": "General Safety Requirements",
+      "file": "2 Safety__005-General Safety Requirements.md",
+      "draft": false
+    },
+    {
+      "id": "n0028",
+      "pairId": null,
+      "parentId": "n0027",
+      "level": 3,
+      "order": 0,
+      "title": "Personnel Requirements",
+      "file": "2 Safety__006-Personnel Requirements.md",
+      "draft": false
+    },
+    {
+      "id": "n0029",
+      "pairId": null,
+      "parentId": "n0027",
+      "level": 3,
+      "order": 1,
+      "title": "Location Requirements",
+      "file": "2 Safety__007-Location Requirements.md",
+      "draft": false
+    },
+    {
+      "id": "n0030",
+      "pairId": null,
+      "parentId": "n0027",
+      "level": 3,
+      "order": 2,
+      "title": "Machine Safety",
+      "file": "2 Safety__008-Equipment Safety.md",
+      "draft": false
+    },
+    {
+      "id": "n0031",
+      "pairId": null,
+      "parentId": "n0027",
+      "level": 3,
+      "order": 3,
+      "title": "Emergency and Fire Safety",
+      "file": "2 Safety__009-Emergency and Fire Safety.md",
+      "draft": false
+    },
+    {
+      "id": "n0032",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 4,
+      "title": "Electrical Requirements",
+      "file": "2 Safety__010-Electrical Requirements.md",
+      "draft": false
+    },
+    {
+      "id": "n0034",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 7,
+      "title": "E-Stop Device",
+      "file": "2 Safety__012-Emergency Stop Device.md",
+      "draft": false
+    },
+    {
+      "id": "n0035",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 8,
+      "title": "Door Status Detection Device",
+      "file": "2 Safety__013-Door Status Detection Device.md",
+      "draft": false
+    },
+    {
+      "id": "n0036",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 9,
+      "title": "Declaration of Conformity",
+      "file": "2 Safety__014-Declaration of Conformity.md",
+      "draft": false
+    },
+    {
+      "id": "n0037",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 3,
+      "title": "Transport and Deployment",
+      "file": "3 Transport and Deployment.md",
+      "draft": false
+    },
+    {
+      "id": "n0038",
+      "pairId": null,
+      "parentId": "n0037",
+      "level": 2,
+      "order": 0,
+      "title": "Handling",
+      "file": "3 Transport and Deployment__002-Handling.md",
+      "draft": false
+    },
+    {
+      "id": "n0039",
+      "pairId": null,
+      "parentId": "n0038",
+      "level": 3,
+      "order": 0,
+      "title": "Handling Safety Requirements",
+      "file": "3 Transport and Deployment__003-Handling Safety Requirements.md",
+      "draft": false
+    },
+    {
+      "id": "n0040",
+      "pairId": null,
+      "parentId": "n0038",
+      "level": 3,
+      "order": 1,
+      "title": "Handling Tool Requirements",
+      "file": "3 Transport and Deployment__004-Handling Tool Requirements.md",
+      "draft": false
+    },
+    {
+      "id": "n0041",
+      "pairId": null,
+      "parentId": "n0037",
+      "level": 2,
+      "order": 1,
+      "title": "Unpacking",
+      "file": "3 Transport and Deployment__005-Unpacking.md",
+      "draft": false
+    },
+    {
+      "id": "n0042",
+      "pairId": null,
+      "parentId": "n0041",
+      "level": 3,
+      "order": 0,
+      "title": "Checking Packaging Status",
+      "file": "3 Transport and Deployment__006-Checking Packaging Status.md",
+      "draft": false
+    },
+    {
+      "id": "n0043",
+      "pairId": null,
+      "parentId": "n0042",
+      "level": 4,
+      "order": 0,
+      "title": "Outer Packaging Inspection",
+      "file": "3 Transport and Deployment__007-Outer Packaging Inspection.md",
+      "draft": false
+    },
+    {
+      "id": "n0044",
+      "pairId": null,
+      "parentId": "n0042",
+      "level": 4,
+      "order": 1,
+      "title": "Inner Packaging Inspection",
+      "file": "3 Transport and Deployment__008-Inner Packaging Inspection.md",
+      "draft": false
+    },
+    {
+      "id": "n0045",
+      "pairId": null,
+      "parentId": "n0041",
+      "level": 3,
+      "order": 1,
+      "title": "Check the Machine Appearance",
+      "file": "3 Transport and Deployment__009-Check the Equipment Appearance.md",
+      "draft": false
+    },
+    {
+      "id": "n0046",
+      "pairId": null,
+      "parentId": "n0041",
+      "level": 3,
+      "order": 3,
+      "title": "Check the Accessories",
+      "file": "3 Transport and Deployment__010-Check the Accessories.md",
+      "draft": false
+    },
+    {
+      "id": "n0047",
+      "pairId": null,
+      "parentId": "new-6056b99824954bc393ad1a58d25a1859",
+      "level": 4,
+      "order": 0,
+      "title": "Remove External Packaging and Protective Materials",
+      "file": "3 Transport and Deployment__011-Remove Transport Protection.md",
+      "draft": false
+    },
+    {
+      "id": "n0048",
+      "pairId": null,
+      "parentId": "n0041",
+      "level": 3,
+      "order": 4,
+      "title": "Remove Transport Restraints",
+      "file": "3 Transport and Deployment__012-Remove Transport Restraints.md",
+      "draft": false
+    },
+    {
+      "id": "n0049",
+      "pairId": null,
+      "parentId": "new-6056b99824954bc393ad1a58d25a1859",
+      "level": 4,
+      "order": 1,
+      "title": "Remove the Main Unit Transport Fixing Brackets",
+      "file": "3 Transport and Deployment__013-Remove the Main Unit Transport Fixing Brackets.md",
+      "draft": false
+    },
+    {
+      "id": "n0050",
+      "pairId": null,
+      "parentId": "n0048",
+      "level": 4,
+      "order": 2,
+      "title": "Remove the Main Unit Transport Handles",
+      "file": "3 Transport and Deployment__014-Remove the Main Unit Transport Handles.md",
+      "draft": false
+    },
+    {
+      "id": "n0051",
+      "pairId": null,
+      "parentId": "n0048",
+      "level": 4,
+      "order": 0,
+      "title": "Remove the Spindle and Worktable Fixing Bracket",
+      "file": "3 Transport and Deployment__015-Remove the Spindle and Worktable Fixing Bracket.md",
+      "draft": false
+    },
+    {
+      "id": "n0052",
+      "pairId": null,
+      "parentId": "n0041",
+      "level": 3,
+      "order": 5,
+      "title": "Post-Removal Inspection",
+      "file": "3 Transport and Deployment__016-Post-Removal Inspection.md",
+      "draft": false
+    },
+    {
+      "id": "n0053",
+      "pairId": null,
+      "parentId": "n0037",
+      "level": 2,
+      "order": 2,
+      "title": "Installation Requirements",
+      "file": "3 Transport and Deployment__017-Installation Requirements.md",
+      "draft": false
+    },
+    {
+      "id": "n0054",
+      "pairId": null,
+      "parentId": "n0053",
+      "level": 3,
+      "order": 0,
+      "title": "Environmental Requirements",
+      "file": "3 Transport and Deployment__018-Environmental Requirements.md",
+      "draft": false
+    },
+    {
+      "id": "n0055",
+      "pairId": null,
+      "parentId": "n0053",
+      "level": 3,
+      "order": 1,
+      "title": "Power Requirements",
+      "file": "3 Transport and Deployment__019-Power Requirements.md",
+      "draft": false
+    },
+    {
+      "id": "n0056",
+      "pairId": null,
+      "parentId": "n0053",
+      "level": 3,
+      "order": 2,
+      "title": "Worktable Requirements",
+      "file": "3 Transport and Deployment__020-Worktable Requirements.md",
+      "draft": false
+    },
+    {
+      "id": "n0057",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 4,
+      "title": "Installation and Connection",
+      "file": "4 Installation and Connection.md",
+      "draft": false
+    },
+    {
+      "id": "n0058",
+      "pairId": null,
+      "parentId": "n0057",
+      "level": 2,
+      "order": 0,
+      "title": "Overview",
+      "file": "4 Installation and Connection__002-Overview.md",
+      "draft": false
+    },
+    {
+      "id": "n0059",
+      "pairId": null,
+      "parentId": "n0058",
+      "level": 3,
+      "order": 0,
+      "title": "Key Components",
+      "file": "4 Installation and Connection__003-Key Components.md",
+      "draft": false
+    },
+    {
+      "id": "n0060",
+      "pairId": null,
+      "parentId": "n0058",
+      "level": 3,
+      "order": 1,
+      "title": "External Ports",
+      "file": "4 Installation and Connection__004-External Ports.md",
+      "draft": false
+    },
+    {
+      "id": "n0080",
+      "pairId": null,
+      "parentId": "n0057",
+      "level": 2,
+      "order": 2,
+      "title": "Installation and Setup",
+      "file": "4 Installation and Connection__024-Installation and Setup.md",
+      "draft": false
+    },
+    {
+      "id": "n0081",
+      "pairId": null,
+      "parentId": "n0080",
+      "level": 3,
+      "order": 0,
+      "title": "Fixture Plate Installation",
+      "file": "4 Installation and Connection__025-Fixture Plate Installation.md",
+      "draft": false
+    },
+    {
+      "id": "n0082",
+      "pairId": null,
+      "parentId": "n0081",
+      "level": 4,
+      "order": 0,
+      "title": "L-Shaped Locating Fixture + OK Clamp",
+      "file": "4 Installation and Connection__026-L-Shaped Locating Fixture + OK Clamp.md",
+      "draft": false
+    },
+    {
+      "id": "n0083",
+      "pairId": null,
+      "parentId": "n0081",
+      "level": 4,
+      "order": 1,
+      "title": "L-Shaped Locating Fixture + Side Clamp",
+      "file": "4 Installation and Connection__027-L-Shaped Locating Fixture + Side Clamp.md",
+      "draft": false
+    },
+    {
+      "id": "n0084",
+      "pairId": null,
+      "parentId": "n0081",
+      "level": 4,
+      "order": 2,
+      "title": "Flat Panel Clamp",
+      "file": "4 Installation and Connection__028-Flat Panel Clamp.md",
+      "draft": false
+    },
+    {
+      "id": "n0085",
+      "pairId": null,
+      "parentId": "n0080",
+      "level": 3,
+      "order": 1,
+      "title": "Tool Sleeve and Collet Installation",
+      "file": "4 Installation and Connection__029-Tool Sleeve and Collet Installation.md",
+      "draft": false
+    },
+    {
+      "id": "n0086",
+      "pairId": null,
+      "parentId": "n0085",
+      "level": 4,
+      "order": 0,
+      "title": "Spindle Collet Installation and Locking",
+      "file": "4 Installation and Connection__030-Spindle Collet Installation and Locking.md",
+      "draft": false
+    },
+    {
+      "id": "n0087",
+      "pairId": null,
+      "parentId": "n0085",
+      "level": 4,
+      "order": 1,
+      "title": "Tool Sleeve Installation and Removal Tool",
+      "file": "4 Installation and Connection__031-Tool Sleeve Installation and Removal Tool.md",
+      "draft": false
+    },
+    {
+      "id": "n0088",
+      "pairId": null,
+      "parentId": "n0085",
+      "level": 4,
+      "order": 2,
+      "title": "Collet Installation and Removal",
+      "file": "4 Installation and Connection__032-Collet Installation and Removal.md",
+      "draft": false
+    },
+    {
+      "id": "n0089",
+      "pairId": null,
+      "parentId": "n0085",
+      "level": 4,
+      "order": 3,
+      "title": "Milling Cutter Installation",
+      "file": "4 Installation and Connection__033-Installing a Milling Cutter into the Tool Sleeve.md",
+      "draft": false
+    },
+    {
+      "id": "n0090",
+      "pairId": null,
+      "parentId": "n0085",
+      "level": 4,
+      "order": 4,
+      "title": "Milling Cutter Removal",
+      "file": "4 Installation and Connection__034-Removing the Milling Cutter from the Tool Sleeve.md",
+      "draft": false
+    },
+    {
+      "id": "n0092",
+      "pairId": null,
+      "parentId": "n0080",
+      "level": 3,
+      "order": 3,
+      "title": "Dust Collection Kit Installation",
+      "file": "4 Installation and Connection__036-Dust Collection Kit Installation.md",
+      "draft": false
+    },
+    {
+      "id": "n0093",
+      "pairId": null,
+      "parentId": "n0092",
+      "level": 4,
+      "order": 0,
+      "title": "Installation Preparation",
+      "file": "4 Installation and Connection__037-Installation Preparation.md",
+      "draft": false
+    },
+    {
+      "id": "n0094",
+      "pairId": null,
+      "parentId": "n0092",
+      "level": 4,
+      "order": 1,
+      "title": "",
+      "file": "4 Installation and Connection__038-Installation Steps.md",
+      "draft": false
+    },
+    {
+      "id": "n0095",
+      "pairId": null,
+      "parentId": "n0092",
+      "level": 4,
+      "order": 2,
+      "title": "Usage and Cleaning",
+      "file": "4 Installation and Connection__039-Usage and Cleaning.md",
+      "draft": false
+    },
+    {
+      "id": "n0097",
+      "pairId": null,
+      "parentId": "n0080",
+      "level": 3,
+      "order": 5,
+      "title": "Chip Auger Installation",
+      "file": "4 Installation and Connection__041-Chip Auger Installation.md",
+      "draft": false
+    },
+    {
+      "id": "n0098",
+      "pairId": null,
+      "parentId": "n0097",
+      "level": 4,
+      "order": 0,
+      "title": "Left and Right Chip Auger Installation",
+      "file": "4 Installation and Connection__042-Left and Right Chip Auger Installation.md",
+      "draft": false
+    },
+    {
+      "id": "n0099",
+      "pairId": null,
+      "parentId": "n0097",
+      "level": 4,
+      "order": 1,
+      "title": "Front Chip Auger Installation",
+      "file": "4 Installation and Connection__043-Front Chip Auger Installation.md",
+      "draft": false
+    },
+    {
+      "id": "n0198",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 5,
+      "title": "Equipment Operation",
+      "file": "8 Equipment Operation.md",
+      "draft": false
+    },
+    {
+      "id": "n0199",
+      "pairId": null,
+      "parentId": "n0198",
+      "level": 2,
+      "order": 0,
+      "title": "Tool Magazine",
+      "file": "8 Equipment Operation__002-Tool Magazine.md",
+      "draft": false
+    },
+    {
+      "id": "n0200",
+      "pairId": null,
+      "parentId": "n0199",
+      "level": 3,
+      "order": 0,
+      "title": "RFID Tag Usage",
+      "file": "8 Equipment Operation__003-RFID Tag Usage.md",
+      "draft": false
+    },
+    {
+      "id": "n0201",
+      "pairId": null,
+      "parentId": "n0200",
+      "level": 4,
+      "order": 0,
+      "title": "RFID Tag and Tool Binding",
+      "file": "8 Equipment Operation__004-RFID Tag and Tool Binding.md",
+      "draft": false
+    },
+    {
+      "id": "n0202",
+      "pairId": null,
+      "parentId": "n0200",
+      "level": 4,
+      "order": 1,
+      "title": "Tool Operations",
+      "file": "8 Equipment Operation__005-Tool Operations.md",
+      "draft": false
+    },
+    {
+      "id": "n0203",
+      "pairId": null,
+      "parentId": "n0199",
+      "level": 3,
+      "order": 1,
+      "title": "Magazine Positioning",
+      "file": "8 Equipment Operation__006-Magazine Positioning.md",
+      "draft": false
+    },
+    {
+      "id": "n0204",
+      "pairId": null,
+      "parentId": "n0203",
+      "level": 4,
+      "order": 0,
+      "title": "Preparation",
+      "file": "8 Equipment Operation__007-Preparation.md",
+      "draft": false
+    },
+    {
+      "id": "n0205",
+      "pairId": null,
+      "parentId": "n0198",
+      "level": 2,
+      "order": 1,
+      "title": "Air Compressor Operation",
+      "file": "8 Equipment Operation__008-Air Compressor Operation.md",
+      "draft": false
+    },
+    {
+      "id": "n0206",
+      "pairId": null,
+      "parentId": "n0205",
+      "level": 3,
+      "order": 0,
+      "title": "Connection",
+      "file": "8 Equipment Operation__009-Connection.md",
+      "draft": false
+    },
+    {
+      "id": "n0207",
+      "pairId": null,
+      "parentId": "n0205",
+      "level": 3,
+      "order": 1,
+      "title": "Power Connection",
+      "file": "8 Equipment Operation__010-Power Connection.md",
+      "draft": false
+    },
+    {
+      "id": "n0208",
+      "pairId": null,
+      "parentId": "n0205",
+      "level": 3,
+      "order": 2,
+      "title": "Powering",
+      "file": "8 Equipment Operation__011-Powering.md",
+      "draft": false
+    },
+    {
+      "id": "n0209",
+      "pairId": null,
+      "parentId": "n0205",
+      "level": 3,
+      "order": 3,
+      "title": "Pressure Adjustment",
+      "file": "8 Equipment Operation__012-Pressure Adjustment.md",
+      "draft": false
+    },
+    {
+      "id": "n0210",
+      "pairId": null,
+      "parentId": "n0198",
+      "level": 2,
+      "order": 2,
+      "title": "Water Tank and Spray System",
+      "file": "8 Equipment Operation__013-Water Tank and Spray System.md",
+      "draft": false
+    },
+    {
+      "id": "n0211",
+      "pairId": null,
+      "parentId": "n0210",
+      "level": 3,
+      "order": 0,
+      "title": "Components",
+      "file": "8 Equipment Operation__014-Components.md",
+      "draft": false
+    },
+    {
+      "id": "n0212",
+      "pairId": null,
+      "parentId": "n0210",
+      "level": 3,
+      "order": 1,
+      "title": "Installation and Filling",
+      "file": "8 Equipment Operation__015-Installation and Filling.md",
+      "draft": false
+    },
+    {
+      "id": "n0213",
+      "pairId": null,
+      "parentId": "n0210",
+      "level": 3,
+      "order": 2,
+      "title": "Water Line Connection",
+      "file": "8 Equipment Operation__016-Water Line Connection.md",
+      "draft": false
+    },
+    {
+      "id": "n0214",
+      "pairId": null,
+      "parentId": "n0210",
+      "level": 3,
+      "order": 3,
+      "title": "Settings and Adjustment",
+      "file": "8 Equipment Operation__017-Settings and Adjustment.md",
+      "draft": false
+    },
+    {
+      "id": "n0215",
+      "pairId": null,
+      "parentId": "n0210",
+      "level": 3,
+      "order": 4,
+      "title": "Maintenance",
+      "file": "8 Equipment Operation__018-Maintenance.md",
+      "draft": false
+    },
+    {
+      "id": "n0239",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 6,
+      "title": "Technical Specifications",
+      "file": "9 Technical Specifications.md",
+      "draft": false
+    },
+    {
+      "id": "n0240",
+      "pairId": null,
+      "parentId": "n0239",
+      "level": 2,
+      "order": 0,
+      "title": "Equipment Specifications",
+      "file": "9 Technical Specifications__002-Equipment Specifications.md",
+      "draft": false
+    },
+    {
+      "id": "n0241",
+      "pairId": null,
+      "parentId": "n0239",
+      "level": 2,
+      "order": 1,
+      "title": "Axis Specifications",
+      "file": "9 Technical Specifications__003-Axis Specifications.md",
+      "draft": false
+    },
+    {
+      "id": "n0242",
+      "pairId": null,
+      "parentId": "n0239",
+      "level": 2,
+      "order": 2,
+      "title": "Power Supply Specifications",
+      "file": "9 Technical Specifications__004-Power Supply Specifications.md",
+      "draft": false
+    },
+    {
+      "id": "n0243",
+      "pairId": null,
+      "parentId": "n0239",
+      "level": 2,
+      "order": 3,
+      "title": "Machining Dimensions",
+      "file": "9 Technical Specifications__005-Machining Dimensions.md",
+      "draft": false
+    },
+    {
+      "id": "n0244",
+      "pairId": null,
+      "parentId": "n0243",
+      "level": 3,
+      "order": 0,
+      "title": "3-Axis Machining Dimensions",
+      "file": "9 Technical Specifications__006-3-Axis Machining Dimensions.md",
+      "draft": false
+    },
+    {
+      "id": "new-28e538009c384fbf99e036914ed94fdb",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 6,
+      "title": "Probe Safe Detection Area",
+      "file": "Probe Safe Detection Area.md",
+      "draft": false
+    },
+    {
+      "id": "new-11bd83fcf2364994acb9c0d7e9983301",
+      "pairId": null,
+      "parentId": "new-28e538009c384fbf99e036914ed94fdb",
+      "level": 3,
+      "order": 0,
+      "title": "Right-side Tool Magazine",
+      "file": "Right-side Tool Magazine.md",
+      "draft": false
+    },
+    {
+      "id": "new-31f77b026fa74403b4a6e9476a0f1487",
+      "pairId": null,
+      "parentId": "new-28e538009c384fbf99e036914ed94fdb",
+      "level": 3,
+      "order": 1,
+      "title": "Rear Tool Magazine",
+      "file": "Rear Tool Magazine.md",
+      "draft": false
+    },
+    {
+      "id": "new-9abb0acb642e48d9a0029eb332dccf64",
+      "pairId": "pair-58cb81697bcf4464991bb627caf9d1cc",
+      "parentId": "new-28e538009c384fbf99e036914ed94fdb",
+      "level": 3,
+      "order": 2,
+      "title": "Low-Profile Vise Configuration",
+      "file": "Low-Profile Vise Configuration.md",
+      "draft": false
+    },
+    {
+      "id": "new-fbf7622c751b4adcb3a0336c9059c75f",
+      "pairId": "pair-e5664f26de5b4119904e75a0dd015797",
+      "parentId": "n0097",
+      "level": 4,
+      "order": 2,
+      "title": "Chip Discharge Duct Installation",
+      "file": "Chip Discharge Duct Installation.md",
+      "draft": false
+    },
+    {
+      "id": "new-76471d8893054bf28df2ccd7589fc260",
+      "pairId": "pair-91f6247aba7542f1915d25940116cdf2",
+      "parentId": "n0048",
+      "level": 4,
+      "order": 1,
+      "title": "Removing Internal Transport Protective Materials",
+      "file": "Removing Internal Transport Protective Materials.md",
+      "draft": true
+    },
+    {
+      "id": "new-6056b99824954bc393ad1a58d25a1859",
+      "pairId": "pair-a800172aeba84a1d945c9d8f704224b8",
+      "parentId": "n0041",
+      "level": 3,
+      "order": 2,
+      "title": "Remove Transport Protection",
+      "file": "Remove Transport Protection.md",
+      "draft": false
+    },
+    {
+      "id": "auto-a3f018d292314ebdb76254ad2f43089f",
+      "pairId": null,
+      "parentId": "n0203",
+      "level": 4,
+      "order": 1,
+      "title": "Magazine Removal",
+      "file": "8 Equipment Operation__007-Preparation--auto-2.md",
+      "draft": false
+    },
+    {
+      "id": "auto-e3fd71be503a49e1bfc62741260f9e6d",
+      "pairId": null,
+      "parentId": "n0203",
+      "level": 4,
+      "order": 2,
+      "title": "Switching: Right to Rear-Right",
+      "file": "8 Equipment Operation__007-Preparation--auto-3.md",
+      "draft": false
+    },
+    {
+      "id": "auto-b376c20d23cd405b99aa1503e79a097e",
+      "pairId": null,
+      "parentId": "n0203",
+      "level": 4,
+      "order": 3,
+      "title": "Switching: Rear-Right to Right",
+      "file": "8 Equipment Operation__007-Preparation--auto-4.md",
+      "draft": false
+    }
+  ]
+}

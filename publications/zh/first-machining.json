@@ -1,0 +1,120 @@
+{
+  "version": "title-tree-mvp-v1",
+  "projectName": "C500 首次加工指南",
+  "sourceFile": ".",
+  "sourceCopy": null,
+  "sourceHash": "",
+  "preambleFile": null,
+  "nodes": [
+    {
+      "id": "n0001",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 0,
+      "title": "前言",
+      "file": "1 前言&简介.md",
+      "draft": false
+    },
+    {
+      "id": "n0003",
+      "pairId": null,
+      "parentId": "n0001",
+      "level": 2,
+      "order": 1,
+      "title": "修订记录",
+      "file": "1 前言&简介__003-修订记录.md",
+      "draft": false
+    },
+    {
+      "id": "n0005",
+      "pairId": null,
+      "parentId": "n0001",
+      "level": 2,
+      "order": 3,
+      "title": "关于本指南",
+      "file": "book-specific/first-machining-about.md",
+      "draft": false
+    },
+    {
+      "id": "n0189",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 1,
+      "title": "首次加工",
+      "file": "7 首次加工.md",
+      "draft": false
+    },
+    {
+      "id": "n0190",
+      "pairId": null,
+      "parentId": "n0189",
+      "level": 2,
+      "order": 0,
+      "title": "创建新项目",
+      "file": "7 首次加工__002-创建新项目.md",
+      "draft": false
+    },
+    {
+      "id": "n0191",
+      "pairId": null,
+      "parentId": "n0189",
+      "level": 2,
+      "order": 1,
+      "title": "导入模型文件",
+      "file": "7 首次加工__003-导入模型文件.md",
+      "draft": false
+    },
+    {
+      "id": "n0192",
+      "pairId": null,
+      "parentId": "n0189",
+      "level": 2,
+      "order": 2,
+      "title": "设置加工参数",
+      "file": "7 首次加工__004-设置加工参数.md",
+      "draft": false
+    },
+    {
+      "id": "n0193",
+      "pairId": null,
+      "parentId": "n0189",
+      "level": 2,
+      "order": 3,
+      "title": "生成刀路",
+      "file": "7 首次加工__005-生成刀路.md",
+      "draft": false
+    },
+    {
+      "id": "n0194",
+      "pairId": null,
+      "parentId": "n0189",
+      "level": 2,
+      "order": 4,
+      "title": "加工文件预览",
+      "file": "7 首次加工__006-加工文件预览.md",
+      "draft": false
+    },
+    {
+      "id": "n0195",
+      "pairId": null,
+      "parentId": "n0189",
+      "level": 2,
+      "order": 5,
+      "title": "工件（毛坯）坐标设置",
+      "file": "7 首次加工__007-工件（毛坯）坐标设置.md",
+      "draft": false
+    },
+    {
+      "id": "n0196",
+      "pairId": null,
+      "parentId": "n0189",
+      "level": 2,
+      "order": 6,
+      "title": "在线监测",
+      "file": "7 首次加工__008-在线监测.md",
+      "draft": false
+    }
+  ]
+}

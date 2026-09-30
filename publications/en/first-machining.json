@@ -1,0 +1,120 @@
+{
+  "version": "title-tree-mvp-v1",
+  "projectName": "C500 First Machining Guide",
+  "sourceFile": ".",
+  "sourceCopy": null,
+  "sourceHash": "",
+  "preambleFile": null,
+  "nodes": [
+    {
+      "id": "n0001",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 0,
+      "title": "Preface",
+      "file": "1 preface&overview.md",
+      "draft": false
+    },
+    {
+      "id": "n0003",
+      "pairId": null,
+      "parentId": "n0001",
+      "level": 2,
+      "order": 1,
+      "title": "Revisions",
+      "file": "1 preface&overview__003-Revisions.md",
+      "draft": false
+    },
+    {
+      "id": "n0005",
+      "pairId": null,
+      "parentId": "n0001",
+      "level": 2,
+      "order": 3,
+      "title": "About This Guide",
+      "file": "book-specific/first-machining-about.md",
+      "draft": false
+    },
+    {
+      "id": "n0190",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 1,
+      "title": "Initial Operation",
+      "file": "7 Initial Operation.md",
+      "draft": false
+    },
+    {
+      "id": "n0191",
+      "pairId": null,
+      "parentId": "n0190",
+      "level": 2,
+      "order": 0,
+      "title": "Creating a New Project",
+      "file": "7 Initial Operation__002-Creating a New Project.md",
+      "draft": false
+    },
+    {
+      "id": "n0192",
+      "pairId": null,
+      "parentId": "n0190",
+      "level": 2,
+      "order": 1,
+      "title": "Importing Model Files",
+      "file": "7 Initial Operation__003-Importing Model Files.md",
+      "draft": false
+    },
+    {
+      "id": "n0193",
+      "pairId": null,
+      "parentId": "n0190",
+      "level": 2,
+      "order": 2,
+      "title": "Configuring Machining Parameters",
+      "file": "7 Initial Operation__004-Configuring Machining Parameters.md",
+      "draft": false
+    },
+    {
+      "id": "n0194",
+      "pairId": null,
+      "parentId": "n0190",
+      "level": 2,
+      "order": 3,
+      "title": "Generating Toolpaths",
+      "file": "7 Initial Operation__005-Generating Toolpaths.md",
+      "draft": false
+    },
+    {
+      "id": "n0195",
+      "pairId": null,
+      "parentId": "n0190",
+      "level": 2,
+      "order": 4,
+      "title": "Toolpath Preview",
+      "file": "7 Initial Operation__006-Toolpath Preview.md",
+      "draft": false
+    },
+    {
+      "id": "n0196",
+      "pairId": null,
+      "parentId": "n0190",
+      "level": 2,
+      "order": 5,
+      "title": "Workpiece Coordinate System Setup",
+      "file": "7 Initial Operation__007-Workpiece Coordinate System Setup.md",
+      "draft": false
+    },
+    {
+      "id": "n0197",
+      "pairId": null,
+      "parentId": "n0190",
+      "level": 2,
+      "order": 6,
+      "title": "Real-Time Monitoring",
+      "file": "7 Initial Operation__008-Real-Time Monitoring.md",
+      "draft": false
+    }
+  ]
+}

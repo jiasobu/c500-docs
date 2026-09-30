@@ -1,0 +1,500 @@
+{
+  "version": 3,
+  "site": "https://docs.worksbase.com",
+  "wikiImagePixelsPerCm": 40,
+  "safety": {
+    "deletePages": false,
+    "movePages": false,
+    "updateNavigation": false
+  },
+  "pages": [
+    {
+      "id": "preface",
+      "group": "top",
+      "order": 10,
+      "zh": {
+        "title": "前言",
+        "path": "/zh/preface",
+        "workbenchNodeId": "n0001",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Preface",
+        "path": "/en/preface",
+        "workbenchNodeId": "n0001",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "safety",
+      "group": "top",
+      "order": 20,
+      "zh": {
+        "title": "安全",
+        "path": "/zh/safety",
+        "workbenchNodeId": "n0023",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Safety",
+        "path": "/en/safety",
+        "workbenchNodeId": "n0023",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "transport-deployment",
+      "group": "top",
+      "order": 30,
+      "zh": {
+        "title": "运输与部署",
+        "path": "/zh/transport-deployment",
+        "workbenchNodeId": "n0037",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Transport and Deployment",
+        "path": "/en/transport-deployment",
+        "workbenchNodeId": "n0037",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "c500",
+      "group": "c500",
+      "order": 40,
+      "generate": "index",
+      "zh": {
+        "title": "C500",
+        "path": "/zh/c500",
+        "description": "C500 产品文档与支持资源。"
+      },
+      "en": {
+        "title": "C500",
+        "path": "/en/c500",
+        "description": "C500 product documentation and support resources."
+      }
+    },
+    {
+      "id": "c500-introduction",
+      "group": "c500",
+      "section": "quick-start",
+      "order": 41,
+      "zh": {
+        "title": "简介",
+        "sectionTitle": "快速入门",
+        "path": "/zh/c500/getting-started/introduction",
+        "workbenchNodeId": "n0006",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Overview",
+        "sectionTitle": "Quick Start",
+        "path": "/en/c500/02-overview",
+        "workbenchNodeId": "n0006",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "c500-specifications",
+      "group": "c500",
+      "section": "quick-start",
+      "order": 42,
+      "zh": {
+        "title": "技术参数",
+        "sectionTitle": "快速入门",
+        "path": "/zh/c500/getting-started/specifications",
+        "workbenchNodeId": "n0238",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Technical Specifications",
+        "sectionTitle": "Quick Start",
+        "path": "/en/c500/10-technical-specifications",
+        "workbenchNodeId": "n0239",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "c500-first-machining",
+      "group": "c500",
+      "section": "quick-start",
+      "order": 43,
+      "zh": {
+        "title": "首次加工",
+        "sectionTitle": "快速入门",
+        "path": "/zh/c500/getting-started/first-machining",
+        "workbenchNodeId": "n0189",
+        "includeDescendants": true,
+        "section": "quick-start",
+        "order": 43
+      },
+      "en": {
+        "title": "Initial Operation",
+        "sectionTitle": "Quick Start",
+        "path": "/en/c500/08-initial-operation",
+        "workbenchNodeId": "n0190",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "c500-equipment-operation",
+      "group": "c500",
+      "section": "quick-start",
+      "order": 44,
+      "zh": {
+        "title": "设备操作",
+        "sectionTitle": "快速入门",
+        "path": "/zh/c500/getting-started/equipment-operation",
+        "workbenchNodeId": "n0197",
+        "includeDescendants": true,
+        "section": "quick-start",
+        "order": 44
+      },
+      "en": {
+        "title": "Equipment Operation",
+        "sectionTitle": "Quick Start",
+        "path": "/en/c500/getting-started/equipment-operation",
+        "workbenchNodeId": "n0198",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "c500-installation-connection",
+      "group": "c500",
+      "section": "installation-connection",
+      "order": 45,
+      "zh": {
+        "title": "安装与连接",
+        "sectionTitle": "安装与连接",
+        "path": "/zh/c500/installation-connection",
+        "workbenchNodeId": "n0057",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Installation and Connection",
+        "sectionTitle": "Installation and Connection",
+        "path": "/en/c500/05-installation-connection",
+        "workbenchNodeId": "n0057",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "c500-machine-overview",
+      "group": "c500",
+      "section": "installation-connection",
+      "order": 46,
+      "zh": {
+        "title": "主机结构",
+        "sectionTitle": "安装与连接",
+        "path": "/zh/c500/installation-connection/machine-overview",
+        "workbenchNodeId": "n0058",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Machine Overview",
+        "sectionTitle": "Installation and Connection",
+        "path": "/en/c500/installation-connection/machine-overview",
+        "workbenchNodeId": "n0058",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "c500-package-contents",
+      "group": "c500",
+      "section": "installation-connection",
+      "order": 47,
+      "zh": {
+        "title": "配置清单",
+        "sectionTitle": "安装与连接",
+        "path": "/zh/c500/installation-connection/package-contents",
+        "workbenchNodeId": "n0061",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Package Contents",
+        "sectionTitle": "Installation and Connection",
+        "path": "/en/c500/installation-connection/package-contents",
+        "workbenchNodeId": "n0061",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "c500-fixture-plate-installation",
+      "group": "c500",
+      "section": "installation-connection",
+      "order": 48,
+      "zh": {
+        "title": "夹具套装使用指南",
+        "sectionTitle": "安装与连接",
+        "path": "/zh/c500/installation-connection/fixture-kit",
+        "workbenchNodeId": "n0081",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Fixture Kit User Guide",
+        "sectionTitle": "Installation and Connection",
+        "path": "/en/c500/installation-connection/fixture-kit",
+        "workbenchNodeId": "n0081",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "c500-tool-sleeve-collet",
+      "group": "c500",
+      "section": "installation-connection",
+      "order": 49,
+      "zh": {
+        "title": "刀套与夹头安装",
+        "sectionTitle": "安装与连接",
+        "path": "/zh/c500/installation-connection/tool-sleeve-collet",
+        "workbenchNodeId": "n0085",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Tool Sleeve and Collet Installation",
+        "sectionTitle": "Installation and Connection",
+        "path": "/en/c500/installation-connection/tool-sleeve-collet",
+        "workbenchNodeId": "n0085",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "c500-laser-module",
+      "group": "c500",
+      "section": "installation-connection",
+      "order": 50,
+      "zh": {
+        "title": "激光器安装（选配）",
+        "sectionTitle": "安装与连接",
+        "path": "/zh/c500/installation-connection/laser-module",
+        "workbenchNodeId": "n0091",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Laser Module Installation (Optional)",
+        "sectionTitle": "Installation and Connection",
+        "path": "/en/c500/installation-connection/laser-module",
+        "workbenchNodeId": "n0091",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "c500-dust-collection",
+      "group": "c500",
+      "section": "installation-connection",
+      "order": 51,
+      "zh": {
+        "title": "吸尘器套件安装",
+        "sectionTitle": "安装与连接",
+        "path": "/zh/c500/installation-connection/dust-collection",
+        "workbenchNodeId": "n0092",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Dust Collection Kit Installation",
+        "sectionTitle": "Installation and Connection",
+        "path": "/en/c500/installation-connection/dust-collection",
+        "workbenchNodeId": "n0092",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "c500-mpg-handwheel",
+      "group": "c500",
+      "section": "installation-connection",
+      "order": 52,
+      "zh": {
+        "title": "手轮连接（选配）",
+        "sectionTitle": "安装与连接",
+        "path": "/zh/c500/installation-connection/mpg-handwheel",
+        "workbenchNodeId": "n0093",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "MPG Handwheel Connection (Optional)",
+        "sectionTitle": "Installation and Connection",
+        "path": "/en/c500/installation-connection/mpg-handwheel",
+        "workbenchNodeId": "n0096",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "c500-chip-auger",
+      "group": "c500",
+      "section": "installation-connection",
+      "order": 53,
+      "zh": {
+        "title": "排屑螺杆安装",
+        "sectionTitle": "安装与连接",
+        "path": "/zh/c500/installation-connection/chip-auger",
+        "workbenchNodeId": "n0094",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Chip Auger Installation",
+        "sectionTitle": "Installation and Connection",
+        "path": "/en/c500/installation-connection/chip-auger",
+        "workbenchNodeId": "n0097",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "c500-faq",
+      "group": "c500",
+      "section": "faq",
+      "order": 54,
+      "zh": {
+        "title": "FAQ",
+        "sectionTitle": "FAQ",
+        "path": "/zh/c500/faq",
+        "file": "D:/obisidian/巢匠科技/onlyforwiki/support-pages/zh/faq.md"
+      },
+      "en": {
+        "title": "FAQ",
+        "sectionTitle": "FAQ",
+        "path": "/en/c500/faq",
+        "file": "D:/obisidian/巢匠科技/onlyforwiki/support-pages/en/faq.md"
+      }
+    },
+    {
+      "id": "c500-troubleshooting",
+      "group": "c500",
+      "section": "troubleshooting",
+      "order": 55,
+      "zh": {
+        "title": "故障排除",
+        "sectionTitle": "故障排除",
+        "path": "/zh/c500/troubleshooting",
+        "file": "D:/obisidian/巢匠科技/onlyforwiki/support-pages/zh/troubleshooting.md"
+      },
+      "en": {
+        "title": "Troubleshooting",
+        "sectionTitle": "Troubleshooting",
+        "path": "/en/c500/troubleshooting",
+        "file": "D:/obisidian/巢匠科技/onlyforwiki/support-pages/en/troubleshooting.md"
+      }
+    },
+    {
+      "id": "c500-parts-replacement",
+      "group": "c500",
+      "section": "parts-replacement",
+      "order": 56,
+      "zh": {
+        "title": "零件更换",
+        "sectionTitle": "零件更换",
+        "path": "/zh/c500/parts-replacement",
+        "file": "D:/obisidian/巢匠科技/onlyforwiki/support-pages/zh/parts-replacement.md"
+      },
+      "en": {
+        "title": "Parts Replacement",
+        "sectionTitle": "Parts Replacement",
+        "path": "/en/c500/parts-replacement",
+        "file": "D:/obisidian/巢匠科技/onlyforwiki/support-pages/en/parts-replacement.md"
+      }
+    },
+    {
+      "id": "c500-maintenance-guide",
+      "group": "c500",
+      "section": "maintenance-guide",
+      "order": 57,
+      "zh": {
+        "title": "维护指南",
+        "sectionTitle": "维护指南",
+        "path": "/zh/c500/maintenance-guide",
+        "file": "D:/obisidian/巢匠科技/onlyforwiki/support-pages/zh/maintenance-guide.md"
+      },
+      "en": {
+        "title": "Maintenance Guide",
+        "sectionTitle": "Maintenance Guide",
+        "path": "/en/c500/maintenance-guide",
+        "file": "D:/obisidian/巢匠科技/onlyforwiki/support-pages/en/maintenance-guide.md"
+      }
+    },
+    {
+      "id": "software-installation",
+      "group": "top",
+      "order": 60,
+      "zh": {
+        "title": "软件安装",
+        "path": "/zh/software-installation",
+        "workbenchNodeId": "n0097",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Software Installation",
+        "path": "/en/software-installation",
+        "workbenchNodeId": "n0100",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "software-operations",
+      "group": "top",
+      "order": 70,
+      "zh": {
+        "title": "软件功能与使用",
+        "path": "/zh/software-operations",
+        "workbenchNodeId": "n0117",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Software Operations",
+        "path": "/en/software-operations",
+        "workbenchNodeId": "n0119",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "glossary",
+      "group": "top",
+      "order": 80,
+      "zh": {
+        "title": "术语表",
+        "path": "/zh/glossary",
+        "workbenchNodeId": "n0016",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Glossary",
+        "path": "/en/glossary",
+        "workbenchNodeId": "n0016",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "resources-community",
+      "group": "top",
+      "order": 90,
+      "zh": {
+        "title": "资源与社区",
+        "path": "/zh/resources-community",
+        "workbenchNodeId": "n0017",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Resources and Support",
+        "path": "/en/resources-support",
+        "workbenchNodeId": "n0017",
+        "includeDescendants": true
+      }
+    },
+    {
+      "id": "warranty-policy",
+      "group": "top",
+      "order": 100,
+      "zh": {
+        "title": "保修政策",
+        "path": "/zh/warranty",
+        "workbenchNodeId": "n0022",
+        "includeDescendants": true
+      },
+      "en": {
+        "title": "Warranty",
+        "path": "/en/warranty",
+        "workbenchNodeId": "n0022",
+        "includeDescendants": true
+      }
+    }
+  ]
+}
