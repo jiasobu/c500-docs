@@ -13,7 +13,7 @@
       "level": 1,
       "order": 0,
       "title": "前言",
-      "file": "中文/通用内容/前言.md",
+      "file": "中文/通用内容/前言/README.md",
       "draft": false
     },
     {
@@ -43,7 +43,7 @@
       "level": 1,
       "order": 1,
       "title": "软件安装",
-      "file": "中文/软件操作手册/软件安装.md",
+      "file": "中文/软件操作手册/软件安装/README.md",
       "draft": false
     },
     {
@@ -53,7 +53,7 @@
       "level": 2,
       "order": 0,
       "title": "NestStudio",
-      "file": "中文/软件操作手册/软件安装/NestStudio.md",
+      "file": "中文/软件操作手册/软件安装/NestStudio/README.md",
       "draft": false
     },
     {
@@ -83,7 +83,7 @@
       "level": 3,
       "order": 2,
       "title": "Windows 下载与安装",
-      "file": "中文/软件操作手册/软件安装/NestStudio/Windows 下载与安装.md",
+      "file": "中文/软件操作手册/软件安装/NestStudio/Windows 下载与安装/README.md",
       "draft": false
     },
     {
@@ -113,7 +113,7 @@
       "level": 3,
       "order": 4,
       "title": "设备连接",
-      "file": "中文/软件操作手册/软件安装/NestStudio/设备连接.md",
+      "file": "中文/软件操作手册/软件安装/NestStudio/设备连接/README.md",
       "draft": false
     },
     {
@@ -143,7 +143,7 @@
       "level": 2,
       "order": 1,
       "title": "NestPad",
-      "file": "中文/软件操作手册/软件安装/NestPad.md",
+      "file": "中文/软件操作手册/软件安装/NestPad/README.md",
       "draft": false
     },
     {
@@ -163,7 +163,7 @@
       "level": 3,
       "order": 1,
       "title": "软件更新",
-      "file": "中文/软件操作手册/软件安装/NestPad/软件更新.md",
+      "file": "中文/软件操作手册/软件安装/NestPad/软件更新/README.md",
       "draft": false
     },
     {
@@ -193,7 +193,7 @@
       "level": 2,
       "order": 2,
       "title": "社区接入",
-      "file": "中文/软件操作手册/软件安装/社区接入.md",
+      "file": "中文/软件操作手册/软件安装/社区接入/README.md",
       "draft": false
     },
     {
@@ -233,7 +233,7 @@
       "level": 1,
       "order": 2,
       "title": "软件功能与使用",
-      "file": "中文/软件操作手册/软件功能与使用.md",
+      "file": "中文/软件操作手册/软件功能与使用/README.md",
       "draft": false
     },
     {
@@ -243,7 +243,7 @@
       "level": 2,
       "order": 0,
       "title": "软件界面概览",
-      "file": "中文/软件操作手册/软件功能与使用/软件界面概览.md",
+      "file": "中文/软件操作手册/软件功能与使用/软件界面概览/README.md",
       "draft": false
     },
     {
@@ -303,7 +303,7 @@
       "level": 3,
       "order": 5,
       "title": "设备页面",
-      "file": "中文/软件操作手册/软件功能与使用/软件界面概览/设备页面.md",
+      "file": "中文/软件操作手册/软件功能与使用/软件界面概览/设备页面/README.md",
       "draft": false
     },
     {
@@ -343,7 +343,7 @@
       "level": 2,
       "order": 1,
       "title": "NestStudio 界面功能",
-      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能.md",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/README.md",
       "draft": false
     },
     {
@@ -373,7 +373,7 @@
       "level": 3,
       "order": 2,
       "title": "模型导入",
-      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/模型导入.md",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/模型导入/README.md",
       "draft": false
     },
     {
@@ -413,7 +413,7 @@
       "level": 3,
       "order": 3,
       "title": "加工参数设置",
-      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/加工参数设置.md",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/加工参数设置/README.md",
       "draft": false
     },
     {
@@ -453,7 +453,7 @@
       "level": 3,
       "order": 4,
       "title": "3D刀路预览",
-      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/3D刀路预览.md",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/3D刀路预览/README.md",
       "draft": false
     },
     {
@@ -523,7 +523,7 @@
       "level": 3,
       "order": 9,
       "title": "刀具管理",
-      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/刀具管理.md",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/刀具管理/README.md",
       "draft": false
     },
     {
@@ -563,7 +563,7 @@
       "level": 3,
       "order": 11,
       "title": "机器校准",
-      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/机器校准.md",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/机器校准/README.md",
       "draft": false
     },
     {
@@ -593,7 +593,7 @@
       "level": 3,
       "order": 12,
       "title": "任务加工",
-      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/任务加工.md",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/任务加工/README.md",
       "draft": false
     },
     {
@@ -643,7 +643,7 @@
       "level": 3,
       "order": 13,
       "title": "用户账号",
-      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/用户账号.md",
+      "file": "中文/软件操作手册/软件功能与使用/NestStudio 界面功能/用户账号/README.md",
       "draft": false
     },
     {
@@ -723,7 +723,7 @@
       "level": 1,
       "order": 3,
       "title": "NestPad",
-      "file": "中文/软件操作手册/NestPad.md",
+      "file": "中文/软件操作手册/NestPad/README.md",
       "draft": false
     },
     {
@@ -733,7 +733,7 @@
       "level": 2,
       "order": 0,
       "title": "功能概览",
-      "file": "中文/软件操作手册/NestPad/功能概览.md",
+      "file": "中文/软件操作手册/NestPad/功能概览/README.md",
       "draft": false
     },
     {
@@ -763,7 +763,7 @@
       "level": 2,
       "order": 1,
       "title": "加工执行与监控",
-      "file": "中文/软件操作手册/NestPad/加工执行与监控.md",
+      "file": "中文/软件操作手册/NestPad/加工执行与监控/README.md",
       "draft": false
     },
     {
@@ -823,7 +823,7 @@
       "level": 2,
       "order": 3,
       "title": "手动操控与校准",
-      "file": "中文/软件操作手册/NestPad/手动操控与校准.md",
+      "file": "中文/软件操作手册/NestPad/手动操控与校准/README.md",
       "draft": false
     },
     {
@@ -883,7 +883,7 @@
       "level": 2,
       "order": 5,
       "title": "基础设置",
-      "file": "中文/软件操作手册/NestPad/基础设置.md",
+      "file": "中文/软件操作手册/NestPad/基础设置/README.md",
       "draft": false
     },
     {
@@ -963,7 +963,7 @@
       "level": 3,
       "order": 3,
       "title": "macOS 下载与安装",
-      "file": "中文/软件操作手册/软件安装/NestStudio/macOS 下载与安装.md",
+      "file": "中文/软件操作手册/软件安装/NestStudio/macOS 下载与安装/README.md",
       "draft": true
     },
     {

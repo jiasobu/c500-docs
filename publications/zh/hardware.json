@@ -13,7 +13,7 @@
       "level": 1,
       "order": 0,
       "title": "前言",
-      "file": "中文/通用内容/前言.md",
+      "file": "中文/通用内容/前言/README.md",
       "draft": false
     },
     {
@@ -43,7 +43,7 @@
       "level": 1,
       "order": 1,
       "title": "简介",
-      "file": "中文/硬件操作手册/简介.md",
+      "file": "中文/硬件操作手册/简介/README.md",
       "draft": false
     },
     {
@@ -73,7 +73,7 @@
       "level": 2,
       "order": 2,
       "title": "使用限制",
-      "file": "中文/硬件操作手册/简介/使用限制.md",
+      "file": "中文/硬件操作手册/简介/使用限制/README.md",
       "draft": false
     },
     {
@@ -133,7 +133,7 @@
       "level": 1,
       "order": 7,
       "title": "附录",
-      "file": "中文/硬件操作手册/附录.md",
+      "file": "中文/硬件操作手册/附录/README.md",
       "draft": false
     },
     {
@@ -153,7 +153,7 @@
       "level": 2,
       "order": 1,
       "title": "资源与支持",
-      "file": "中文/硬件操作手册/附录/资源与支持.md",
+      "file": "中文/硬件操作手册/附录/资源与支持/README.md",
       "draft": false
     },
     {
@@ -173,7 +173,7 @@
       "level": 3,
       "order": 1,
       "title": "PC 端访问",
-      "file": "中文/硬件操作手册/附录/资源与支持/PC 端访问.md",
+      "file": "中文/硬件操作手册/附录/资源与支持/PC 端访问/README.md",
       "draft": false
     },
     {
@@ -213,7 +213,7 @@
       "level": 1,
       "order": 2,
       "title": "安全",
-      "file": "中文/硬件操作手册/安全.md",
+      "file": "中文/硬件操作手册/安全/README.md",
       "draft": false
     },
     {
@@ -253,7 +253,7 @@
       "level": 2,
       "order": 3,
       "title": "通用安全要求",
-      "file": "中文/硬件操作手册/安全/通用安全要求.md",
+      "file": "中文/硬件操作手册/安全/通用安全要求/README.md",
       "draft": false
     },
     {
@@ -343,7 +343,7 @@
       "level": 1,
       "order": 3,
       "title": "运输与部署",
-      "file": "中文/硬件操作手册/运输与部署.md",
+      "file": "中文/硬件操作手册/运输与部署/README.md",
       "draft": false
     },
     {
@@ -353,7 +353,7 @@
       "level": 2,
       "order": 0,
       "title": "搬运",
-      "file": "中文/硬件操作手册/运输与部署/搬运.md",
+      "file": "中文/硬件操作手册/运输与部署/搬运/README.md",
       "draft": false
     },
     {
@@ -383,7 +383,7 @@
       "level": 2,
       "order": 1,
       "title": "开箱",
-      "file": "中文/硬件操作手册/运输与部署/开箱.md",
+      "file": "中文/硬件操作手册/运输与部署/开箱/README.md",
       "draft": false
     },
     {
@@ -393,7 +393,7 @@
       "level": 3,
       "order": 0,
       "title": "检查包装状态",
-      "file": "中文/硬件操作手册/运输与部署/开箱/检查包装状态.md",
+      "file": "中文/硬件操作手册/运输与部署/开箱/检查包装状态/README.md",
       "draft": false
     },
     {
@@ -453,7 +453,7 @@
       "level": 3,
       "order": 4,
       "title": "拆除内部运输固定与防护",
-      "file": "中文/硬件操作手册/运输与部署/开箱/拆除内部运输固定与防护.md",
+      "file": "中文/硬件操作手册/运输与部署/开箱/拆除内部运输固定与防护/README.md",
       "draft": false
     },
     {
@@ -503,7 +503,7 @@
       "level": 2,
       "order": 2,
       "title": "安装要求",
-      "file": "中文/硬件操作手册/运输与部署/安装要求.md",
+      "file": "中文/硬件操作手册/运输与部署/安装要求/README.md",
       "draft": false
     },
     {
@@ -543,7 +543,7 @@
       "level": 1,
       "order": 4,
       "title": "安装与连接",
-      "file": "中文/硬件操作手册/安装与连接.md",
+      "file": "中文/硬件操作手册/安装与连接/README.md",
       "draft": false
     },
     {
@@ -553,7 +553,7 @@
       "level": 2,
       "order": 0,
       "title": "主机结构",
-      "file": "中文/硬件操作手册/安装与连接/主机结构.md",
+      "file": "中文/硬件操作手册/安装与连接/主机结构/README.md",
       "draft": false
     },
     {
@@ -583,7 +583,7 @@
       "level": 2,
       "order": 2,
       "title": "安装与连接",
-      "file": "中文/硬件操作手册/安装与连接/安装与连接.md",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/README.md",
       "draft": false
     },
     {
@@ -593,7 +593,7 @@
       "level": 3,
       "order": 0,
       "title": "夹具套装安装",
-      "file": "中文/硬件操作手册/安装与连接/安装与连接/夹具套装安装.md",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/夹具套装安装/README.md",
       "draft": false
     },
     {
@@ -633,7 +633,7 @@
       "level": 3,
       "order": 1,
       "title": "刀套与夹头安装",
-      "file": "中文/硬件操作手册/安装与连接/安装与连接/刀套与夹头安装.md",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/刀套与夹头安装/README.md",
       "draft": false
     },
     {
@@ -703,7 +703,7 @@
       "level": 3,
       "order": 5,
       "title": "排屑螺杆安装",
-      "file": "中文/硬件操作手册/安装与连接/安装与连接/排屑螺杆安装.md",
+      "file": "中文/硬件操作手册/安装与连接/安装与连接/排屑螺杆安装/README.md",
       "draft": false
     },
     {
@@ -733,7 +733,7 @@
       "level": 1,
       "order": 5,
       "title": "设备操作",
-      "file": "中文/硬件操作手册/设备操作.md",
+      "file": "中文/硬件操作手册/设备操作/README.md",
       "draft": false
     },
     {
@@ -743,7 +743,7 @@
       "level": 2,
       "order": 0,
       "title": "刀库",
-      "file": "中文/硬件操作手册/设备操作/刀库.md",
+      "file": "中文/硬件操作手册/设备操作/刀库/README.md",
       "draft": false
     },
     {
@@ -753,7 +753,7 @@
       "level": 3,
       "order": 0,
       "title": "RFID 标签使用",
-      "file": "中文/硬件操作手册/设备操作/刀库/RFID 标签使用.md",
+      "file": "中文/硬件操作手册/设备操作/刀库/RFID 标签使用/README.md",
       "draft": false
     },
     {
@@ -783,7 +783,7 @@
       "level": 3,
       "order": 1,
       "title": "刀库位置调整",
-      "file": "中文/硬件操作手册/设备操作/刀库/刀库位置调整.md",
+      "file": "中文/硬件操作手册/设备操作/刀库/刀库位置调整/README.md",
       "draft": false
     },
     {
@@ -803,7 +803,7 @@
       "level": 2,
       "order": 1,
       "title": "空压机使用",
-      "file": "中文/硬件操作手册/设备操作/空压机使用.md",
+      "file": "中文/硬件操作手册/设备操作/空压机使用/README.md",
       "draft": false
     },
     {
@@ -853,7 +853,7 @@
       "level": 2,
       "order": 2,
       "title": "水箱和喷淋使用",
-      "file": "中文/硬件操作手册/设备操作/水箱和喷淋使用.md",
+      "file": "中文/硬件操作手册/设备操作/水箱和喷淋使用/README.md",
       "draft": false
     },
     {
@@ -913,7 +913,7 @@
       "level": 1,
       "order": 6,
       "title": "技术参数",
-      "file": "中文/硬件操作手册/技术参数.md",
+      "file": "中文/硬件操作手册/技术参数/README.md",
       "draft": false
     },
     {
@@ -953,7 +953,7 @@
       "level": 2,
       "order": 3,
       "title": "加工尺寸",
-      "file": "中文/硬件操作手册/技术参数/加工尺寸.md",
+      "file": "中文/硬件操作手册/技术参数/加工尺寸/README.md",
       "draft": false
     },
     {
@@ -973,7 +973,7 @@
       "level": 2,
       "order": 6,
       "title": "探针安全探测区域",
-      "file": "中文/硬件操作手册/安全/探针安全探测区域.md",
+      "file": "中文/硬件操作手册/安全/探针安全探测区域/README.md",
       "draft": false
     },
     {
@@ -1033,7 +1033,7 @@
       "level": 3,
       "order": 2,
       "title": "拆除运输防护",
-      "file": "中文/硬件操作手册/运输与部署/开箱/拆除运输防护.md",
+      "file": "中文/硬件操作手册/运输与部署/开箱/拆除运输防护/README.md",
       "draft": false
     },
     {

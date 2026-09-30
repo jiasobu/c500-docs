@@ -13,7 +13,7 @@
       "level": 1,
       "order": 0,
       "title": "Preface",
-      "file": "English/Shared Content/Preface.md",
+      "file": "English/Shared Content/Preface/README.md",
       "draft": false
     },
     {
@@ -43,7 +43,7 @@
       "level": 1,
       "order": 1,
       "title": "Initial Operation",
-      "file": "English/First Machining Guide/Initial Operation.md",
+      "file": "English/First Machining Guide/Initial Operation/README.md",
       "draft": false
     },
     {

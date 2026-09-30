@@ -13,7 +13,7 @@
       "level": 1,
       "order": 0,
       "title": "前言",
-      "file": "中文/通用内容/前言.md",
+      "file": "中文/通用内容/前言/README.md",
       "draft": false
     },
     {
@@ -43,7 +43,7 @@
       "level": 1,
       "order": 1,
       "title": "首次加工",
-      "file": "中文/首次加工指南/首次加工.md",
+      "file": "中文/首次加工指南/首次加工/README.md",
       "draft": false
     },
     {

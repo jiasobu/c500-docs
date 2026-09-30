@@ -10,7 +10,7 @@ Before installation, confirm that all dust collection kit components are include
 
 1. Align the slot on the dust port with the mounting slot on the spindle and insert the dust port. A noticeable locking sensation during insertion indicates that it is properly installed.
 
-![](../../../../assets/Installation_Steps_01-d6a070150235.jpg){width=12cm}
+![](../../../../../assets/Installation_Steps_01-d6a070150235.jpg){width=12cm}
 
 2.  Install the brush bracket at the upper-left corner of the worktable, then tighten the thumb screw.
 
@@ -19,15 +19,15 @@ Before installation, confirm that all dust collection kit components are include
 
 3. Insert the L-shaped adapter into the round opening at the upper-right side of the machine enclosure, then secure it with the locking nut.
 
-![](../../../../assets/Installation_Steps_03-614c58d6be18.jpg){width=12cm}
+![](../../../../../assets/Installation_Steps_03-614c58d6be18.jpg){width=12cm}
 
 4. Connect the threaded end of the dust hose to the L-shaped adapter and tighten it securely. 
 
-![](../../../../assets/Installation_Steps_04-82c6d2f44526.jpg){width=12cm}
+![](../../../../../assets/Installation_Steps_04-82c6d2f44526.jpg){width=12cm}
 
 5. Insert the other end of the dust hose into the rear connector of the dust collection brush to complete the installation.
 
-![](../../../../assets/Installation_Steps_05-668bc3c414ca.jpg){width=12cm}
+![](../../../../../assets/Installation_Steps_05-668bc3c414ca.jpg){width=12cm}
 
 **Usage and Cleaning**
 

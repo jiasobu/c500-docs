@@ -13,7 +13,7 @@
       "level": 1,
       "order": 0,
       "title": "Preface",
-      "file": "English/Shared Content/Preface.md",
+      "file": "English/Shared Content/Preface/README.md",
       "draft": false
     },
     {
@@ -43,7 +43,7 @@
       "level": 1,
       "order": 1,
       "title": "Overview",
-      "file": "English/Hardware Manual/Overview.md",
+      "file": "English/Hardware Manual/Overview/README.md",
       "draft": false
     },
     {
@@ -73,7 +73,7 @@
       "level": 2,
       "order": 2,
       "title": "Usage Restrictions",
-      "file": "English/Hardware Manual/Overview/Usage Restrictions.md",
+      "file": "English/Hardware Manual/Overview/Usage Restrictions/README.md",
       "draft": false
     },
     {
@@ -133,7 +133,7 @@
       "level": 1,
       "order": 7,
       "title": "Appendix",
-      "file": "English/Hardware Manual/Appendix.md",
+      "file": "English/Hardware Manual/Appendix/README.md",
       "draft": false
     },
     {
@@ -153,7 +153,7 @@
       "level": 2,
       "order": 1,
       "title": "Resources and Support",
-      "file": "English/Hardware Manual/Appendix/Resources and Support.md",
+      "file": "English/Hardware Manual/Appendix/Resources and Support/README.md",
       "draft": false
     },
     {
@@ -173,7 +173,7 @@
       "level": 3,
       "order": 1,
       "title": "Access on PC",
-      "file": "English/Hardware Manual/Appendix/Resources and Support/Access on PC.md",
+      "file": "English/Hardware Manual/Appendix/Resources and Support/Access on PC/README.md",
       "draft": false
     },
     {
@@ -213,7 +213,7 @@
       "level": 1,
       "order": 2,
       "title": "Safety",
-      "file": "English/Hardware Manual/Safety.md",
+      "file": "English/Hardware Manual/Safety/README.md",
       "draft": false
     },
     {
@@ -253,7 +253,7 @@
       "level": 2,
       "order": 3,
       "title": "General Safety Requirements",
-      "file": "English/Hardware Manual/Safety/General Safety Requirements.md",
+      "file": "English/Hardware Manual/Safety/General Safety Requirements/README.md",
       "draft": false
     },
     {
@@ -343,7 +343,7 @@
       "level": 1,
       "order": 3,
       "title": "Transport and Deployment",
-      "file": "English/Hardware Manual/Transport and Deployment.md",
+      "file": "English/Hardware Manual/Transport and Deployment/README.md",
       "draft": false
     },
     {
@@ -353,7 +353,7 @@
       "level": 2,
       "order": 0,
       "title": "Handling",
-      "file": "English/Hardware Manual/Transport and Deployment/Handling.md",
+      "file": "English/Hardware Manual/Transport and Deployment/Handling/README.md",
       "draft": false
     },
     {
@@ -383,7 +383,7 @@
       "level": 2,
       "order": 1,
       "title": "Unpacking",
-      "file": "English/Hardware Manual/Transport and Deployment/Unpacking.md",
+      "file": "English/Hardware Manual/Transport and Deployment/Unpacking/README.md",
       "draft": false
     },
     {
@@ -393,7 +393,7 @@
       "level": 3,
       "order": 0,
       "title": "Checking Packaging Status",
-      "file": "English/Hardware Manual/Transport and Deployment/Unpacking/Checking Packaging Status.md",
+      "file": "English/Hardware Manual/Transport and Deployment/Unpacking/Checking Packaging Status/README.md",
       "draft": false
     },
     {
@@ -453,7 +453,7 @@
       "level": 3,
       "order": 4,
       "title": "Remove Transport Restraints",
-      "file": "English/Hardware Manual/Transport and Deployment/Unpacking/Remove Transport Restraints.md",
+      "file": "English/Hardware Manual/Transport and Deployment/Unpacking/Remove Transport Restraints/README.md",
       "draft": false
     },
     {
@@ -503,7 +503,7 @@
       "level": 2,
       "order": 2,
       "title": "Installation Requirements",
-      "file": "English/Hardware Manual/Transport and Deployment/Installation Requirements.md",
+      "file": "English/Hardware Manual/Transport and Deployment/Installation Requirements/README.md",
       "draft": false
     },
     {
@@ -543,7 +543,7 @@
       "level": 1,
       "order": 4,
       "title": "Installation and Connection",
-      "file": "English/Hardware Manual/Installation and Connection.md",
+      "file": "English/Hardware Manual/Installation and Connection/README.md",
       "draft": false
     },
     {
@@ -553,7 +553,7 @@
       "level": 2,
       "order": 0,
       "title": "Overview",
-      "file": "English/Hardware Manual/Installation and Connection/Overview.md",
+      "file": "English/Hardware Manual/Installation and Connection/Overview/README.md",
       "draft": false
     },
     {
@@ -583,7 +583,7 @@
       "level": 2,
       "order": 2,
       "title": "Installation and Setup",
-      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup.md",
+      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/README.md",
       "draft": false
     },
     {
@@ -593,7 +593,7 @@
       "level": 3,
       "order": 0,
       "title": "Fixture Plate Installation",
-      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/Fixture Plate Installation.md",
+      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/Fixture Plate Installation/README.md",
       "draft": false
     },
     {
@@ -633,7 +633,7 @@
       "level": 3,
       "order": 1,
       "title": "Tool Sleeve and Collet Installation",
-      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/Tool Sleeve and Collet Installation.md",
+      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/Tool Sleeve and Collet Installation/README.md",
       "draft": false
     },
     {
@@ -693,7 +693,7 @@
       "level": 3,
       "order": 3,
       "title": "Dust Collection Kit Installation",
-      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/Dust Collection Kit Installation.md",
+      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/Dust Collection Kit Installation/README.md",
       "draft": false
     },
     {
@@ -733,7 +733,7 @@
       "level": 3,
       "order": 5,
       "title": "Chip Auger Installation",
-      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/Chip Auger Installation.md",
+      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/Chip Auger Installation/README.md",
       "draft": false
     },
     {
@@ -763,7 +763,7 @@
       "level": 1,
       "order": 5,
       "title": "Equipment Operation",
-      "file": "English/Hardware Manual/Equipment Operation.md",
+      "file": "English/Hardware Manual/Equipment Operation/README.md",
       "draft": false
     },
     {
@@ -773,7 +773,7 @@
       "level": 2,
       "order": 0,
       "title": "Tool Magazine",
-      "file": "English/Hardware Manual/Equipment Operation/Tool Magazine.md",
+      "file": "English/Hardware Manual/Equipment Operation/Tool Magazine/README.md",
       "draft": false
     },
     {
@@ -783,7 +783,7 @@
       "level": 3,
       "order": 0,
       "title": "RFID Tag Usage",
-      "file": "English/Hardware Manual/Equipment Operation/Tool Magazine/RFID Tag Usage.md",
+      "file": "English/Hardware Manual/Equipment Operation/Tool Magazine/RFID Tag Usage/README.md",
       "draft": false
     },
     {
@@ -813,7 +813,7 @@
       "level": 3,
       "order": 1,
       "title": "Magazine Positioning",
-      "file": "English/Hardware Manual/Equipment Operation/Tool Magazine/Magazine Positioning.md",
+      "file": "English/Hardware Manual/Equipment Operation/Tool Magazine/Magazine Positioning/README.md",
       "draft": false
     },
     {
@@ -833,7 +833,7 @@
       "level": 2,
       "order": 1,
       "title": "Air Compressor Operation",
-      "file": "English/Hardware Manual/Equipment Operation/Air Compressor Operation.md",
+      "file": "English/Hardware Manual/Equipment Operation/Air Compressor Operation/README.md",
       "draft": false
     },
     {
@@ -883,7 +883,7 @@
       "level": 2,
       "order": 2,
       "title": "Water Tank and Spray System",
-      "file": "English/Hardware Manual/Equipment Operation/Water Tank and Spray System.md",
+      "file": "English/Hardware Manual/Equipment Operation/Water Tank and Spray System/README.md",
       "draft": false
     },
     {
@@ -943,7 +943,7 @@
       "level": 1,
       "order": 6,
       "title": "Technical Specifications",
-      "file": "English/Hardware Manual/Technical Specifications.md",
+      "file": "English/Hardware Manual/Technical Specifications/README.md",
       "draft": false
     },
     {
@@ -983,7 +983,7 @@
       "level": 2,
       "order": 3,
       "title": "Machining Dimensions",
-      "file": "English/Hardware Manual/Technical Specifications/Machining Dimensions.md",
+      "file": "English/Hardware Manual/Technical Specifications/Machining Dimensions/README.md",
       "draft": false
     },
     {
@@ -1003,7 +1003,7 @@
       "level": 2,
       "order": 6,
       "title": "Probe Safe Detection Area",
-      "file": "English/Hardware Manual/Safety/Probe Safe Detection Area.md",
+      "file": "English/Hardware Manual/Safety/Probe Safe Detection Area/README.md",
       "draft": false
     },
     {
@@ -1063,7 +1063,7 @@
       "level": 3,
       "order": 2,
       "title": "Remove Transport Protection",
-      "file": "English/Hardware Manual/Transport and Deployment/Unpacking/Remove Transport Protection.md",
+      "file": "English/Hardware Manual/Transport and Deployment/Unpacking/Remove Transport Protection/README.md",
       "draft": false
     },
     {

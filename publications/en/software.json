@@ -13,7 +13,7 @@
       "level": 1,
       "order": 0,
       "title": "Preface",
-      "file": "English/Shared Content/Preface.md",
+      "file": "English/Shared Content/Preface/README.md",
       "draft": false
     },
     {
@@ -43,7 +43,7 @@
       "level": 1,
       "order": 1,
       "title": "Software Installation",
-      "file": "English/Software Manual/Software Installation.md",
+      "file": "English/Software Manual/Software Installation/README.md",
       "draft": false
     },
     {
@@ -53,7 +53,7 @@
       "level": 2,
       "order": 0,
       "title": "NestStudio",
-      "file": "English/Software Manual/Software Installation/NestStudio.md",
+      "file": "English/Software Manual/Software Installation/NestStudio/README.md",
       "draft": false
     },
     {
@@ -83,7 +83,7 @@
       "level": 3,
       "order": 2,
       "title": "Windows Download and Installation",
-      "file": "English/Software Manual/Software Installation/NestStudio/Windows Download and Installation.md",
+      "file": "English/Software Manual/Software Installation/NestStudio/Windows Download and Installation/README.md",
       "draft": false
     },
     {
@@ -113,7 +113,7 @@
       "level": 3,
       "order": 4,
       "title": "machine Connection",
-      "file": "English/Software Manual/Software Installation/NestStudio/machine Connection.md",
+      "file": "English/Software Manual/Software Installation/NestStudio/machine Connection/README.md",
       "draft": false
     },
     {
@@ -143,7 +143,7 @@
       "level": 2,
       "order": 1,
       "title": "NestPad",
-      "file": "English/Software Manual/Software Installation/NestPad.md",
+      "file": "English/Software Manual/Software Installation/NestPad/README.md",
       "draft": false
     },
     {
@@ -163,7 +163,7 @@
       "level": 3,
       "order": 1,
       "title": "Software Update",
-      "file": "English/Software Manual/Software Installation/NestPad/Software Update.md",
+      "file": "English/Software Manual/Software Installation/NestPad/Software Update/README.md",
       "draft": false
     },
     {
@@ -193,7 +193,7 @@
       "level": 2,
       "order": 2,
       "title": "Community Access",
-      "file": "English/Software Manual/Software Installation/Community Access.md",
+      "file": "English/Software Manual/Software Installation/Community Access/README.md",
       "draft": false
     },
     {
@@ -233,7 +233,7 @@
       "level": 1,
       "order": 2,
       "title": "Software Operations",
-      "file": "English/Software Manual/Software Operations.md",
+      "file": "English/Software Manual/Software Operations/README.md",
       "draft": false
     },
     {
@@ -243,7 +243,7 @@
       "level": 2,
       "order": 0,
       "title": "Overview",
-      "file": "English/Software Manual/Software Operations/Overview.md",
+      "file": "English/Software Manual/Software Operations/Overview/README.md",
       "draft": false
     },
     {
@@ -303,7 +303,7 @@
       "level": 3,
       "order": 5,
       "title": "Device Page",
-      "file": "English/Software Manual/Software Operations/Overview/Device Page.md",
+      "file": "English/Software Manual/Software Operations/Overview/Device Page/README.md",
       "draft": false
     },
     {
@@ -343,7 +343,7 @@
       "level": 2,
       "order": 1,
       "title": "NestStudio Interface",
-      "file": "English/Software Manual/Software Operations/NestStudio Interface.md",
+      "file": "English/Software Manual/Software Operations/NestStudio Interface/README.md",
       "draft": false
     },
     {
@@ -373,7 +373,7 @@
       "level": 3,
       "order": 2,
       "title": "Model Import",
-      "file": "English/Software Manual/Software Operations/NestStudio Interface/Model Import.md",
+      "file": "English/Software Manual/Software Operations/NestStudio Interface/Model Import/README.md",
       "draft": false
     },
     {
@@ -413,7 +413,7 @@
       "level": 3,
       "order": 3,
       "title": "Machining Parameter Settings",
-      "file": "English/Software Manual/Software Operations/NestStudio Interface/Machining Parameter Settings.md",
+      "file": "English/Software Manual/Software Operations/NestStudio Interface/Machining Parameter Settings/README.md",
       "draft": false
     },
     {
@@ -453,7 +453,7 @@
       "level": 3,
       "order": 4,
       "title": "3D Toolpath Preview",
-      "file": "English/Software Manual/Software Operations/NestStudio Interface/3D Toolpath Preview.md",
+      "file": "English/Software Manual/Software Operations/NestStudio Interface/3D Toolpath Preview/README.md",
       "draft": false
     },
     {
@@ -523,7 +523,7 @@
       "level": 3,
       "order": 9,
       "title": "Tool Management",
-      "file": "English/Software Manual/Software Operations/NestStudio Interface/Tool Management.md",
+      "file": "English/Software Manual/Software Operations/NestStudio Interface/Tool Management/README.md",
       "draft": false
     },
     {
@@ -563,7 +563,7 @@
       "level": 3,
       "order": 11,
       "title": "Machine Calibration",
-      "file": "English/Software Manual/Software Operations/NestStudio Interface/Machine Calibration.md",
+      "file": "English/Software Manual/Software Operations/NestStudio Interface/Machine Calibration/README.md",
       "draft": false
     },
     {
@@ -593,7 +593,7 @@
       "level": 3,
       "order": 12,
       "title": "Task Machining",
-      "file": "English/Software Manual/Software Operations/NestStudio Interface/Task Machining.md",
+      "file": "English/Software Manual/Software Operations/NestStudio Interface/Task Machining/README.md",
       "draft": false
     },
     {
@@ -643,7 +643,7 @@
       "level": 3,
       "order": 13,
       "title": "User Account",
-      "file": "English/Software Manual/Software Operations/NestStudio Interface/User Account.md",
+      "file": "English/Software Manual/Software Operations/NestStudio Interface/User Account/README.md",
       "draft": false
     },
     {
@@ -723,7 +723,7 @@
       "level": 1,
       "order": 3,
       "title": "NestPad",
-      "file": "English/Software Manual/NestPad.md",
+      "file": "English/Software Manual/NestPad/README.md",
       "draft": false
     },
     {
@@ -733,7 +733,7 @@
       "level": 2,
       "order": 0,
       "title": "Overview",
-      "file": "English/Software Manual/NestPad/Overview.md",
+      "file": "English/Software Manual/NestPad/Overview/README.md",
       "draft": false
     },
     {
@@ -753,7 +753,7 @@
       "level": 2,
       "order": 1,
       "title": "Machining Execution and Monitoring",
-      "file": "English/Software Manual/NestPad/Machining Execution and Monitoring.md",
+      "file": "English/Software Manual/NestPad/Machining Execution and Monitoring/README.md",
       "draft": false
     },
     {
@@ -813,7 +813,7 @@
       "level": 2,
       "order": 3,
       "title": "Manual Control and Calibration",
-      "file": "English/Software Manual/NestPad/Manual Control and Calibration.md",
+      "file": "English/Software Manual/NestPad/Manual Control and Calibration/README.md",
       "draft": false
     },
     {
@@ -873,7 +873,7 @@
       "level": 2,
       "order": 5,
       "title": "Basic Settings",
-      "file": "English/Software Manual/NestPad/Basic Settings.md",
+      "file": "English/Software Manual/NestPad/Basic Settings/README.md",
       "draft": false
     },
     {
@@ -963,7 +963,7 @@
       "level": 3,
       "order": 3,
       "title": "macOS Download and Installation",
-      "file": "English/Software Manual/Software Installation/NestStudio/macOS Download and Installation.md",
+      "file": "English/Software Manual/Software Installation/NestStudio/macOS Download and Installation/README.md",
       "draft": true
     },
     {

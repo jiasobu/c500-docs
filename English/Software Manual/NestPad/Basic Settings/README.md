@@ -3,7 +3,7 @@
 The NestPad Settings interface integrates basic device configuration, calibration tools, and personalized options. Users can configure related parameters and manage the device according to actual usage requirements.
 
 
-![](../../../assets/basicsetting-8725c78c9e21.png){width=12cm}
+![](../../../../assets/basicsetting-8725c78c9e21.png){width=12cm}
 
 <!-- mdwb:figure id=0a2fbf820525b74d -->
 Figure 6-11 Basic Settings

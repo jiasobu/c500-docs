@@ -42,8 +42,9 @@ for lang in ('zh','en'):
     for folder in (shared,access):
         directory=ROOT/base/folder;lines=['# '+folder,'']
         for path in sorted(directory.rglob('*.md')):
-            if path.name=='README.md':continue
+            if path==directory/'README.md':continue
             url=quote(os.path.relpath(path,directory).replace('\\','/'),safe='/.-')
-            lines.append('- ['+path.stem+']('+url+')')
+            label=path.parent.name if path.name=='README.md' else path.stem
+            lines.append('- ['+label+']('+url+')')
         write(directory/'README.md',lines)
 print('Updated six manual contents pages, two full-library contents pages and shared/accessory indexes.')

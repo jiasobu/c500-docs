@@ -13,7 +13,7 @@
       "level": 1,
       "order": 0,
       "title": "Preface",
-      "file": "English/Shared Content/Preface.md",
+      "file": "English/Shared Content/Preface/README.md",
       "draft": false
     },
     {
@@ -63,7 +63,7 @@
       "level": 1,
       "order": 1,
       "title": "Overview",
-      "file": "English/Hardware Manual/Overview.md",
+      "file": "English/Hardware Manual/Overview/README.md",
       "draft": false
     },
     {
@@ -93,7 +93,7 @@
       "level": 2,
       "order": 2,
       "title": "Usage Restrictions",
-      "file": "English/Hardware Manual/Overview/Usage Restrictions.md",
+      "file": "English/Hardware Manual/Overview/Usage Restrictions/README.md",
       "draft": false
     },
     {
@@ -153,7 +153,7 @@
       "level": 1,
       "order": 10,
       "title": "Appendix",
-      "file": "English/Hardware Manual/Appendix.md",
+      "file": "English/Hardware Manual/Appendix/README.md",
       "draft": false
     },
     {
@@ -173,7 +173,7 @@
       "level": 2,
       "order": 1,
       "title": "Resources and Support",
-      "file": "English/Hardware Manual/Appendix/Resources and Support.md",
+      "file": "English/Hardware Manual/Appendix/Resources and Support/README.md",
       "draft": false
     },
     {
@@ -193,7 +193,7 @@
       "level": 3,
       "order": 1,
       "title": "Access on PC",
-      "file": "English/Hardware Manual/Appendix/Resources and Support/Access on PC.md",
+      "file": "English/Hardware Manual/Appendix/Resources and Support/Access on PC/README.md",
       "draft": false
     },
     {
@@ -233,7 +233,7 @@
       "level": 1,
       "order": 2,
       "title": "Safety",
-      "file": "English/Hardware Manual/Safety.md",
+      "file": "English/Hardware Manual/Safety/README.md",
       "draft": false
     },
     {
@@ -273,7 +273,7 @@
       "level": 2,
       "order": 3,
       "title": "General Safety Requirements",
-      "file": "English/Hardware Manual/Safety/General Safety Requirements.md",
+      "file": "English/Hardware Manual/Safety/General Safety Requirements/README.md",
       "draft": false
     },
     {
@@ -373,7 +373,7 @@
       "level": 1,
       "order": 3,
       "title": "Transport and Deployment",
-      "file": "English/Hardware Manual/Transport and Deployment.md",
+      "file": "English/Hardware Manual/Transport and Deployment/README.md",
       "draft": false
     },
     {
@@ -383,7 +383,7 @@
       "level": 2,
       "order": 0,
       "title": "Handling",
-      "file": "English/Hardware Manual/Transport and Deployment/Handling.md",
+      "file": "English/Hardware Manual/Transport and Deployment/Handling/README.md",
       "draft": false
     },
     {
@@ -413,7 +413,7 @@
       "level": 2,
       "order": 1,
       "title": "Unpacking",
-      "file": "English/Hardware Manual/Transport and Deployment/Unpacking.md",
+      "file": "English/Hardware Manual/Transport and Deployment/Unpacking/README.md",
       "draft": false
     },
     {
@@ -423,7 +423,7 @@
       "level": 3,
       "order": 0,
       "title": "Checking Packaging Status",
-      "file": "English/Hardware Manual/Transport and Deployment/Unpacking/Checking Packaging Status.md",
+      "file": "English/Hardware Manual/Transport and Deployment/Unpacking/Checking Packaging Status/README.md",
       "draft": false
     },
     {
@@ -483,7 +483,7 @@
       "level": 3,
       "order": 4,
       "title": "Remove Transport Restraints",
-      "file": "English/Hardware Manual/Transport and Deployment/Unpacking/Remove Transport Restraints.md",
+      "file": "English/Hardware Manual/Transport and Deployment/Unpacking/Remove Transport Restraints/README.md",
       "draft": false
     },
     {
@@ -533,7 +533,7 @@
       "level": 2,
       "order": 2,
       "title": "Installation Requirements",
-      "file": "English/Hardware Manual/Transport and Deployment/Installation Requirements.md",
+      "file": "English/Hardware Manual/Transport and Deployment/Installation Requirements/README.md",
       "draft": false
     },
     {
@@ -573,7 +573,7 @@
       "level": 1,
       "order": 4,
       "title": "Installation and Connection",
-      "file": "English/Hardware Manual/Installation and Connection.md",
+      "file": "English/Hardware Manual/Installation and Connection/README.md",
       "draft": false
     },
     {
@@ -583,7 +583,7 @@
       "level": 2,
       "order": 0,
       "title": "Overview",
-      "file": "English/Hardware Manual/Installation and Connection/Overview.md",
+      "file": "English/Hardware Manual/Installation and Connection/Overview/README.md",
       "draft": false
     },
     {
@@ -613,7 +613,7 @@
       "level": 2,
       "order": 1,
       "title": "Configuration List",
-      "file": "English/Accessories/Installation and Connection/Configuration List.md",
+      "file": "English/Accessories/Installation and Connection/Configuration List/README.md",
       "draft": false
     },
     {
@@ -803,7 +803,7 @@
       "level": 2,
       "order": 2,
       "title": "Installation and Setup",
-      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup.md",
+      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/README.md",
       "draft": false
     },
     {
@@ -813,7 +813,7 @@
       "level": 3,
       "order": 0,
       "title": "Fixture Plate Installation",
-      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/Fixture Plate Installation.md",
+      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/Fixture Plate Installation/README.md",
       "draft": false
     },
     {
@@ -853,7 +853,7 @@
       "level": 3,
       "order": 1,
       "title": "Tool Sleeve and Collet Installation",
-      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/Tool Sleeve and Collet Installation.md",
+      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/Tool Sleeve and Collet Installation/README.md",
       "draft": false
     },
     {
@@ -923,7 +923,7 @@
       "level": 3,
       "order": 3,
       "title": "Dust Collection Kit Installation",
-      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/Dust Collection Kit Installation.md",
+      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/Dust Collection Kit Installation/README.md",
       "draft": false
     },
     {
@@ -973,7 +973,7 @@
       "level": 3,
       "order": 5,
       "title": "Chip Auger Installation",
-      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/Chip Auger Installation.md",
+      "file": "English/Hardware Manual/Installation and Connection/Installation and Setup/Chip Auger Installation/README.md",
       "draft": false
     },
     {
@@ -1003,7 +1003,7 @@
       "level": 1,
       "order": 5,
       "title": "Software Installation",
-      "file": "English/Software Manual/Software Installation.md",
+      "file": "English/Software Manual/Software Installation/README.md",
       "draft": false
     },
     {
@@ -1013,7 +1013,7 @@
       "level": 2,
       "order": 0,
       "title": "NestStudio",
-      "file": "English/Software Manual/Software Installation/NestStudio.md",
+      "file": "English/Software Manual/Software Installation/NestStudio/README.md",
       "draft": false
     },
     {
@@ -1043,7 +1043,7 @@
       "level": 3,
       "order": 2,
       "title": "Windows Download and Installation",
-      "file": "English/Software Manual/Software Installation/NestStudio/Windows Download and Installation.md",
+      "file": "English/Software Manual/Software Installation/NestStudio/Windows Download and Installation/README.md",
       "draft": false
     },
     {
@@ -1073,7 +1073,7 @@
       "level": 3,
       "order": 4,
       "title": "machine Connection",
-      "file": "English/Software Manual/Software Installation/NestStudio/machine Connection.md",
+      "file": "English/Software Manual/Software Installation/NestStudio/machine Connection/README.md",
       "draft": false
     },
     {
@@ -1103,7 +1103,7 @@
       "level": 2,
       "order": 1,
       "title": "NestPad",
-      "file": "English/Software Manual/Software Installation/NestPad.md",
+      "file": "English/Software Manual/Software Installation/NestPad/README.md",
       "draft": false
     },
     {
@@ -1123,7 +1123,7 @@
       "level": 3,
       "order": 1,
       "title": "Software Update",
-      "file": "English/Software Manual/Software Installation/NestPad/Software Update.md",
+      "file": "English/Software Manual/Software Installation/NestPad/Software Update/README.md",
       "draft": false
     },
     {
@@ -1153,7 +1153,7 @@
       "level": 2,
       "order": 2,
       "title": "Community Access",
-      "file": "English/Software Manual/Software Installation/Community Access.md",
+      "file": "English/Software Manual/Software Installation/Community Access/README.md",
       "draft": false
     },
     {
@@ -1193,7 +1193,7 @@
       "level": 1,
       "order": 6,
       "title": "Software Operations",
-      "file": "English/Software Manual/Software Operations.md",
+      "file": "English/Software Manual/Software Operations/README.md",
       "draft": false
     },
     {
@@ -1203,7 +1203,7 @@
       "level": 2,
       "order": 0,
       "title": "Overview",
-      "file": "English/Software Manual/Software Operations/Overview.md",
+      "file": "English/Software Manual/Software Operations/Overview/README.md",
       "draft": false
     },
     {
@@ -1263,7 +1263,7 @@
       "level": 3,
       "order": 5,
       "title": "Device Page",
-      "file": "English/Software Manual/Software Operations/Overview/Device Page.md",
+      "file": "English/Software Manual/Software Operations/Overview/Device Page/README.md",
       "draft": false
     },
     {
@@ -1303,7 +1303,7 @@
       "level": 2,
       "order": 1,
       "title": "NestStudio Interface",
-      "file": "English/Software Manual/Software Operations/NestStudio Interface.md",
+      "file": "English/Software Manual/Software Operations/NestStudio Interface/README.md",
       "draft": false
     },
     {
@@ -1333,7 +1333,7 @@
       "level": 3,
       "order": 2,
       "title": "Model Import",
-      "file": "English/Software Manual/Software Operations/NestStudio Interface/Model Import.md",
+      "file": "English/Software Manual/Software Operations/NestStudio Interface/Model Import/README.md",
       "draft": false
     },
     {
@@ -1373,7 +1373,7 @@
       "level": 3,
       "order": 3,
       "title": "Machining Parameter Settings",
-      "file": "English/Software Manual/Software Operations/NestStudio Interface/Machining Parameter Settings.md",
+      "file": "English/Software Manual/Software Operations/NestStudio Interface/Machining Parameter Settings/README.md",
       "draft": false
     },
     {
@@ -1413,7 +1413,7 @@
       "level": 3,
       "order": 4,
       "title": "3D Toolpath Preview",
-      "file": "English/Software Manual/Software Operations/NestStudio Interface/3D Toolpath Preview.md",
+      "file": "English/Software Manual/Software Operations/NestStudio Interface/3D Toolpath Preview/README.md",
       "draft": false
     },
     {
@@ -1483,7 +1483,7 @@
       "level": 3,
       "order": 9,
       "title": "Tool Management",
-      "file": "English/Software Manual/Software Operations/NestStudio Interface/Tool Management.md",
+      "file": "English/Software Manual/Software Operations/NestStudio Interface/Tool Management/README.md",
       "draft": false
     },
     {
@@ -1523,7 +1523,7 @@
       "level": 3,
       "order": 11,
       "title": "Machine Calibration",
-      "file": "English/Software Manual/Software Operations/NestStudio Interface/Machine Calibration.md",
+      "file": "English/Software Manual/Software Operations/NestStudio Interface/Machine Calibration/README.md",
       "draft": false
     },
     {
@@ -1553,7 +1553,7 @@
       "level": 3,
       "order": 12,
       "title": "Task Machining",
-      "file": "English/Software Manual/Software Operations/NestStudio Interface/Task Machining.md",
+      "file": "English/Software Manual/Software Operations/NestStudio Interface/Task Machining/README.md",
       "draft": false
     },
     {
@@ -1603,7 +1603,7 @@
       "level": 3,
       "order": 13,
       "title": "User Account",
-      "file": "English/Software Manual/Software Operations/NestStudio Interface/User Account.md",
+      "file": "English/Software Manual/Software Operations/NestStudio Interface/User Account/README.md",
       "draft": false
     },
     {
@@ -1683,7 +1683,7 @@
       "level": 2,
       "order": 2,
       "title": "NestPad",
-      "file": "English/Software Manual/NestPad.md",
+      "file": "English/Software Manual/NestPad/README.md",
       "draft": false
     },
     {
@@ -1693,7 +1693,7 @@
       "level": 3,
       "order": 0,
       "title": "Overview",
-      "file": "English/Software Manual/NestPad/Overview.md",
+      "file": "English/Software Manual/NestPad/Overview/README.md",
       "draft": false
     },
     {
@@ -1713,7 +1713,7 @@
       "level": 3,
       "order": 1,
       "title": "Machining Execution and Monitoring",
-      "file": "English/Software Manual/NestPad/Machining Execution and Monitoring.md",
+      "file": "English/Software Manual/NestPad/Machining Execution and Monitoring/README.md",
       "draft": false
     },
     {
@@ -1773,7 +1773,7 @@
       "level": 3,
       "order": 3,
       "title": "Manual Control and Calibration",
-      "file": "English/Software Manual/NestPad/Manual Control and Calibration.md",
+      "file": "English/Software Manual/NestPad/Manual Control and Calibration/README.md",
       "draft": false
     },
     {
@@ -1833,7 +1833,7 @@
       "level": 3,
       "order": 5,
       "title": "Basic Settings",
-      "file": "English/Software Manual/NestPad/Basic Settings.md",
+      "file": "English/Software Manual/NestPad/Basic Settings/README.md",
       "draft": false
     },
     {
@@ -1903,7 +1903,7 @@
       "level": 1,
       "order": 7,
       "title": "Initial Operation",
-      "file": "English/First Machining Guide/Initial Operation.md",
+      "file": "English/First Machining Guide/Initial Operation/README.md",
       "draft": false
     },
     {
@@ -1983,7 +1983,7 @@
       "level": 1,
       "order": 8,
       "title": "Equipment Operation",
-      "file": "English/Hardware Manual/Equipment Operation.md",
+      "file": "English/Hardware Manual/Equipment Operation/README.md",
       "draft": false
     },
     {
@@ -1993,7 +1993,7 @@
       "level": 2,
       "order": 0,
       "title": "Tool Magazine",
-      "file": "English/Hardware Manual/Equipment Operation/Tool Magazine.md",
+      "file": "English/Hardware Manual/Equipment Operation/Tool Magazine/README.md",
       "draft": false
     },
     {
@@ -2003,7 +2003,7 @@
       "level": 3,
       "order": 0,
       "title": "RFID Tag Usage",
-      "file": "English/Hardware Manual/Equipment Operation/Tool Magazine/RFID Tag Usage.md",
+      "file": "English/Hardware Manual/Equipment Operation/Tool Magazine/RFID Tag Usage/README.md",
       "draft": false
     },
     {
@@ -2033,7 +2033,7 @@
       "level": 3,
       "order": 1,
       "title": "Magazine Positioning",
-      "file": "English/Hardware Manual/Equipment Operation/Tool Magazine/Magazine Positioning.md",
+      "file": "English/Hardware Manual/Equipment Operation/Tool Magazine/Magazine Positioning/README.md",
       "draft": false
     },
     {
@@ -2053,7 +2053,7 @@
       "level": 2,
       "order": 1,
       "title": "Air Compressor Operation",
-      "file": "English/Hardware Manual/Equipment Operation/Air Compressor Operation.md",
+      "file": "English/Hardware Manual/Equipment Operation/Air Compressor Operation/README.md",
       "draft": false
     },
     {
@@ -2103,7 +2103,7 @@
       "level": 2,
       "order": 2,
       "title": "Water Tank and Spray System",
-      "file": "English/Hardware Manual/Equipment Operation/Water Tank and Spray System.md",
+      "file": "English/Hardware Manual/Equipment Operation/Water Tank and Spray System/README.md",
       "draft": false
     },
     {
@@ -2163,7 +2163,7 @@
       "level": 2,
       "order": 3,
       "title": "4th-Axis (Optional)",
-      "file": "English/Accessories/Equipment Operation/4th-Axis (Optional).md",
+      "file": "English/Accessories/Equipment Operation/4th-Axis (Optional)/README.md",
       "draft": false
     },
     {
@@ -2173,7 +2173,7 @@
       "level": 3,
       "order": 0,
       "title": "4th-Axis Installation",
-      "file": "English/Accessories/Equipment Operation/4th-Axis (Optional)/4th-Axis Installation.md",
+      "file": "English/Accessories/Equipment Operation/4th-Axis (Optional)/4th-Axis Installation/README.md",
       "draft": false
     },
     {
@@ -2223,7 +2223,7 @@
       "level": 3,
       "order": 3,
       "title": "PC Operation",
-      "file": "English/Accessories/Equipment Operation/4th-Axis (Optional)/PC Operation.md",
+      "file": "English/Accessories/Equipment Operation/4th-Axis (Optional)/PC Operation/README.md",
       "draft": false
     },
     {
@@ -2283,7 +2283,7 @@
       "level": 2,
       "order": 4,
       "title": "Vise (Optional)",
-      "file": "English/Accessories/Equipment Operation/Vise (Optional).md",
+      "file": "English/Accessories/Equipment Operation/Vise (Optional)/README.md",
       "draft": false
     },
     {
@@ -2293,7 +2293,7 @@
       "level": 3,
       "order": 0,
       "title": "Vise Installation",
-      "file": "English/Accessories/Equipment Operation/Vise (Optional)/Vise Installation.md",
+      "file": "English/Accessories/Equipment Operation/Vise (Optional)/Vise Installation/README.md",
       "draft": false
     },
     {
@@ -2353,7 +2353,7 @@
       "level": 3,
       "order": 3,
       "title": "PC Operation",
-      "file": "English/Accessories/Equipment Operation/Vise (Optional)/PC Operation.md",
+      "file": "English/Accessories/Equipment Operation/Vise (Optional)/PC Operation/README.md",
       "draft": false
     },
     {
@@ -2393,7 +2393,7 @@
       "level": 1,
       "order": 9,
       "title": "Technical Specifications",
-      "file": "English/Hardware Manual/Technical Specifications.md",
+      "file": "English/Hardware Manual/Technical Specifications/README.md",
       "draft": false
     },
     {
@@ -2433,7 +2433,7 @@
       "level": 2,
       "order": 3,
       "title": "Machining Dimensions",
-      "file": "English/Hardware Manual/Technical Specifications/Machining Dimensions.md",
+      "file": "English/Hardware Manual/Technical Specifications/Machining Dimensions/README.md",
       "draft": false
     },
     {
@@ -2483,7 +2483,7 @@
       "level": 2,
       "order": 6,
       "title": "Probe Safe Detection Area",
-      "file": "English/Hardware Manual/Safety/Probe Safe Detection Area.md",
+      "file": "English/Hardware Manual/Safety/Probe Safe Detection Area/README.md",
       "draft": false
     },
     {
@@ -2523,7 +2523,7 @@
       "level": 3,
       "order": 3,
       "title": "macOS Download and Installation",
-      "file": "English/Software Manual/Software Installation/NestStudio/macOS Download and Installation.md",
+      "file": "English/Software Manual/Software Installation/NestStudio/macOS Download and Installation/README.md",
       "draft": true
     },
     {
@@ -2583,7 +2583,7 @@
       "level": 3,
       "order": 2,
       "title": "Remove Transport Protection",
-      "file": "English/Hardware Manual/Transport and Deployment/Unpacking/Remove Transport Protection.md",
+      "file": "English/Hardware Manual/Transport and Deployment/Unpacking/Remove Transport Protection/README.md",
       "draft": false
     },
     {

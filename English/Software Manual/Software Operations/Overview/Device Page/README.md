@@ -4,7 +4,7 @@
 
 Click **Device** to enter the Device interface. Users can monitor the machining video in real time, view processing step guides and progress, and perform quick equipment debugging and parameter intervention.
 
-![](../../../../assets/616_Device_Page-c796ba6c15e8.png){width=12cm}
+![](../../../../../assets/616_Device_Page-c796ba6c15e8.png){width=12cm}
 
 <!-- mdwb:figure id=be7233f2a379029c -->
 Figure 6-9 Device Page

@@ -2,10 +2,10 @@
 
 Open a chapter below. Order and numbering follow the publication configuration; shared chapters link to one source file.
 
-- [1 Preface](../Shared%20Content/Preface.md)
+- [1 Preface](../Shared%20Content/Preface/README.md)
   - [1.1 Revisions](../Shared%20Content/Preface/Revisions.md)
   - [1.2 About This Guide](Preface/About%20This%20Guide.md)
-- [2 Initial Operation](Initial%20Operation.md)
+- [2 Initial Operation](Initial%20Operation/README.md)
   - [2.1 Creating a New Project](Initial%20Operation/Creating%20a%20New%20Project.md)
   - [2.2 Importing Model Files](Initial%20Operation/Importing%20Model%20Files.md)
   - [2.3 Configuring Machining Parameters](Initial%20Operation/Configuring%20Machining%20Parameters.md)
