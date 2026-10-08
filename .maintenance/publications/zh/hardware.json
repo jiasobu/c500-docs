@@ -1,0 +1,1070 @@
+{
+  "version": "title-tree-mvp-v1",
+  "projectName": "C500 硬件操作手册",
+  "sourceFile": ".",
+  "sourceCopy": null,
+  "sourceHash": "",
+  "preambleFile": null,
+  "nodes": [
+    {
+      "id": "n0001",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 0,
+      "title": "前言",
+      "file": "中文/硬件/00 前言/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0003",
+      "pairId": null,
+      "parentId": "n0001",
+      "level": 2,
+      "order": 1,
+      "title": "修订记录",
+      "file": "中文/硬件/00 前言/01 修订记录/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0005",
+      "pairId": null,
+      "parentId": "n0001",
+      "level": 2,
+      "order": 3,
+      "title": "关于本手册",
+      "file": "中文/硬件/00 前言/02 关于本手册/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0006",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 1,
+      "title": "简介",
+      "file": "中文/硬件/01 简介/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0007",
+      "pairId": null,
+      "parentId": "n0006",
+      "level": 2,
+      "order": 0,
+      "title": "适用人群",
+      "file": "中文/硬件/01 简介/01 适用人群/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0008",
+      "pairId": null,
+      "parentId": "n0006",
+      "level": 2,
+      "order": 1,
+      "title": "预期用途",
+      "file": "中文/硬件/01 简介/02 预期用途/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0009",
+      "pairId": null,
+      "parentId": "n0006",
+      "level": 2,
+      "order": 2,
+      "title": "使用限制",
+      "file": "中文/硬件/01 简介/03 使用限制/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0010",
+      "pairId": null,
+      "parentId": "n0009",
+      "level": 3,
+      "order": 0,
+      "title": "环境使用限制",
+      "file": "中文/硬件/01 简介/03 使用限制/01 环境使用限制/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0011",
+      "pairId": null,
+      "parentId": "n0009",
+      "level": 3,
+      "order": 1,
+      "title": "加工材料与耗材限制",
+      "file": "中文/硬件/01 简介/03 使用限制/02 加工材料与耗材限制/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0012",
+      "pairId": null,
+      "parentId": "n0009",
+      "level": 3,
+      "order": 2,
+      "title": "冷却液使用限制",
+      "file": "中文/硬件/01 简介/03 使用限制/03 冷却液使用限制/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0013",
+      "pairId": null,
+      "parentId": "n0009",
+      "level": 3,
+      "order": 3,
+      "title": "安全操作限制",
+      "file": "中文/硬件/01 简介/03 使用限制/04 安全操作限制/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0014",
+      "pairId": null,
+      "parentId": "n0009",
+      "level": 3,
+      "order": 4,
+      "title": "改装与参数限制",
+      "file": "中文/硬件/01 简介/03 使用限制/05 改装与参数限制/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0015",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 7,
+      "title": "附录",
+      "file": "中文/硬件/07 附录/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0016",
+      "pairId": null,
+      "parentId": "n0015",
+      "level": 2,
+      "order": 0,
+      "title": "术语表",
+      "file": "中文/硬件/07 附录/01 术语表/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0017",
+      "pairId": null,
+      "parentId": "n0015",
+      "level": 2,
+      "order": 1,
+      "title": "资源与支持",
+      "file": "中文/硬件/07 附录/02 资源与支持/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0018",
+      "pairId": null,
+      "parentId": "n0017",
+      "level": 3,
+      "order": 0,
+      "title": "社区与学院访问",
+      "file": "中文/硬件/07 附录/02 资源与支持/01 社区与学院访问/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0019",
+      "pairId": null,
+      "parentId": "n0017",
+      "level": 3,
+      "order": 1,
+      "title": "PC 端访问",
+      "file": "中文/硬件/07 附录/02 资源与支持/02 PC 端访问/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0020",
+      "pairId": null,
+      "parentId": "n0019",
+      "level": 4,
+      "order": 0,
+      "title": "用户社区",
+      "file": "中文/硬件/07 附录/02 资源与支持/02 PC 端访问/01 用户社区/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0021",
+      "pairId": null,
+      "parentId": "n0019",
+      "level": 4,
+      "order": 1,
+      "title": "在线学院",
+      "file": "中文/硬件/07 附录/02 资源与支持/02 PC 端访问/02 在线学院/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0022",
+      "pairId": null,
+      "parentId": "n0015",
+      "level": 2,
+      "order": 2,
+      "title": "保修政策",
+      "file": "中文/硬件/07 附录/03 保修政策/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0023",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 2,
+      "title": "安全",
+      "file": "中文/硬件/02 安全/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0024",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 0,
+      "title": "通用安全准则",
+      "file": "中文/硬件/02 安全/01 通用安全准则/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0025",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 1,
+      "title": "安全标识说明",
+      "file": "中文/硬件/02 安全/02 安全标识说明/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0026",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 2,
+      "title": "安全符号与标签",
+      "file": "中文/硬件/02 安全/03 安全符号与标签/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0027",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 3,
+      "title": "通用安全要求",
+      "file": "中文/硬件/02 安全/04 通用安全要求/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0028",
+      "pairId": null,
+      "parentId": "n0027",
+      "level": 3,
+      "order": 0,
+      "title": "人员要求",
+      "file": "中文/硬件/02 安全/04 通用安全要求/01 人员要求/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0029",
+      "pairId": null,
+      "parentId": "n0027",
+      "level": 3,
+      "order": 1,
+      "title": "场所要求",
+      "file": "中文/硬件/02 安全/04 通用安全要求/02 场所要求/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0030",
+      "pairId": null,
+      "parentId": "n0027",
+      "level": 3,
+      "order": 2,
+      "title": "设备安全",
+      "file": "中文/硬件/02 安全/04 通用安全要求/03 设备安全/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0031",
+      "pairId": null,
+      "parentId": "n0027",
+      "level": 3,
+      "order": 3,
+      "title": "应急与消防安全",
+      "file": "中文/硬件/02 安全/04 通用安全要求/04 应急与消防安全/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0032",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 4,
+      "title": "电气要求",
+      "file": "中文/硬件/02 安全/05 电气要求/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0034",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 7,
+      "title": "急停装置",
+      "file": "中文/硬件/02 安全/07 急停装置/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0035",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 8,
+      "title": "防护门检测装置",
+      "file": "中文/硬件/02 安全/08 防护门检测装置/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0036",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 9,
+      "title": "符合性声明",
+      "file": "中文/硬件/02 安全/09 符合性声明/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0037",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 3,
+      "title": "运输与部署",
+      "file": "中文/硬件/03 运输与部署/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0038",
+      "pairId": null,
+      "parentId": "n0037",
+      "level": 2,
+      "order": 0,
+      "title": "搬运",
+      "file": "中文/硬件/03 运输与部署/01 搬运/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0039",
+      "pairId": null,
+      "parentId": "n0038",
+      "level": 3,
+      "order": 0,
+      "title": "搬运安全要求",
+      "file": "中文/硬件/03 运输与部署/01 搬运/01 搬运安全要求/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0040",
+      "pairId": null,
+      "parentId": "n0038",
+      "level": 3,
+      "order": 1,
+      "title": "搬运工具要求",
+      "file": "中文/硬件/03 运输与部署/01 搬运/02 搬运工具要求/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0041",
+      "pairId": null,
+      "parentId": "n0037",
+      "level": 2,
+      "order": 1,
+      "title": "开箱",
+      "file": "中文/硬件/03 运输与部署/02 开箱/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0042",
+      "pairId": null,
+      "parentId": "n0041",
+      "level": 3,
+      "order": 0,
+      "title": "检查包装状态",
+      "file": "中文/硬件/03 运输与部署/02 开箱/01 检查包装状态/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0043",
+      "pairId": null,
+      "parentId": "n0042",
+      "level": 4,
+      "order": 0,
+      "title": "外包装检查",
+      "file": "中文/硬件/03 运输与部署/02 开箱/01 检查包装状态/01 外包装检查/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0044",
+      "pairId": null,
+      "parentId": "n0042",
+      "level": 4,
+      "order": 1,
+      "title": "内包装检查",
+      "file": "中文/硬件/03 运输与部署/02 开箱/01 检查包装状态/02 内包装检查/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0045",
+      "pairId": null,
+      "parentId": "n0041",
+      "level": 3,
+      "order": 1,
+      "title": "检查设备外观",
+      "file": "中文/硬件/03 运输与部署/02 开箱/02 检查设备外观/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0046",
+      "pairId": null,
+      "parentId": "n0041",
+      "level": 3,
+      "order": 3,
+      "title": "清点配件",
+      "file": "中文/硬件/03 运输与部署/02 开箱/04 清点配件/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0047",
+      "pairId": null,
+      "parentId": "new-3c643016793249c28153eb85b77a8453",
+      "level": 4,
+      "order": 0,
+      "title": "拆除外部包装与防护材料",
+      "file": "中文/硬件/03 运输与部署/02 开箱/03 拆除运输防护/01 拆除外部包装与防护材料/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0048",
+      "pairId": null,
+      "parentId": "n0041",
+      "level": 3,
+      "order": 4,
+      "title": "拆除内部运输固定与防护",
+      "file": "中文/硬件/03 运输与部署/02 开箱/05 拆除内部运输固定与防护/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0049",
+      "pairId": null,
+      "parentId": "new-3c643016793249c28153eb85b77a8453",
+      "level": 4,
+      "order": 1,
+      "title": "主机运输固定钣金拆除",
+      "file": "中文/硬件/03 运输与部署/02 开箱/03 拆除运输防护/02 主机运输固定钣金拆除/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0050",
+      "pairId": null,
+      "parentId": "n0048",
+      "level": 4,
+      "order": 2,
+      "title": "主机运输把手拆除",
+      "file": "中文/硬件/03 运输与部署/02 开箱/05 拆除内部运输固定与防护/03 主机运输把手拆除/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0051",
+      "pairId": null,
+      "parentId": "n0048",
+      "level": 4,
+      "order": 0,
+      "title": "主轴与工作台固定钣金拆除",
+      "file": "中文/硬件/03 运输与部署/02 开箱/05 拆除内部运输固定与防护/01 主轴与工作台固定钣金拆除/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0052",
+      "pairId": null,
+      "parentId": "n0041",
+      "level": 3,
+      "order": 5,
+      "title": "拆除后检查",
+      "file": "中文/硬件/03 运输与部署/02 开箱/06 拆除后检查/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0053",
+      "pairId": null,
+      "parentId": "n0037",
+      "level": 2,
+      "order": 2,
+      "title": "安装要求",
+      "file": "中文/硬件/03 运输与部署/03 安装要求/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0054",
+      "pairId": null,
+      "parentId": "n0053",
+      "level": 3,
+      "order": 0,
+      "title": "环境要求",
+      "file": "中文/硬件/03 运输与部署/03 安装要求/01 环境要求/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0055",
+      "pairId": null,
+      "parentId": "n0053",
+      "level": 3,
+      "order": 1,
+      "title": "电源要求",
+      "file": "中文/硬件/03 运输与部署/03 安装要求/02 电源要求/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0056",
+      "pairId": null,
+      "parentId": "n0053",
+      "level": 3,
+      "order": 2,
+      "title": "工作台要求",
+      "file": "中文/硬件/03 运输与部署/03 安装要求/03 工作台要求/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0057",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 4,
+      "title": "安装与连接",
+      "file": "中文/硬件/04 安装与连接/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0058",
+      "pairId": null,
+      "parentId": "n0057",
+      "level": 2,
+      "order": 0,
+      "title": "主机结构",
+      "file": "中文/硬件/04 安装与连接/01 主机结构/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0059",
+      "pairId": null,
+      "parentId": "n0058",
+      "level": 3,
+      "order": 0,
+      "title": "主机部件",
+      "file": "中文/硬件/04 安装与连接/01 主机结构/01 主机部件/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0060",
+      "pairId": null,
+      "parentId": "n0058",
+      "level": 3,
+      "order": 1,
+      "title": "接口介绍",
+      "file": "中文/硬件/04 安装与连接/01 主机结构/02 接口介绍/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0080",
+      "pairId": null,
+      "parentId": "n0057",
+      "level": 2,
+      "order": 2,
+      "title": "安装与连接",
+      "file": "中文/硬件/04 安装与连接/02 安装与连接/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0081",
+      "pairId": null,
+      "parentId": "n0080",
+      "level": 3,
+      "order": 0,
+      "title": "夹具套装安装",
+      "file": "中文/硬件/04 安装与连接/02 安装与连接/01 夹具套装安装/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0082",
+      "pairId": null,
+      "parentId": "n0081",
+      "level": 4,
+      "order": 0,
+      "title": "L型定位治具和 OK夹",
+      "file": "中文/硬件/04 安装与连接/02 安装与连接/01 夹具套装安装/01 L型定位治具和 OK夹/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0083",
+      "pairId": null,
+      "parentId": "n0081",
+      "level": 4,
+      "order": 1,
+      "title": "L型定位治具 + 侧夹",
+      "file": "中文/硬件/04 安装与连接/02 安装与连接/01 夹具套装安装/02 L型定位治具 + 侧夹/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0084",
+      "pairId": null,
+      "parentId": "n0081",
+      "level": 4,
+      "order": 2,
+      "title": "平面板夹",
+      "file": "中文/硬件/04 安装与连接/02 安装与连接/01 夹具套装安装/03 平面板夹/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0085",
+      "pairId": null,
+      "parentId": "n0080",
+      "level": 3,
+      "order": 1,
+      "title": "刀套与夹头安装",
+      "file": "中文/硬件/04 安装与连接/02 安装与连接/02 刀套与夹头安装/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0086",
+      "pairId": null,
+      "parentId": "n0085",
+      "level": 4,
+      "order": 0,
+      "title": "主轴夹头安装与锁紧",
+      "file": "中文/硬件/04 安装与连接/02 安装与连接/02 刀套与夹头安装/01 主轴夹头安装与锁紧/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0087",
+      "pairId": null,
+      "parentId": "n0085",
+      "level": 4,
+      "order": 1,
+      "title": "刀套拆装筒",
+      "file": "中文/硬件/04 安装与连接/02 安装与连接/02 刀套与夹头安装/02 刀套拆装筒/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0088",
+      "pairId": null,
+      "parentId": "n0085",
+      "level": 4,
+      "order": 2,
+      "title": "筒夹拆装",
+      "file": "中文/硬件/04 安装与连接/02 安装与连接/02 刀套与夹头安装/03 筒夹拆装/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0089",
+      "pairId": null,
+      "parentId": "n0085",
+      "level": 4,
+      "order": 3,
+      "title": "铣刀安装",
+      "file": "中文/硬件/04 安装与连接/02 安装与连接/02 刀套与夹头安装/04 铣刀安装/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0090",
+      "pairId": null,
+      "parentId": "n0085",
+      "level": 4,
+      "order": 4,
+      "title": "铣刀拆卸",
+      "file": "中文/硬件/04 安装与连接/02 安装与连接/02 刀套与夹头安装/05 铣刀拆卸/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0092",
+      "pairId": null,
+      "parentId": "n0080",
+      "level": 3,
+      "order": 3,
+      "title": "吸尘器套件安装",
+      "file": "中文/硬件/04 安装与连接/02 安装与连接/03 吸尘器套件安装/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0094",
+      "pairId": null,
+      "parentId": "n0080",
+      "level": 3,
+      "order": 5,
+      "title": "排屑螺杆安装",
+      "file": "中文/硬件/04 安装与连接/02 安装与连接/04 排屑螺杆安装/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0095",
+      "pairId": null,
+      "parentId": "n0094",
+      "level": 4,
+      "order": 0,
+      "title": "左、右排屑螺杆安装",
+      "file": "中文/硬件/04 安装与连接/02 安装与连接/04 排屑螺杆安装/01 左、右排屑螺杆安装/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0096",
+      "pairId": null,
+      "parentId": "n0094",
+      "level": 4,
+      "order": 1,
+      "title": "前排屑螺杆安装",
+      "file": "中文/硬件/04 安装与连接/02 安装与连接/04 排屑螺杆安装/02 前排屑螺杆安装/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0197",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 5,
+      "title": "设备操作",
+      "file": "中文/硬件/05 设备操作/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0198",
+      "pairId": null,
+      "parentId": "n0197",
+      "level": 2,
+      "order": 0,
+      "title": "刀库",
+      "file": "中文/硬件/05 设备操作/01 刀库/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0199",
+      "pairId": null,
+      "parentId": "n0198",
+      "level": 3,
+      "order": 0,
+      "title": "RFID 标签使用",
+      "file": "中文/硬件/05 设备操作/01 刀库/01 RFID 标签使用/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0200",
+      "pairId": null,
+      "parentId": "n0199",
+      "level": 4,
+      "order": 0,
+      "title": "RFID 标签与刀具绑定",
+      "file": "中文/硬件/05 设备操作/01 刀库/01 RFID 标签使用/01 RFID 标签与刀具绑定/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0201",
+      "pairId": null,
+      "parentId": "n0199",
+      "level": 4,
+      "order": 1,
+      "title": "刀具操作",
+      "file": "中文/硬件/05 设备操作/01 刀库/01 RFID 标签使用/02 刀具操作/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0202",
+      "pairId": null,
+      "parentId": "n0198",
+      "level": 3,
+      "order": 1,
+      "title": "刀库位置调整",
+      "file": "中文/硬件/05 设备操作/01 刀库/02 刀库位置调整/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0203",
+      "pairId": null,
+      "parentId": "n0202",
+      "level": 4,
+      "order": 0,
+      "title": "安装前准备",
+      "file": "中文/硬件/05 设备操作/01 刀库/02 刀库位置调整/01 安装前准备/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0204",
+      "pairId": null,
+      "parentId": "n0197",
+      "level": 2,
+      "order": 1,
+      "title": "空压机使用",
+      "file": "中文/硬件/05 设备操作/02 空压机使用/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0205",
+      "pairId": null,
+      "parentId": "n0204",
+      "level": 3,
+      "order": 0,
+      "title": "空压机连接",
+      "file": "中文/硬件/05 设备操作/02 空压机使用/01 空压机连接/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0206",
+      "pairId": null,
+      "parentId": "n0204",
+      "level": 3,
+      "order": 1,
+      "title": "电源连接",
+      "file": "中文/硬件/05 设备操作/02 空压机使用/02 电源连接/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0207",
+      "pairId": null,
+      "parentId": "n0204",
+      "level": 3,
+      "order": 2,
+      "title": "开机与关机",
+      "file": "中文/硬件/05 设备操作/02 空压机使用/03 开机与关机/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0208",
+      "pairId": null,
+      "parentId": "n0204",
+      "level": 3,
+      "order": 3,
+      "title": "压力调节",
+      "file": "中文/硬件/05 设备操作/02 空压机使用/04 压力调节/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0209",
+      "pairId": null,
+      "parentId": "n0197",
+      "level": 2,
+      "order": 2,
+      "title": "水箱和喷淋使用",
+      "file": "中文/硬件/05 设备操作/03 水箱和喷淋使用/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0210",
+      "pairId": null,
+      "parentId": "n0209",
+      "level": 3,
+      "order": 0,
+      "title": "组件说明",
+      "file": "中文/硬件/05 设备操作/03 水箱和喷淋使用/01 组件说明/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0211",
+      "pairId": null,
+      "parentId": "n0209",
+      "level": 3,
+      "order": 1,
+      "title": "水箱安装与加液",
+      "file": "中文/硬件/05 设备操作/03 水箱和喷淋使用/02 水箱安装与加液/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0212",
+      "pairId": null,
+      "parentId": "n0209",
+      "level": 3,
+      "order": 2,
+      "title": "水路连接",
+      "file": "中文/硬件/05 设备操作/03 水箱和喷淋使用/03 水路连接/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0213",
+      "pairId": null,
+      "parentId": "n0209",
+      "level": 3,
+      "order": 3,
+      "title": "喷淋设置与调节",
+      "file": "中文/硬件/05 设备操作/03 水箱和喷淋使用/04 喷淋设置与调节/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0214",
+      "pairId": null,
+      "parentId": "n0209",
+      "level": 3,
+      "order": 4,
+      "title": "排水与维护",
+      "file": "中文/硬件/05 设备操作/03 水箱和喷淋使用/05 排水与维护/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0238",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 6,
+      "title": "技术参数",
+      "file": "中文/硬件/06 技术参数/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0239",
+      "pairId": null,
+      "parentId": "n0238",
+      "level": 2,
+      "order": 0,
+      "title": "设备参数",
+      "file": "中文/硬件/06 技术参数/01 设备参数/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0240",
+      "pairId": null,
+      "parentId": "n0238",
+      "level": 2,
+      "order": 1,
+      "title": "轴参数",
+      "file": "中文/硬件/06 技术参数/02 轴参数/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0241",
+      "pairId": null,
+      "parentId": "n0238",
+      "level": 2,
+      "order": 2,
+      "title": "电源参数",
+      "file": "中文/硬件/06 技术参数/03 电源参数/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0242",
+      "pairId": null,
+      "parentId": "n0238",
+      "level": 2,
+      "order": 3,
+      "title": "加工尺寸",
+      "file": "中文/硬件/06 技术参数/04 加工尺寸/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0243",
+      "pairId": null,
+      "parentId": "n0242",
+      "level": 3,
+      "order": 0,
+      "title": "三轴加工尺寸",
+      "file": "中文/硬件/06 技术参数/04 加工尺寸/01 三轴加工尺寸/README.md",
+      "draft": false
+    },
+    {
+      "id": "new-c7ad9cd3bf364fc4bed01bdb128770f9",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 6,
+      "title": "探针安全探测区域",
+      "file": "中文/硬件/02 安全/06 探针安全探测区域/README.md",
+      "draft": false
+    },
+    {
+      "id": "auto-4314a1c11e6143ec85d3e5b597e98ba0",
+      "pairId": null,
+      "parentId": "new-c7ad9cd3bf364fc4bed01bdb128770f9",
+      "level": 3,
+      "order": 0,
+      "title": "刀库右置",
+      "file": "中文/硬件/02 安全/06 探针安全探测区域/01 刀库右置/README.md",
+      "draft": false
+    },
+    {
+      "id": "new-abb7d8c689734233be351809ac09178a",
+      "pairId": null,
+      "parentId": "new-c7ad9cd3bf364fc4bed01bdb128770f9",
+      "level": 3,
+      "order": 1,
+      "title": "刀库后置",
+      "file": "中文/硬件/02 安全/06 探针安全探测区域/02 刀库后置/README.md",
+      "draft": false
+    },
+    {
+      "id": "new-a5e967e63e99438b9b57a3129a5ec73d",
+      "pairId": "pair-58cb81697bcf4464991bb627caf9d1cc",
+      "parentId": "new-c7ad9cd3bf364fc4bed01bdb128770f9",
+      "level": 3,
+      "order": 2,
+      "title": "配置浅口虎钳",
+      "file": "中文/硬件/02 安全/06 探针安全探测区域/03 配置浅口虎钳/README.md",
+      "draft": false
+    },
+    {
+      "id": "new-1a0fe096563d42e6b8a4ad8294983c6b",
+      "pairId": "pair-e5664f26de5b4119904e75a0dd015797",
+      "parentId": "n0094",
+      "level": 4,
+      "order": 2,
+      "title": "排渣管道安装",
+      "file": "中文/硬件/04 安装与连接/02 安装与连接/04 排屑螺杆安装/03 排渣管道安装/README.md",
+      "draft": false
+    },
+    {
+      "id": "new-6a8451c1b8ba4855bde8024faf879a75",
+      "pairId": "pair-91f6247aba7542f1915d25940116cdf2",
+      "parentId": "n0048",
+      "level": 4,
+      "order": 1,
+      "title": "拆除内部运输防护材料",
+      "file": "中文/硬件/03 运输与部署/02 开箱/05 拆除内部运输固定与防护/02 拆除内部运输防护材料/README.md",
+      "draft": false
+    },
+    {
+      "id": "new-3c643016793249c28153eb85b77a8453",
+      "pairId": "pair-a800172aeba84a1d945c9d8f704224b8",
+      "parentId": "n0041",
+      "level": 3,
+      "order": 2,
+      "title": "拆除运输防护",
+      "file": "中文/硬件/03 运输与部署/02 开箱/03 拆除运输防护/README.md",
+      "draft": false
+    },
+    {
+      "id": "auto-5acad8ba3fa847f1bd4a7ec7c4035318",
+      "pairId": null,
+      "parentId": "n0202",
+      "level": 4,
+      "order": 1,
+      "title": "拆卸原刀库",
+      "file": "中文/硬件/05 设备操作/01 刀库/02 刀库位置调整/02 拆卸原刀库/README.md",
+      "draft": false
+    },
+    {
+      "id": "auto-7b3ff66ca56249179bbe1fb3d1b6bf12",
+      "pairId": null,
+      "parentId": "n0202",
+      "level": 4,
+      "order": 2,
+      "title": "右侧切换至右后侧安装",
+      "file": "中文/硬件/05 设备操作/01 刀库/02 刀库位置调整/03 右侧切换至右后侧安装/README.md",
+      "draft": false
+    },
+    {
+      "id": "auto-b209966544364662b1e9a5c0ae69f9f1",
+      "pairId": null,
+      "parentId": "n0202",
+      "level": 4,
+      "order": 3,
+      "title": "右后侧切换至右侧安装",
+      "file": "中文/硬件/05 设备操作/01 刀库/02 刀库位置调整/04 右后侧切换至右侧安装/README.md",
+      "draft": false
+    }
+  ]
+}

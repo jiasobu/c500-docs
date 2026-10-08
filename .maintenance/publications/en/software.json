@@ -1,0 +1,980 @@
+{
+  "version": "title-tree-mvp-v1",
+  "projectName": "C500 Software Operation Manual",
+  "sourceFile": ".",
+  "sourceCopy": null,
+  "sourceHash": "",
+  "preambleFile": null,
+  "nodes": [
+    {
+      "id": "n0001",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 0,
+      "title": "Preface",
+      "file": "English/Software/00 Preface/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0003",
+      "pairId": null,
+      "parentId": "n0001",
+      "level": 2,
+      "order": 1,
+      "title": "Revisions",
+      "file": "English/Software/00 Preface/01 Revisions/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0005",
+      "pairId": null,
+      "parentId": "n0001",
+      "level": 2,
+      "order": 3,
+      "title": "About This Manual",
+      "file": "English/Software/00 Preface/02 About This Manual/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0100",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 1,
+      "title": "Software Installation",
+      "file": "English/Software/01 Software Installation/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0101",
+      "pairId": null,
+      "parentId": "n0100",
+      "level": 2,
+      "order": 0,
+      "title": "NestStudio",
+      "file": "English/Software/01 Software Installation/01 NestStudio/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0102",
+      "pairId": null,
+      "parentId": "n0101",
+      "level": 3,
+      "order": 0,
+      "title": "Overview",
+      "file": "English/Software/01 Software Installation/01 NestStudio/01 Overview/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0103",
+      "pairId": null,
+      "parentId": "n0101",
+      "level": 3,
+      "order": 1,
+      "title": "System Requirements",
+      "file": "English/Software/01 Software Installation/01 NestStudio/02 System Requirements/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0104",
+      "pairId": null,
+      "parentId": "n0101",
+      "level": 3,
+      "order": 2,
+      "title": "Windows Download and Installation",
+      "file": "English/Software/01 Software Installation/01 NestStudio/03 Windows Download and Installation/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0105",
+      "pairId": null,
+      "parentId": "n0104",
+      "level": 4,
+      "order": 1,
+      "title": "Windows Installation",
+      "file": "English/Software/01 Software Installation/01 NestStudio/03 Windows Download and Installation/02 Windows Installation/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0106",
+      "pairId": null,
+      "parentId": "new-bbd3d24586c7454bae894368873bed76",
+      "level": 4,
+      "order": 1,
+      "title": "MacOS Installation",
+      "file": "English/Software/01 Software Installation/01 NestStudio/04 macOS Download and Installation/02 MacOS Installation/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0107",
+      "pairId": null,
+      "parentId": "n0101",
+      "level": 3,
+      "order": 4,
+      "title": "machine Connection",
+      "file": "English/Software/01 Software Installation/01 NestStudio/05 machine Connection/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0108",
+      "pairId": null,
+      "parentId": "n0107",
+      "level": 4,
+      "order": 0,
+      "title": "Wired Connection",
+      "file": "English/Software/01 Software Installation/01 NestStudio/05 machine Connection/01 Wired Connection/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0109",
+      "pairId": null,
+      "parentId": "n0107",
+      "level": 4,
+      "order": 1,
+      "title": "Wireless Connection",
+      "file": "English/Software/01 Software Installation/01 NestStudio/05 machine Connection/02 Wireless Connection/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0110",
+      "pairId": null,
+      "parentId": "n0100",
+      "level": 2,
+      "order": 1,
+      "title": "NestPad",
+      "file": "English/Software/01 Software Installation/02 NestPad/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0111",
+      "pairId": null,
+      "parentId": "n0110",
+      "level": 3,
+      "order": 0,
+      "title": "First Startup and machine Self-Check",
+      "file": "English/Software/01 Software Installation/02 NestPad/01 First Startup and machine Self-Check/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0112",
+      "pairId": null,
+      "parentId": "n0110",
+      "level": 3,
+      "order": 1,
+      "title": "Software Update",
+      "file": "English/Software/01 Software Installation/02 NestPad/02 Software Update/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0113",
+      "pairId": null,
+      "parentId": "n0112",
+      "level": 4,
+      "order": 0,
+      "title": "First Startup Update",
+      "file": "English/Software/01 Software Installation/02 NestPad/02 Software Update/01 First Startup Update/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0114",
+      "pairId": null,
+      "parentId": "n0112",
+      "level": 4,
+      "order": 1,
+      "title": "Check for Updates",
+      "file": "English/Software/01 Software Installation/02 NestPad/02 Software Update/02 Check for Updates/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0115",
+      "pairId": null,
+      "parentId": "n0100",
+      "level": 2,
+      "order": 2,
+      "title": "Community Access",
+      "file": "English/Software/01 Software Installation/03 Community Access/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0116",
+      "pairId": null,
+      "parentId": "n0115",
+      "level": 3,
+      "order": 0,
+      "title": "NestPad Access",
+      "file": "English/Software/01 Software Installation/03 Community Access/01 NestPad Access/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0117",
+      "pairId": null,
+      "parentId": "n0115",
+      "level": 3,
+      "order": 1,
+      "title": "CAM Software Access",
+      "file": "English/Software/01 Software Installation/03 Community Access/02 CAM Software Access/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0118",
+      "pairId": null,
+      "parentId": "n0115",
+      "level": 3,
+      "order": 2,
+      "title": "Website Access",
+      "file": "English/Software/01 Software Installation/03 Community Access/03 Website Access/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0119",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 2,
+      "title": "Software Operations",
+      "file": "English/Software/02 Software Operations/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0120",
+      "pairId": null,
+      "parentId": "n0119",
+      "level": 2,
+      "order": 0,
+      "title": "Overview",
+      "file": "English/Software/02 Software Operations/01 Overview/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0121",
+      "pairId": null,
+      "parentId": "n0120",
+      "level": 3,
+      "order": 0,
+      "title": "Home",
+      "file": "English/Software/02 Software Operations/01 Overview/01 Home/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0122",
+      "pairId": null,
+      "parentId": "n0120",
+      "level": 3,
+      "order": 1,
+      "title": "Workshop",
+      "file": "English/Software/02 Software Operations/01 Overview/02 Workshop/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0123",
+      "pairId": null,
+      "parentId": "n0120",
+      "level": 3,
+      "order": 2,
+      "title": "User Guide",
+      "file": "English/Software/02 Software Operations/01 Overview/03 User Guide/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0124",
+      "pairId": null,
+      "parentId": "n0120",
+      "level": 3,
+      "order": 3,
+      "title": "Prepare Page",
+      "file": "English/Software/02 Software Operations/01 Overview/04 Prepare Page/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0125",
+      "pairId": null,
+      "parentId": "n0120",
+      "level": 3,
+      "order": 4,
+      "title": "Preview Page",
+      "file": "English/Software/02 Software Operations/01 Overview/05 Preview Page/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0126",
+      "pairId": null,
+      "parentId": "n0120",
+      "level": 3,
+      "order": 5,
+      "title": "Device Page",
+      "file": "English/Software/02 Software Operations/01 Overview/06 Device Page/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0127",
+      "pairId": null,
+      "parentId": "n0126",
+      "level": 4,
+      "order": 0,
+      "title": "Tool Management",
+      "file": "English/Software/02 Software Operations/01 Overview/06 Device Page/01 Tool Management/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0128",
+      "pairId": null,
+      "parentId": "n0126",
+      "level": 4,
+      "order": 1,
+      "title": "Coolant Management",
+      "file": "English/Software/02 Software Operations/01 Overview/06 Device Page/02 Coolant Management/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0129",
+      "pairId": null,
+      "parentId": "n0126",
+      "level": 4,
+      "order": 2,
+      "title": "Machine Calibration",
+      "file": "English/Software/02 Software Operations/01 Overview/06 Device Page/03 Machine Calibration/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0130",
+      "pairId": null,
+      "parentId": "n0119",
+      "level": 2,
+      "order": 1,
+      "title": "NestStudio Interface",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0131",
+      "pairId": null,
+      "parentId": "n0130",
+      "level": 3,
+      "order": 0,
+      "title": "Top Toolbar",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/01 Top Toolbar/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0132",
+      "pairId": null,
+      "parentId": "n0130",
+      "level": 3,
+      "order": 1,
+      "title": "Common Shortcut Functions",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/02 Common Shortcut Functions/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0133",
+      "pairId": null,
+      "parentId": "n0130",
+      "level": 3,
+      "order": 2,
+      "title": "Model Import",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/03 Model Import/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0134",
+      "pairId": null,
+      "parentId": "n0133",
+      "level": 4,
+      "order": 0,
+      "title": "Import Methods",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/03 Model Import/01 Import Methods/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0135",
+      "pairId": null,
+      "parentId": "n0133",
+      "level": 4,
+      "order": 1,
+      "title": "Supported File Formats",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/03 Model Import/02 Supported File Formats/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0136",
+      "pairId": null,
+      "parentId": "n0133",
+      "level": 4,
+      "order": 2,
+      "title": "Import Detection",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/03 Model Import/03 Import Detection/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0137",
+      "pairId": null,
+      "parentId": "n0130",
+      "level": 3,
+      "order": 3,
+      "title": "Machining Parameter Settings",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0138",
+      "pairId": null,
+      "parentId": "n0137",
+      "level": 4,
+      "order": 0,
+      "title": "Basic Information",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/01 Basic Information/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0139",
+      "pairId": null,
+      "parentId": "n0137",
+      "level": 4,
+      "order": 1,
+      "title": "Parameter Overview",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/02 Parameter Overview/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0140",
+      "pairId": null,
+      "parentId": "n0137",
+      "level": 4,
+      "order": 2,
+      "title": "Custom Settings",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/03 Custom Settings/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0141",
+      "pairId": null,
+      "parentId": "n0130",
+      "level": 3,
+      "order": 4,
+      "title": "3D Toolpath Preview",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/05 3D Toolpath Preview/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0142",
+      "pairId": null,
+      "parentId": "n0141",
+      "level": 4,
+      "order": 0,
+      "title": "G-code Preview",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/05 3D Toolpath Preview/01 G-code Preview/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0143",
+      "pairId": null,
+      "parentId": "n0141",
+      "level": 4,
+      "order": 1,
+      "title": "3D Toolpath Simulation Viewport",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/05 3D Toolpath Preview/02 3D Toolpath Simulation Viewport/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0144",
+      "pairId": null,
+      "parentId": "n0130",
+      "level": 3,
+      "order": 5,
+      "title": "4-Axis Toolpath Preview",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/06 4-Axis Toolpath Preview/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0145",
+      "pairId": null,
+      "parentId": "n0130",
+      "level": 3,
+      "order": 6,
+      "title": "Automatic Centering",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/07 Automatic Centering/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0146",
+      "pairId": null,
+      "parentId": "n0130",
+      "level": 3,
+      "order": 7,
+      "title": "Laser Framing",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/08 Laser Framing/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0147",
+      "pairId": null,
+      "parentId": "n0130",
+      "level": 3,
+      "order": 8,
+      "title": "G-code Import",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/09 G-code Import/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0148",
+      "pairId": null,
+      "parentId": "n0130",
+      "level": 3,
+      "order": 9,
+      "title": "Tool Management",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/10 Tool Management/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0149",
+      "pairId": null,
+      "parentId": "n0148",
+      "level": 4,
+      "order": 0,
+      "title": "Tool Loading",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/10 Tool Management/01 Tool Loading/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0150",
+      "pairId": null,
+      "parentId": "n0148",
+      "level": 4,
+      "order": 1,
+      "title": "Tool Life Management",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/10 Tool Management/02 Tool Life Management/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0151",
+      "pairId": null,
+      "parentId": "n0130",
+      "level": 3,
+      "order": 10,
+      "title": "Coolant Management",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/11 Coolant Management/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0152",
+      "pairId": null,
+      "parentId": "n0130",
+      "level": 3,
+      "order": 11,
+      "title": "Machine Calibration",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/12 Machine Calibration/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0153",
+      "pairId": null,
+      "parentId": "n0152",
+      "level": 4,
+      "order": 0,
+      "title": "Device Information",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/12 Machine Calibration/01 Device Information/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0154",
+      "pairId": null,
+      "parentId": "n0152",
+      "level": 4,
+      "order": 1,
+      "title": "Device Calibration",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/12 Machine Calibration/02 Device Calibration/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0155",
+      "pairId": null,
+      "parentId": "n0130",
+      "level": 3,
+      "order": 12,
+      "title": "Task Machining",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/13 Task Machining/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0156",
+      "pairId": null,
+      "parentId": "n0155",
+      "level": 4,
+      "order": 0,
+      "title": "3D Toolpath",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/13 Task Machining/01 3D Toolpath/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0157",
+      "pairId": null,
+      "parentId": "n0155",
+      "level": 4,
+      "order": 1,
+      "title": "Console",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/13 Task Machining/02 Console/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0158",
+      "pairId": null,
+      "parentId": "n0155",
+      "level": 4,
+      "order": 2,
+      "title": "G-code Machining Guide",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/13 Task Machining/03 G-code Machining Guide/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0159",
+      "pairId": null,
+      "parentId": "n0155",
+      "level": 4,
+      "order": 3,
+      "title": "Quick Device Adjustment",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/13 Task Machining/04 Quick Device Adjustment/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0160",
+      "pairId": null,
+      "parentId": "n0130",
+      "level": 3,
+      "order": 13,
+      "title": "User Account",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/14 User Account/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0161",
+      "pairId": null,
+      "parentId": "n0160",
+      "level": 4,
+      "order": 0,
+      "title": "Login",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/14 User Account/01 Login/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0162",
+      "pairId": null,
+      "parentId": "n0160",
+      "level": 4,
+      "order": 1,
+      "title": "Register",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/14 User Account/02 Register/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0163",
+      "pairId": null,
+      "parentId": "n0160",
+      "level": 4,
+      "order": 2,
+      "title": "Password Recovery",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/14 User Account/03 Password Recovery/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0164",
+      "pairId": null,
+      "parentId": "n0160",
+      "level": 4,
+      "order": 3,
+      "title": "Cloud Storage",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/14 User Account/04 Cloud Storage/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0165",
+      "pairId": null,
+      "parentId": "n0130",
+      "level": 3,
+      "order": 14,
+      "title": "Folders",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/15 Folders/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0166",
+      "pairId": null,
+      "parentId": "n0130",
+      "level": 3,
+      "order": 15,
+      "title": "Settings",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/16 Settings/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0167",
+      "pairId": null,
+      "parentId": "n0130",
+      "level": 3,
+      "order": 16,
+      "title": "Software E-Stop",
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/17 Software E-Stop/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0168",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 3,
+      "title": "NestPad",
+      "file": "English/Software/03 NestPad/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0169",
+      "pairId": null,
+      "parentId": "n0168",
+      "level": 2,
+      "order": 0,
+      "title": "Overview",
+      "file": "English/Software/03 NestPad/01 Overview/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0170",
+      "pairId": null,
+      "parentId": "n0169",
+      "level": 3,
+      "order": 0,
+      "title": "Interface",
+      "file": "English/Software/03 NestPad/01 Overview/01 Interface/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0171",
+      "pairId": null,
+      "parentId": "n0168",
+      "level": 2,
+      "order": 1,
+      "title": "Machining Execution and Monitoring",
+      "file": "English/Software/03 NestPad/02 Machining Execution and Monitoring/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0172",
+      "pairId": null,
+      "parentId": "n0171",
+      "level": 3,
+      "order": 0,
+      "title": "File Import",
+      "file": "English/Software/03 NestPad/02 Machining Execution and Monitoring/01 File Import/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0173",
+      "pairId": null,
+      "parentId": "n0171",
+      "level": 3,
+      "order": 1,
+      "title": "File Verification and Parsing",
+      "file": "English/Software/03 NestPad/02 Machining Execution and Monitoring/02 File Verification and Parsing/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0174",
+      "pairId": null,
+      "parentId": "n0171",
+      "level": 3,
+      "order": 2,
+      "title": "Machining Control",
+      "file": "English/Software/03 NestPad/02 Machining Execution and Monitoring/03 Machining Control/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0175",
+      "pairId": null,
+      "parentId": "n0171",
+      "level": 3,
+      "order": 3,
+      "title": "Machining Status",
+      "file": "English/Software/03 NestPad/02 Machining Execution and Monitoring/04 Machining Status/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0176",
+      "pairId": null,
+      "parentId": "n0168",
+      "level": 2,
+      "order": 2,
+      "title": "Submodules and Accessories",
+      "file": "English/Software/03 NestPad/03 Submodules and Accessories/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0177",
+      "pairId": null,
+      "parentId": "n0168",
+      "level": 2,
+      "order": 3,
+      "title": "Manual Control and Calibration",
+      "file": "English/Software/03 NestPad/04 Manual Control and Calibration/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0178",
+      "pairId": null,
+      "parentId": "n0177",
+      "level": 3,
+      "order": 0,
+      "title": "Spindle Motion Panel",
+      "file": "English/Software/03 NestPad/04 Manual Control and Calibration/01 Spindle Motion Panel/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0179",
+      "pairId": null,
+      "parentId": "n0177",
+      "level": 3,
+      "order": 1,
+      "title": "Coordinate System Setup",
+      "file": "English/Software/03 NestPad/04 Manual Control and Calibration/02 Coordinate System Setup/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0180",
+      "pairId": null,
+      "parentId": "n0177",
+      "level": 3,
+      "order": 2,
+      "title": "Machine Zero Return",
+      "file": "English/Software/03 NestPad/04 Manual Control and Calibration/03 Machine Zero Return/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0181",
+      "pairId": null,
+      "parentId": "n0177",
+      "level": 3,
+      "order": 3,
+      "title": "Motion Parameter Settings",
+      "file": "English/Software/03 NestPad/04 Manual Control and Calibration/04 Motion Parameter Settings/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0182",
+      "pairId": null,
+      "parentId": "n0168",
+      "level": 2,
+      "order": 4,
+      "title": "Tool Management",
+      "file": "English/Software/03 NestPad/05 Tool Management/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0183",
+      "pairId": null,
+      "parentId": "n0168",
+      "level": 2,
+      "order": 5,
+      "title": "Basic Settings",
+      "file": "English/Software/03 NestPad/06 Basic Settings/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0184",
+      "pairId": null,
+      "parentId": "n0183",
+      "level": 3,
+      "order": 0,
+      "title": "Account Settings",
+      "file": "English/Software/03 NestPad/06 Basic Settings/01 Account Settings/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0185",
+      "pairId": null,
+      "parentId": "n0183",
+      "level": 3,
+      "order": 1,
+      "title": "Network Settings",
+      "file": "English/Software/03 NestPad/06 Basic Settings/02 Network Settings/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0186",
+      "pairId": null,
+      "parentId": "n0183",
+      "level": 3,
+      "order": 2,
+      "title": "Updates",
+      "file": "English/Software/03 NestPad/06 Basic Settings/03 Updates/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0187",
+      "pairId": null,
+      "parentId": "n0183",
+      "level": 3,
+      "order": 3,
+      "title": "Storage Management",
+      "file": "English/Software/03 NestPad/06 Basic Settings/04 Storage Management/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0188",
+      "pairId": null,
+      "parentId": "n0183",
+      "level": 3,
+      "order": 4,
+      "title": "Calibration and Tools",
+      "file": "English/Software/03 NestPad/06 Basic Settings/05 Calibration and Tools/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0189",
+      "pairId": null,
+      "parentId": "n0183",
+      "level": 3,
+      "order": 5,
+      "title": "Preferences",
+      "file": "English/Software/03 NestPad/06 Basic Settings/06 Preferences/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0247",
+      "pairId": null,
+      "parentId": "n0169",
+      "level": 3,
+      "order": 1,
+      "title": "Header Bar",
+      "file": "English/Software/03 NestPad/01 Overview/02 Header Bar/README.md",
+      "draft": false
+    },
+    {
+      "id": "new-c686394efa8a4061947aba3aceeb521f",
+      "pairId": null,
+      "parentId": "n0104",
+      "level": 4,
+      "order": 0,
+      "title": "Windows Software Download",
+      "file": "English/Software/01 Software Installation/01 NestStudio/03 Windows Download and Installation/01 Windows Software Download/README.md",
+      "draft": false
+    },
+    {
+      "id": "new-bbd3d24586c7454bae894368873bed76",
+      "pairId": null,
+      "parentId": "n0101",
+      "level": 3,
+      "order": 3,
+      "title": "macOS Download and Installation",
+      "file": "English/Software/01 Software Installation/01 NestStudio/04 macOS Download and Installation/README.md",
+      "draft": true
+    },
+    {
+      "id": "new-dd44ae950bcb489680bf90320a2cf1fc",
+      "pairId": null,
+      "parentId": "new-bbd3d24586c7454bae894368873bed76",
+      "level": 4,
+      "order": 0,
+      "title": "macOS Software Download",
+      "file": "English/Software/01 Software Installation/01 NestStudio/04 macOS Download and Installation/01 macOS Software Download/README.md",
+      "draft": false
+    }
+  ]
+}

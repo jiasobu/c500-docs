@@ -2,6 +2,6 @@
 _build/
 *.pdf
 __pycache__/
-wiki/workbench-link.json
-wiki/_*/
-wiki/发布预览记录/
+.maintenance/wiki/workbench-link.json
+.maintenance/wiki/_*/
+.maintenance/wiki/发布预览记录/
