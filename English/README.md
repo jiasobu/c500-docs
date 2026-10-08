@@ -1,8 +1,14 @@
-# English Documentation
+# English Documents
 
-- [Hardware Manual](Hardware%20Manual/README.md)
-- [Software Manual](Software%20Manual/README.md)
-- [First Machining Guide](First%20Machining%20Guide/README.md)
-- [Accessories](Accessories/README.md)
-- [Shared Content](Shared%20Content/README.md)
-- [Complete library](完整目录.md)
+One set of source documents for the Wiki and user manuals.
+
+- [Hardware](Hardware/README.md)
+- [Software](Software/README.md)
+- [First Machining](First%20Machining/README.md)
+- [Process Library](Process%20Library/)
+- [FAQ](FAQ/)
+- [Maintenance](Maintenance/)
+
+[Complete contents](完整目录.md)
+
+[Library home](../README.md)

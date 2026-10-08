@@ -1,0 +1,120 @@
+{
+  "version": "title-tree-mvp-v1",
+  "projectName": "C500 First Machining Guide",
+  "sourceFile": ".",
+  "sourceCopy": null,
+  "sourceHash": "",
+  "preambleFile": null,
+  "nodes": [
+    {
+      "id": "n0001",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 0,
+      "title": "Preface",
+      "file": "English/First Machining/00 Preface/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0003",
+      "pairId": null,
+      "parentId": "n0001",
+      "level": 2,
+      "order": 1,
+      "title": "Revisions",
+      "file": "English/First Machining/00 Preface/01 Revisions/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0005",
+      "pairId": null,
+      "parentId": "n0001",
+      "level": 2,
+      "order": 3,
+      "title": "About This Guide",
+      "file": "English/First Machining/00 Preface/02 About This Guide/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0190",
+      "pairId": null,
+      "parentId": null,
+      "level": 1,
+      "order": 1,
+      "title": "Initial Operation",
+      "file": "English/First Machining/01 Initial Operation/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0191",
+      "pairId": null,
+      "parentId": "n0190",
+      "level": 2,
+      "order": 0,
+      "title": "Creating a New Project",
+      "file": "English/First Machining/01 Initial Operation/01 Creating a New Project/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0192",
+      "pairId": null,
+      "parentId": "n0190",
+      "level": 2,
+      "order": 1,
+      "title": "Importing Model Files",
+      "file": "English/First Machining/01 Initial Operation/02 Importing Model Files/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0193",
+      "pairId": null,
+      "parentId": "n0190",
+      "level": 2,
+      "order": 2,
+      "title": "Configuring Machining Parameters",
+      "file": "English/First Machining/01 Initial Operation/03 Configuring Machining Parameters/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0194",
+      "pairId": null,
+      "parentId": "n0190",
+      "level": 2,
+      "order": 3,
+      "title": "Generating Toolpaths",
+      "file": "English/First Machining/01 Initial Operation/04 Generating Toolpaths/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0195",
+      "pairId": null,
+      "parentId": "n0190",
+      "level": 2,
+      "order": 4,
+      "title": "Toolpath Preview",
+      "file": "English/First Machining/01 Initial Operation/05 Toolpath Preview/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0196",
+      "pairId": null,
+      "parentId": "n0190",
+      "level": 2,
+      "order": 5,
+      "title": "Workpiece Coordinate System Setup",
+      "file": "English/First Machining/01 Initial Operation/06 Workpiece Coordinate System Setup/README.md",
+      "draft": false
+    },
+    {
+      "id": "n0197",
+      "pairId": null,
+      "parentId": "n0190",
+      "level": 2,
+      "order": 6,
+      "title": "Real-Time Monitoring",
+      "file": "English/First Machining/01 Initial Operation/07 Real-Time Monitoring/README.md",
+      "draft": false
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "pages": [
+    {
+      "id": "c500-faq",
+      "group": "c500",
+      "section": "faq",
+      "order": 54,
+      "zh": {
+        "title": "FAQ",
+        "sectionTitle": "FAQ",
+        "path": "/zh/c500/faq",
+        "sourceDirectory": "中文/FAQ"
+      },
+      "en": {
+        "title": "FAQ",
+        "sectionTitle": "FAQ",
+        "path": "/en/c500/faq",
+        "sourceDirectory": "English/FAQ"
+      },
+      "reason": "目录已建立，尚无正文；补充正文后加入 wiki-map.json。"
+    },
+    {
+      "id": "c500-troubleshooting",
+      "group": "c500",
+      "section": "troubleshooting",
+      "order": 55,
+      "zh": {
+        "title": "故障排除",
+        "sectionTitle": "故障排除",
+        "path": "/zh/c500/troubleshooting",
+        "sourceDirectory": "中文/维保/故障排除"
+      },
+      "en": {
+        "title": "Troubleshooting",
+        "sectionTitle": "Troubleshooting",
+        "path": "/en/c500/troubleshooting",
+        "sourceDirectory": "English/Maintenance/Troubleshooting"
+      },
+      "reason": "目录已建立，尚无正文；补充正文后加入 wiki-map.json。"
+    },
+    {
+      "id": "c500-parts-replacement",
+      "group": "c500",
+      "section": "parts-replacement",
+      "order": 56,
+      "zh": {
+        "title": "零件更换",
+        "sectionTitle": "零件更换",
+        "path": "/zh/c500/parts-replacement",
+        "sourceDirectory": "中文/维保/零件更换"
+      },
+      "en": {
+        "title": "Parts Replacement",
+        "sectionTitle": "Parts Replacement",
+        "path": "/en/c500/parts-replacement",
+        "sourceDirectory": "English/Maintenance/Parts Replacement"
+      },
+      "reason": "目录已建立，尚无正文；补充正文后加入 wiki-map.json。"
+    },
+    {
+      "id": "c500-maintenance-guide",
+      "group": "c500",
+      "section": "maintenance-guide",
+      "order": 57,
+      "zh": {
+        "title": "维护指南",
+        "sectionTitle": "维护指南",
+        "path": "/zh/c500/maintenance-guide",
+        "sourceDirectory": "中文/维保/维护指南"
+      },
+      "en": {
+        "title": "Maintenance Guide",
+        "sectionTitle": "Maintenance Guide",
+        "path": "/en/c500/maintenance-guide",
+        "sourceDirectory": "English/Maintenance/Maintenance Guide"
+      },
+      "reason": "目录已建立，尚无正文；补充正文后加入 wiki-map.json。"
+    }
+  ]
+}
