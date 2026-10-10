@@ -6,11 +6,11 @@ This fixture kit is primarily used to secure and clamp thin, lightweight workpie
 
 The fixture kit includes the following accessories:
 
-![](../../../../assets/en1-9b84296762d0.png){width=12cm}
+![](assets/en1-9b84296762d0.png){width=12cm}
 
 The included fasteners and tools are shown below:
 
-![](../../../../assets/en2-f3a5b38a42d3.png){width=12cm}
+![](assets/en2-f3a5b38a42d3.png){width=12cm}
 
 ## Materials
 
@@ -19,7 +19,7 @@ The fixture kit can be used for:
 - Oversized square stock that is difficult to clamp in a vise.
 - Thin sheet materials, such as PCBs, metal sheets, and wood panels.
 
-![](../../../../assets/01-Materials-eba574bbfa88.png){width=12cm}
+![](assets/01-Materials-eba574bbfa88.png){width=12cm}
 
 Select a clamping method based on the stock dimensions and machining load:
 
@@ -38,7 +38,7 @@ Centering is an important step that allows the machine to determine the dimensio
 - If the lower-left corner is set as the workpiece origin, only the Z-axis height needs to be measured.
 - If the center of the workpiece is set as the origin, the X-, Y-, and Z-axis positions must be measured.
 
-![](../../../../assets/Centering_Probing_Area_AB-6331e75c8c95.png){width=12cm}
+![](assets/Centering_Probing_Area_AB-6331e75c8c95.png){width=12cm}
 
 ### When Using the Flat Panel Clamps
 
@@ -47,11 +47,11 @@ Using the clamping setup shown below as an example:
 - All four sides of the material must be probed.
 - Measure the Z-axis height at any point.
 
-![](../../../../assets/Centering_Probing_Area_C-bc74a7421023.png){width=10cm}
+![](assets/Centering_Probing_Area_C-bc74a7421023.png){width=10cm}
 
 ### X-Axis and Y-Axis Size Limits
 
-![](../../../../assets/03-Size_Limits-c79c4c1e5803.png){width=10cm}
+![](assets/03-Size_Limits-c79c4c1e5803.png){width=10cm}
 
 ## OK Clamp
 
@@ -74,7 +74,7 @@ Prepare the following materials and tools:
 2. Adjust the orientation of the T-slot bolts so that they can slide into the T-slots.
 3. Place the OK clamps in the T-slots and slide them into the appropriate positions.
 
-![](../../../../assets/04-OK_Clamp_Installation-aa9b1b0a4770.png){width=10cm}
+![](assets/04-OK_Clamp_Installation-aa9b1b0a4770.png){width=10cm}
 
 ### L-Shaped Locating Fixture Positions and Restrictions
 
@@ -87,34 +87,34 @@ All the following examples use the CNC machining setup.
 
 The following two sizes are available. Select one for installation based on the clearance required for the workpiece.
 
-![](../../../../assets/AB-06980c2eb78f.png){width=10cm}
+![](assets/AB-06980c2eb78f.png){width=10cm}
 
-![](../../../../assets/workpiece-f62e979c950f.png){width=10cm}
+![](assets/workpiece-f62e979c950f.png){width=10cm}
 
 ### Fixture and Clamp Positioning
 
 1. Install the locating pins for the L-shaped locating fixture.
 2. Install the hex socket screws for the L-shaped locating fixture.
 
-![](../../../../assets/12-80605df99bf9.png){width=12cm}
+![](assets/12-80605df99bf9.png){width=12cm}
 
 3. Place the stock on the worktable. Make sure that two sides of the stock are flush against the inner faces of the L-shaped locating fixture, and position the clamp sliders as close to the workpiece surface as possible.
 4. Rotate the T-slot bolts 90°.
 
-![](../../../../assets/34-44ad907b0b82.png){width=12cm}
+![](assets/34-44ad907b0b82.png){width=12cm}
 
 ### Final Tightening
 
 1. Use a socket wrench to tighten the flange nuts on the OK clamps.
 2. Use a hex key to tighten the clamping screws on the OK clamps.
 
-![](../../../../assets/Final_Tightening-a9ddad54f7db.png){width=10cm}
+![](assets/Final_Tightening-a9ddad54f7db.png){width=10cm}
 
 ### Completed Installation Example
 
 The following image shows the complete installation of the L-shaped locating fixture and OK clamps on the C500 worktable.
 
-![](../../../../assets/L-Shaped_OKClamp-fa0c0d075092.png){width=10cm}
+![](assets/L-Shaped_OKClamp-fa0c0d075092.png){width=10cm}
 
 ## Side Clamp
 
@@ -140,7 +140,7 @@ Prepare the following materials and tools:
 2. Adjust the orientation of the T-slot bolts so that they can slide into the T-slots.
 3. Place the side clamps in the T-slots and slide them into the appropriate positions.
 
-![](../../../../assets/08-Side_Clamp_Installation-a697424fc094.png){width=12cm}
+![](assets/08-Side_Clamp_Installation-a697424fc094.png){width=12cm}
 
 ### L-Shaped Locating Fixture Positions and Restrictions
 
@@ -153,34 +153,34 @@ All the following examples use the CNC machining setup.
 
 The following two sizes are available. Select one for installation based on the clearance required for the workpiece.
 
-![](../../../../assets/AB-8d88dd929f0e.png){width=12cm}
+![](assets/AB-8d88dd929f0e.png){width=12cm}
 
-![](../../../../assets/workpiece-e4a3897f2ba7.png){width=12cm}
+![](assets/workpiece-e4a3897f2ba7.png){width=12cm}
 
 ### Fixture and Clamp Positioning
 
 1. Install the locating pins for the L-shaped locating fixture.
 2. Install the hex socket screws for the L-shaped locating fixture.
 
-![](../../../../assets/12-081456adf6cf.png){width=12cm}
+![](assets/12-081456adf6cf.png){width=12cm}
 
 3. Place the stock on the worktable. Make sure that two sides of the stock are flush against the inner faces of the L-shaped locating fixture, and position the clamp sliders as close to the workpiece surface as possible.
 4. Rotate the T-slot bolts 90°.
 
-![](../../../../assets/34-15e0bc5be3e7.png){width=12cm}
+![](assets/34-15e0bc5be3e7.png){width=12cm}
 
 ### Final Tightening
 
 1. Use a socket wrench to tighten the flange nuts on the side clamps.
 2. Use a hex key to tighten the clamping screws on the side clamps.
 
-![](../../../../assets/11-Final_Tightening-9d4e0d6f6a8b.png){width=10cm}
+![](assets/11-Final_Tightening-9d4e0d6f6a8b.png){width=10cm}
 
 ### Completed Installation Example
 
 The following image shows the complete installation of the L-shaped locating fixture and side clamps on the C500 worktable.
 
-![](../../../../assets/L-Shaped_Side_Clamp-c26656e80b06.png){width=8cm}
+![](assets/L-Shaped_Side_Clamp-c26656e80b06.png){width=8cm}
 
 ## Flat Panel Clamp
 
@@ -201,7 +201,7 @@ Prepare the following materials and tools:
 
 During installation, provide suitable auxiliary spacer material based on the workpiece to be machined. The side with more clearance should always correspond to the thicker item, whether that item is the workpiece or the auxiliary spacer material.
 
-![](../../../../assets/first-e8573b4d5657.png){width=10cm}
+![](assets/first-e8573b4d5657.png){width=10cm}
 
 ### Installation
 
@@ -209,17 +209,17 @@ During installation, provide suitable auxiliary spacer material based on the wor
 2. Move the clamp plate so that the bolt enters the lateral locating half-hole in the clamp plate slot, with the bolt positioned closer to the workpiece.
 3. After installation, rotate the T-slot bolts 90°, then use a socket wrench to tighten all the flange nuts.
 
-![](../../../../assets/second-bade256ab095.png){width=12cm}
+![](assets/second-bade256ab095.png){width=12cm}
 
 When the flat panel clamps are used horizontally, position the T-slot bolts near both ends of the flat panel clamps.
 
-![](../../../../assets/third-027fafe31e1b.png){width=10cm}
+![](assets/third-027fafe31e1b.png){width=10cm}
 
 ### Completed Installation Example
 
 The following image shows the complete installation of the flat panel clamps, stock, and auxiliary spacer blocks on the C500 worktable.
 
-![](../../../../assets/Flat_Panel_Clamp-f04edf6067d0.png){width=10cm}
+![](assets/Flat_Panel_Clamp-f04edf6067d0.png){width=10cm}
 
 | No. | Name |
 | --- | --- |
@@ -237,18 +237,18 @@ The following image shows the complete installation of the flat panel clamps, st
 
 If through-cutting is required, use the Sacrificial Board - X-Axis supplied with the kit.
 
-![](../../../../assets/13-Sacrificial_Board_X-Axis-f1465922b80e.png){width=12cm}
+![](assets/13-Sacrificial_Board_X-Axis-f1465922b80e.png){width=12cm}
 
 1. Use countersunk screws to install the Sacrificial Board - X-Axis on the worktable. The holes in the board have M6 threads, allowing the L-shaped locating fixtures, clamps, and flat panel clamps to be installed directly on the board using M6 hex socket screws.
 
-![](../../../../assets/1-410b72921abf.png){width=10cm}
+![](assets/1-410b72921abf.png){width=10cm}
 
 2. Align the holes in the L-shaped locating fixture with the corresponding CNC holes in the Sacrificial Board - X-Axis, and then insert the locating pins.
 3. Install the hex socket screws for the L-shaped locating fixture.
 
-![](../../../../assets/23-4f9cba5b1218.png){width=12cm}
+![](assets/23-4f9cba5b1218.png){width=12cm}
 
 4. Install the OK clamps directly in suitable positions on the board using M6 screws.
 5. Tighten the clamping screws on the OK clamps.
 
-![](../../../../assets/45-b7863389520e.png){width=12cm}
+![](assets/45-b7863389520e.png){width=12cm}
