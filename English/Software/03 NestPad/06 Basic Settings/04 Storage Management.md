@@ -2,7 +2,7 @@
 
 Storage Management is used to manage file data stored in local storage, USB drives, and TF cards. It supports file viewing, deletion, and safe ejection operations.
 
-![](assets/Storage_Management-2eb729244288.png){width=12cm}
+![](../../../../assets/Storage_Management-2eb729244288.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=559a065c7fd62ae1 -->
 Figure 6-14 Storage Management

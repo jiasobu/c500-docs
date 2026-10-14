@@ -5,7 +5,7 @@ This page provides control switches and status monitoring for all machine submod
 
 
 
-![](assets/Submodules-e516d1fac5b1.png){width=12cm}
+![](../../../assets/Submodules-e516d1fac5b1.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=fb844933d170fc05 -->
 Figure 6-5 Submodules and Accessories

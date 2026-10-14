@@ -1,7 +1,7 @@
 #### Collet Installation and Removal
 
 
-![](assets/Collet_Installation_and_Removal-e46f1d233e4b.png){width=12cm}
+![](../../../../../assets/Collet_Installation_and_Removal-e46f1d233e4b.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=9e5cbf599a19ebe3 -->
 Figure 4-8 Collet Installation and Removal

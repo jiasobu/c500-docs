@@ -4,7 +4,7 @@ This machine supports an optional 5 W laser module for laser engraving. It is su
 
 **Component Description**
 
-![](assets/Component_Introduction_annotated-4f284401c07b.png){width=12cm}
+![](../../../../../assets/Component_Introduction_annotated-4f284401c07b.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=05b4a7e607c7106d -->
 Figure 4-11 Laser Module Installation (Optional)
@@ -21,20 +21,20 @@ Figure 4-11 Laser Module Installation (Optional)
 
 1. Hold both sides of the laser module with both hands. Press and hold the quick-release button on the front of the laser module with your thumb.
 
-![](assets/Installation_Steps_01-ff04cb40c9cb.png){width=12cm}
+![](../../../../../assets/Installation_Steps_01-ff04cb40c9cb.png)<!-- publication-image: {width=12cm} -->
 
 2. While holding the quick-release button, align the laser dovetail slot with the spindle laser mounting rail. Slide the laser module along the mounting rail until it is fully seated, then release the quick-release button.
 
-![](assets/Installation_Steps_02-08433f1d4f22.png){width=12cm}
+![](../../../../../assets/Installation_Steps_02-08433f1d4f22.png)<!-- publication-image: {width=12cm} -->
 
 3. Gently shake the laser module to ensure it is securely installed.
 
-![](assets/Installation_Steps_03-35eaefa5d4f4.png){width=12cm}
+![](../../../../../assets/Installation_Steps_03-35eaefa5d4f4.png)<!-- publication-image: {width=12cm} -->
 
 
 4. Remove the connection cable from the left side of the laser module. Align the connector with the socket on the left side of the spindle, then insert it after confirming proper alignment.
 
-![](assets/Installation_Steps_04-12a66c43f0b9.png){width=12cm}
+![](../../../../../assets/Installation_Steps_04-12a66c43f0b9.png)<!-- publication-image: {width=12cm} -->
 
 
 
@@ -42,11 +42,11 @@ Figure 4-11 Laser Module Installation (Optional)
 
 1. Hold the front section of the aviation connector on the left side of the spindle, then pull out the laser module connector.
 
-![](assets/Removal_Steps_01-5a86bd7255ae.jpg){width=12cm}
+![](../../../../../assets/Removal_Steps_01-5a86bd7255ae.jpg)<!-- publication-image: {width=12cm} -->
 
 2. Hold both sides of the laser module with both hands. Press and hold the quick-release button on the front of the laser module with your thumb, then slide the laser module forward along the mounting rail to remove it.
 
-![](assets/Removal_Steps_02-b2ec2be91187.jpg){width=12cm}
+![](../../../../../assets/Removal_Steps_02-b2ec2be91187.jpg)<!-- publication-image: {width=12cm} -->
 
 **Laser Processing Setup**
 

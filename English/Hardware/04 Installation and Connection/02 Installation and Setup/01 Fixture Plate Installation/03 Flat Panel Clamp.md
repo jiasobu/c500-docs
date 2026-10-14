@@ -9,7 +9,7 @@ Before installation, prepare the following materials and tools: flat panel clamp
 1. Place the flat panel clamps and auxiliary blocks as shown in the illustration.  
 2. Tighten or loosen the clamp’s pressure nut to secure or release the workpiece.  Suitable for large workpiece blanks that are subject to relatively high machining loads.
 
-![](assets/Flat_Panel_Clamp-f04edf6067d0.png){width=12cm}
+![](../../../../../assets/Flat_Panel_Clamp-f04edf6067d0.png)<!-- publication-image: {width=12cm} -->
 
 
 | No. | Name                   |

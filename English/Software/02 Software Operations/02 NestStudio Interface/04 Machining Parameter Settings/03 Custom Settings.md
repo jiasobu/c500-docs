@@ -7,7 +7,7 @@
 Enter the Smart Milling interface to adjust core machining parameters based on production requirements, such as tool parameters (plunge angle, spindle speed, feed rate, stepover, etc.) and coolant status.
 
 
-![](assets/6253_Custom_Settings-3fd11361cb48.png){width=12cm}
+![](../../../../../assets/6253_Custom_Settings-3fd11361cb48.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=cd9e7085fb82498b -->
 Figure 6-14 Custom Settings
@@ -26,7 +26,7 @@ Users can enable or disable tabs or supports here, as well as customize their he
 
 The **Advanced** module provides granular control over toolpath strategies, covering specialized machining methods such as tapping, chamfering, engraving, profiling, and pocketing:
 
-![](assets/6253_Advanced_Settings-0f34aacdfb08.png){width=12cm}
+![](../../../../../assets/6253_Advanced_Settings-0f34aacdfb08.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=01dba5e7095bc158 -->
 Figure 6-15 Custom Settings

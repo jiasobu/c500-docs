@@ -1,6 +1,6 @@
 ### External Ports
 
-![](assets/External_Ports1_8-bd94b2cbb970.jpg){width=12cm}
+![](../../../../assets/External_Ports1_8-bd94b2cbb970.jpg)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=993c040079c2723c -->
 Figure 4-3 External Ports
@@ -18,7 +18,7 @@ Figure 4-3 External Ports
 | 7       | **Power Switch**         | Controls the main power supply for turning the machine on or off.                                                                                             |
 | 8       | **Air Inlet (External)** | Main compressed air input for the pneumatic system. Requires a stable air source with compliant pressure (Rated: 0.6 MPa, Max: 0.8 MPa).                      |
 
-![](assets/External_Ports9_10-d4b6cf373d2d.jpg){width=12cm}
+![](../../../../assets/External_Ports9_10-d4b6cf373d2d.jpg)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=a6497f67d1c2761c -->
 Figure 4-4 External Ports
@@ -34,7 +34,7 @@ Figure 4-4 External Ports
 
 
 
-![](assets/External_Ports11-acd4e4e8391e.jpg){width=12cm}
+![](../../../../assets/External_Ports11-acd4e4e8391e.jpg)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=2bbbc3cb0b3b4dcc -->
 Figure 4-5 External Ports
@@ -45,7 +45,7 @@ Figure 4-5 External Ports
 | ------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 12      | **Laser Port** | A reserved expansion port for external laser modules, supporting laser marking, engraving, and positioning functions to enrich processing scenarios. |
 
-![](assets/External_Ports12-afbea26c813b.jpg){width=12cm}
+![](../../../../assets/External_Ports12-afbea26c813b.jpg)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=3ea8b50c26a1575f -->
 Figure 4-6 External Ports

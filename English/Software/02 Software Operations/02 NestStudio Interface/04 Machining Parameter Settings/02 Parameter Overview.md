@@ -2,7 +2,7 @@
 
 The parameter settings panel consists of three core sections: Stock, Model, and Process.
 
-![](assets/6252_Parameter_Overview-63fc4f330de1.png){width=12cm}
+![](../../../../../assets/6252_Parameter_Overview-63fc4f330de1.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=d12c33b98292fd66 -->
 Figure 6-13 Parameter Overview

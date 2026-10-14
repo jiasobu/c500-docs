@@ -9,11 +9,11 @@ The MPG handwheel is used for precise manual control of the machine and can assi
 
 1. Align the plug at the end of the MPG handwheel coiled cable with the handwheel port on the machine. Ensure that the red dot on the plug is aligned with the red dot on the socket, and gently insert the plug until it is fully seated.
 
-![](assets/plug-2c55e3c0e7b9.png){width=10cm}
+![](../../../../../assets/plug-2c55e3c0e7b9.png)<!-- publication-image: {width=10cm} -->
 
 2. Start the machine and enter the control system. Switch to MPG handwheel control mode, then test manual movement of the three axes in sequence to confirm that the movement direction and control response are normal.
 
-![](assets/Handwheel-4914cbe9cbd0.png){width=14cm}
+![](../../../../../assets/Handwheel-4914cbe9cbd0.png)<!-- publication-image: {width=14cm} -->
 
 | No. | Name             |
 | --- | ---------------- |

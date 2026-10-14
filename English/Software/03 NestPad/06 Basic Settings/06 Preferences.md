@@ -3,7 +3,7 @@
 The Preferences page provides multiple device function and system parameter configuration options. Users can customize settings according to actual usage requirements.
 
 
-![](assets/Preferences-be96213d10c0.png){width=12cm}
+![](../../../../assets/Preferences-be96213d10c0.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=281543b3353ff8ca -->
 Figure 6-17 Preferences

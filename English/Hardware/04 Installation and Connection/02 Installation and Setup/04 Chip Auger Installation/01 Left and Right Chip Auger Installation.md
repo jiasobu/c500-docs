@@ -1,6 +1,6 @@
 #### Left and Right Chip Auger Installation
 
-![](assets/Chip_Auger_Installation_1-ab95c4a4b038.png){width=12cm}
+![](../../../../../assets/Chip_Auger_Installation_1-ab95c4a4b038.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=cc1d20e83aba6943 -->
 Figure 4-11 Left and Right Chip Auger Installation
@@ -23,7 +23,7 @@ Figure 4-11 Left and Right Chip Auger Installation
     
 4. Insert the left/right auger flange cover downward from above into the two aligned slots described in Step 3. Use a hex key to tighten the auger flange cover screws to complete the installation of the left chip auger.
 
-![](assets/Chip_Auger_Installation_2-fa92072d1b69.png){width=12cm}
+![](../../../../../assets/Chip_Auger_Installation_2-fa92072d1b69.png)<!-- publication-image: {width=12cm} -->
 
 
 > [!note] Notice

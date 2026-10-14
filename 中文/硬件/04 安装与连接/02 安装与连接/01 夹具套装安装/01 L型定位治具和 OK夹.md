@@ -12,4 +12,4 @@
 1. 按图示放置 L 型定位治具和 OK 夹。  
 2. 拧紧或松开 OK 夹顶紧螺丝，完成工件装夹或拆卸。应对坯料尺寸稳定，需要快速拆装，加工应力不大的加工场景。  
 
-![](assets/L-Shaped_OKClamp-fa0c0d075092.png){width=10cm}
+![](../../../../../assets/L-Shaped_OKClamp-fa0c0d075092.png)<!-- publication-image: {width=10cm} -->

@@ -3,7 +3,7 @@
 NestPad provides an intuitive and reliable local control interface, allowing users to perform core operations such as file import, workpiece origin setup, machining monitoring, and accessory control without the need for a PC connection.
 
 
-![](assets/Interface_Overview-18affe124653.png){width=12cm}
+![](../../../../assets/Interface_Overview-18affe124653.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=e18aed79bf71e3bb -->
 Figure 6-1 Interface

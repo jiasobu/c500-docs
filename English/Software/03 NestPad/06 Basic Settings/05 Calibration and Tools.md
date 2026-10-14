@@ -3,7 +3,7 @@
 
 The Calibration and Tools page provides device self-check and device setup tools.
 
-![](assets/Calibration_and_Tools-35ae7e18d4bd.png){width=12cm}
+![](../../../../assets/Calibration_and_Tools-35ae7e18d4bd.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=65db7305869fbfe6 -->
 Figure 6-15 Calibration and Tools
@@ -20,7 +20,7 @@ Figure 6-15 Calibration and Tools
 **Interface Description**
 
 
-![](assets/Tool_Magazine_Calibration-676427799185.png){width=12cm}
+![](../../../../assets/Tool_Magazine_Calibration-676427799185.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=7c306673c6957b2e -->
 Figure 6-16 Calibration and Tools
@@ -43,4 +43,4 @@ Figure 6-16 Calibration and Tools
 
 2. Use the motion panel on the right to move the spindle and adjust its position. After confirming that the spindle is aligned with the tool, click **Save Position** to save and update the coordinates of the current tool position.
 
-![](assets/Calibration_steps-851983b825d4.png){width=10cm}
+![](../../../../assets/Calibration_steps-851983b825d4.png)<!-- publication-image: {width=10cm} -->
