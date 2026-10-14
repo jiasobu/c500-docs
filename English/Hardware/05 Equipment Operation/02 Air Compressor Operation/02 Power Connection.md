@@ -4,11 +4,11 @@
 
 2. Press the power switch on the front of the air compressor. After the indicator light turns on, the air compressor will start and begin charging automatically.  
 
-![](assets/Power_Connection_01-8066c70d65fc.png){width=12cm}
+![](../../../../assets/Power_Connection_01-8066c70d65fc.png)<!-- publication-image: {width=12cm} -->
 
-![](assets/Power_Connection_02-d8a31fd7e0b6.png){width=12cm}
+![](../../../../assets/Power_Connection_02-d8a31fd7e0b6.png)<!-- publication-image: {width=12cm} -->
 
 3. Observe the pressure gauge. The equipment can be used once the pressure reaches 0.5 MPa. 
 
-![](assets/Power_Connection_03-4cfd643ee41f.png){width=12cm}
+![](../../../../assets/Power_Connection_03-4cfd643ee41f.png)<!-- publication-image: {width=12cm} -->
 

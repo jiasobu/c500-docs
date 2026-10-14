@@ -12,5 +12,5 @@ Before installation, prepare the following materials and tools: L-shaped locatin
 1. Place the L-shaped locating fixture and OK clamp as shown in the illustration.  
 2. Tighten or loosen the OK clamp’s top screw to secure or release the workpiece. Suitable for workpiece blanks with consistent dimensions, where quick loading and unloading are required and machining loads are relatively low.
 
-![](assets/L-Shaped_OKClamp-fa0c0d075092.png){width=12cm}
+![](../../../../../assets/L-Shaped_OKClamp-fa0c0d075092.png)<!-- publication-image: {width=12cm} -->
 

@@ -2,7 +2,7 @@
 
 The Updates page displays the current software and firmware version information. When a new version is detected, a **"New"** badge will be highlighted.
 
-![](assets/Updates-73eedd73b4e3.png){width=12cm}
+![](../../../../assets/Updates-73eedd73b4e3.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=72cb35660b4e5a97 -->
 Figure 6-13 Updates

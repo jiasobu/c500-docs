@@ -9,5 +9,5 @@ Before installation, prepare the following materials and tools: L-shaped locatin
 1. Place the L-shaped locating fixture and side clamp as shown in the illustration.  
 2. Tighten or loosen the side clamp’s top screw to secure or release the workpiece.  Suitable for small workpiece blanks that require quick loading and unloading and are subject to relatively low machining loads.
 
-![](assets/L-Shaped_Side_Clamp-c26656e80b06.png){width=12cm}
+![](../../../../../assets/L-Shaped_Side_Clamp-c26656e80b06.png)<!-- publication-image: {width=12cm} -->
 

@@ -2,7 +2,7 @@
 
 Click **Machine Calibration** in the left menu of the Device interface to access the Machine Calibration page. This interface is divided into two subpages: **Device Information** and **Device Calibration**, for viewing device status, parameters, and performing calibration operations.
 
-![](assets/6164_Machine_Calibration-8f05f7a2e5d6.png){width=12cm}
+![](../../../../../assets/6164_Machine_Calibration-8f05f7a2e5d6.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=ca82ed22b158cbb0 -->
 Figure 6-12 Machine Calibration

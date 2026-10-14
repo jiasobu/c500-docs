@@ -11,7 +11,7 @@ Place the assembled tool with the tool holder steadily into the designated tool 
 
 After the device is powered on and self-check is completed, enter the main system interface and click **Tool Management > Tool Setting**.  
 
-![](assets/Tool_Setting-68850aa89c06.jpg){width=12cm}
+![](../../../../../assets/Tool_Setting-68850aa89c06.jpg)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=4b2026be7f87a7b4 -->
 Figure 8-1 RFID Tag and Tool Binding

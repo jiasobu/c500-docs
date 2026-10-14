@@ -4,7 +4,7 @@ Users can review the generated G-code information on the preview page, including
 
 
 
-![](assets/75_Toolpath_Preview-e26720e3fd9f.png){width=12cm}
+![](../../../assets/75_Toolpath_Preview-e26720e3fd9f.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=c877867a50b6b555 -->
 Figure 7-4 Toolpath Preview

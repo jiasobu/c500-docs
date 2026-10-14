@@ -1,7 +1,7 @@
 ### Right-side Tool Magazine
 
 
-![](assets/Safe_Machining_Area_01-712deefa5e6c.png){width=10cm}
+![](../../../../assets/Safe_Machining_Area_01-712deefa5e6c.png)<!-- publication-image: {width=10cm} -->
 
 <!-- mdwb:figure id=d21ed678ef8b6e90 -->
 Figure 2-1 Right-side Tool Magazine

@@ -3,7 +3,7 @@
 The left side of the interface displays complete machining monitoring information and program control. Click **Start** to begin machining. The right side shows commonly used subsystem switches and status indicators for convenient device management.
 
 
-![](assets/Left_Information_Panel-647473676fbf.png){width=8cm}
+![](../../../../assets/Left_Information_Panel-647473676fbf.png)<!-- publication-image: {width=8cm} -->
 
 <!-- mdwb:figure id=1871a960c988132c -->
 Figure 6-2 Machining Control
@@ -22,7 +22,7 @@ Figure 6-2 Machining Control
 
 
 
-![](assets/Right_Module_Panel-43d90f0a2027.png){width=8cm}
+![](../../../../assets/Right_Module_Panel-43d90f0a2027.png)<!-- publication-image: {width=8cm} -->
 
 <!-- mdwb:figure id=a4920ccedfbdf506 -->
 Figure 6-3 Machining Control

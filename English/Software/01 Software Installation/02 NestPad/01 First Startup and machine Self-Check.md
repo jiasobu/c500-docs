@@ -21,8 +21,8 @@ When powering on the Nestworks C500 for the first time, the system provides pref
 
 | Icon                                                                                   | Description                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](assets/normal_status-7c484c75852b.png){width=2cm} | Module status is normal and ready for use.                                                                                                                                         |
-| ![](assets/status_fault-e7393196cc1c.png){width=2cm}  | A module fault has been detected. Restart the machine first. If the issue persists, contact technical support.                                                                     |
+| ![](../../../../assets/normal_status-7c484c75852b.png)<!-- publication-image: {width=2cm} --> | Module status is normal and ready for use.                                                                                                                                         |
+| ![](../../../../assets/status_fault-e7393196cc1c.png)<!-- publication-image: {width=2cm} -->  | A module fault has been detected. Restart the machine first. If the issue persists, contact technical support.                                                                     |
 | Grayed-out text                                                                        | The module is not installed. If the hardware is physically installed, check the installation status and reconnect the interface. If the issue persists, contact technical support. |
 
 To manually run the self-check function, click **Settings** > **Calibration** > **Start Self-Check**.  

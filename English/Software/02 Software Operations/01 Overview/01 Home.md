@@ -9,7 +9,7 @@ Log into your NestStudio account to access points, wallet and earnings, and clou
 Quickly open projects that were recently edited or used.
 
 
-![](assets/Recent_projects-2850d0ddb809.png){width=12cm}
+![](../../../../assets/Recent_projects-2850d0ddb809.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=f9df557b7f2a1fdb -->
 Figure 6-1 Recent Projects
@@ -20,7 +20,7 @@ Figure 6-1 Recent Projects
 
 Browse hot models and click to open them directly.
 
-![](assets/Hot_Models-63a2a081f398.png){width=12cm}
+![](../../../../assets/Hot_Models-63a2a081f398.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=a6922aa5d5f22723 -->
 Figure 6-2 Browse Hot Models
@@ -32,7 +32,7 @@ Figure 6-2 Browse Hot Models
 Quickly create a new NestStudio project.
 
 
-![](assets/Create_New_Project-017b5828cd56.png){width=12cm}
+![](../../../../assets/Create_New_Project-017b5828cd56.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=13499613d2c80700 -->
 Figure 6-3 Create New Project
@@ -43,7 +43,7 @@ Figure 6-3 Create New Project
 
 Supports all NestStudio files, 3D files, and NestStudio project packages.
 
-![](assets/Open_Local_Project-c678df0bb359.png){width=6cm}
+![](../../../../assets/Open_Local_Project-c678df0bb359.png)<!-- publication-image: {width=6cm} -->
 
 <!-- mdwb:figure id=3836a885a98ec90b -->
 Figure 6-4 Home
@@ -55,7 +55,7 @@ Figure 6-4 Home
 Customize software preferences according to user requirements.
 
 
-![](assets/Software_Settings-8344cb6cf037.png){width=10cm}
+![](../../../../assets/Software_Settings-8344cb6cf037.png)<!-- publication-image: {width=10cm} -->
 
 <!-- mdwb:figure id=9497df0a6915854a -->
 Figure 6-5 Software Settings
@@ -75,7 +75,7 @@ Click the user avatar to access cloud storage. You can manage the Drafts folder,
 **Home Page Layout**
 
 
-![](assets/Home_Page_Layout-0d393c53ccca.png){width=12cm}
+![](../../../../assets/Home_Page_Layout-0d393c53ccca.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=b0724d8a1ffc748e -->
 Figure 6-6 Home Page Layout

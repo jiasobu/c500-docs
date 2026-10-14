@@ -2,15 +2,15 @@
 
 1. Align the front mounting through-holes on the motor side of the electric vise base plate with the threaded holes marked Vise-A and Vise-B on the worktable to determine the installation position.  
 
-![](assets/vise_step1-d590e5b6c8b2.png)
+![](../../../../../../assets/vise_step1-d590e5b6c8b2.png)
 
 2. Insert 6 pcs M6×18 hex socket screws through the mounting holes on the electric vise base plate and tighten them using a 5 mm hex key to complete structural installation.  
 
-![](assets/vise_step2-db0e4ae7c780.png)
+![](../../../../../../assets/vise_step2-db0e4ae7c780.png)
 
 3. Locate the female 4th-Axis/vise aviation connector inside the machining chamber. Align the keying points on the male and female connectors, then insert the electric vise aviation plug into the connector socket. Manually tighten the lock nut to secure the connection.
 
-![](assets/Vise_03-ac6518e95fea.jpg){width=12cm}
+![](../../../../../../assets/Vise_03-ac6518e95fea.jpg)<!-- publication-image: {width=12cm} -->
 
 > [!caution] Caution  
 > 

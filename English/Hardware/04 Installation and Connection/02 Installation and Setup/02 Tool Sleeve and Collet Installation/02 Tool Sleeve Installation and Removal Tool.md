@@ -8,7 +8,7 @@ The tool sleeve assembly and disassembly cylinder is mainly used to press-fit th
 
 
 
-![](assets/Tool_Sleeve_Removal-70eacc6b33f8.png){width=12cm}
+![](../../../../../assets/Tool_Sleeve_Removal-70eacc6b33f8.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=42a1e1fd1af8755d -->
 Figure 4-7 Tool Sleeve Installation and Removal Tool

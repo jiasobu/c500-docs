@@ -1,7 +1,7 @@
 #### Milling Cutter Installation
 
 
-![](assets/Milling_Cutter_Installation-6efaf77fa711.png){width=12cm}
+![](../../../../../assets/Milling_Cutter_Installation-6efaf77fa711.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=12c4a9c170561df1 -->
 Figure 4-9 Milling Cutter Installation

@@ -3,7 +3,7 @@
 
 扫描下方二维码，下载 macOS 版本的 NestStudio 软件。
 
-![](assets/Mac-48275028fd1f.png){width=6cm}
+![](../../../../../assets/Mac-48275028fd1f.png)<!-- publication-image: {width=6cm} -->
 
 <!-- mdwb:figure id=1c43bbbea546675f -->
 图 5-3 macOS 软件下载

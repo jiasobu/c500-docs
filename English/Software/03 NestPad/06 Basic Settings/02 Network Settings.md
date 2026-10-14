@@ -2,7 +2,7 @@
 
 The Network Settings page allows users to connect to a Wi-Fi network, obtain the latest software and firmware updates, log in to accounts, and establish remote or wired connections between the PC version of NestStudio and the device.
 
-![](assets/Network_Settings-cde72c4d78e4.png){width=12cm}
+![](../../../../assets/Network_Settings-cde72c4d78e4.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=7979f1580c1aa609 -->
 Figure 6-12 Network Settings

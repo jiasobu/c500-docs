@@ -3,7 +3,7 @@
 
 Click **Tool Management** to enter the Tool Management page. Users can read tool information, configure tool parameters, and manage tool life.
 
-![](assets/6161_Tool_Management-7e3ed5836b13.png){width=12cm}
+![](../../../../../assets/6161_Tool_Management-7e3ed5836b13.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=deec77ba9a7e63d2 -->
 Figure 6-10 Tool Management

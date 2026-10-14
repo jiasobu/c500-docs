@@ -9,7 +9,7 @@
 2. 系统操作  
 设备开机并完成自检后，进入系统主界面，点击 **刀具管理 > 刀具设置**。  
 
-![](assets/Tool_Setting-68850aa89c06.jpg){width=12cm}
+![](../../../../../assets/Tool_Setting-68850aa89c06.jpg)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=a884dfaaa3844be6 -->
 图 8-1 RFID 标签与刀具绑定

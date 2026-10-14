@@ -1,7 +1,7 @@
 ### Motion Parameter Settings
 
 
-![](assets/Motion_Parameter_Settings-33ee405aa70d.png){width=12cm}
+![](../../../../assets/Motion_Parameter_Settings-33ee405aa70d.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=44a7cb70df1b372f -->
 Figure 6-9 Motion Parameter Settings

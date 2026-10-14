@@ -1,6 +1,6 @@
 ### Settings
 
-![](assets/6218_Settings-143edc34b009.png){width=12cm}
+![](../../../../assets/6218_Settings-143edc34b009.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=fc23f43597f248c4 -->
 Figure 6-30 Settings

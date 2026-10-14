@@ -1,7 +1,7 @@
 ## Tool Management
 
 
-![](assets/Tool_Management-607e85ce4f7e.png){width=12cm}
+![](../../../assets/Tool_Management-607e85ce4f7e.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=c219712ae36d84d8 -->
 Figure 6-10 Tool Management

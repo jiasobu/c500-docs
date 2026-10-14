@@ -1,7 +1,7 @@
 ### Machining Status
 
 
-![](assets/Machining_Status-b7e7e0d213a4.png){width=10cm}
+![](../../../../assets/Machining_Status-b7e7e0d213a4.png)<!-- publication-image: {width=10cm} -->
 
 <!-- mdwb:figure id=3e24cea1f932c481 -->
 Figure 6-4 Machining Status

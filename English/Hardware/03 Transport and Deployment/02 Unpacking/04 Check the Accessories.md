@@ -2,7 +2,7 @@
 
 1. After moving the machine to its final operating location, slowly open the acrylic protective door. Check the door for cracks, deformation, looseness, or other abnormalities, and confirm that it opens and closes smoothly.
 
-![](assets/05_2-5e61aaad0784.png){width=10cm}
+![](../../../../assets/05_2-5e61aaad0784.png)<!-- publication-image: {width=10cm} -->
 
 2. Check the machine surface for scratches, dents, paint damage, deformation, or other visible damage. Confirm that the main unit exterior and the initial internal protective condition are intact.
 
@@ -11,15 +11,15 @@
 
 4. Remove the EPE foam block at the front of the machine and the front accessory packaging box.
 
-![](assets/01-cb0ca0aa0073.png){width=12cm}
+![](../../../../assets/01-cb0ca0aa0073.png)<!-- publication-image: {width=12cm} -->
 
 5. Remove the tool kit, standard accessories, maintenance consumables, and other supplied accessories.
 
-![](assets/02-7d9dd8c85c7a.png){width=12cm}
+![](../../../../assets/02-7d9dd8c85c7a.png)<!-- publication-image: {width=12cm} -->
 
 6. Remove the raw material packaging boxes and related accessories inside the machine and on the worktable.
 
-![](assets/03-ced2c2af22fb.png){width=12cm}
+![](../../../../assets/03-ced2c2af22fb.png)<!-- publication-image: {width=12cm} -->
 
 7. Arrange all accessories together and check whether the packaging is damaged, damp, deformed, or abnormal.
 
@@ -42,7 +42,7 @@ The supplied accessories are mainly placed in the following packaging boxes. Aft
 
 **Tools & Bits**
 
-![](assets/1_to_2-8c0aeef33f03.png){width=12cm}
+![](../../../../assets/1_to_2-8c0aeef33f03.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=4c15c42d89e3e39e -->
 Figure 3-2 Check the Accessories
@@ -51,7 +51,7 @@ Figure 3-2 Check the Accessories
 
 **Accessories**
 
-![](assets/1_to_2-2d7de9ab7340.png){width=12cm}
+![](../../../../assets/1_to_2-2d7de9ab7340.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=741d97761d45c499 -->
 Figure 3-3 Check the Accessories
@@ -60,7 +60,7 @@ Figure 3-3 Check the Accessories
 
 **Maintenance Kit**
 
-![](assets/1_to_2-f231a7cc9c26.png){width=12cm}
+![](../../../../assets/1_to_2-f231a7cc9c26.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=0546eea5bb9ceaeb -->
 Figure 3-4 Check the Accessories
@@ -69,7 +69,7 @@ Figure 3-4 Check the Accessories
 
 **Case Accessories**
 
-![](assets/1_to_2-7c809e816f95.png){width=12cm}
+![](../../../../assets/1_to_2-7c809e816f95.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=7a94ba4f8979823b -->
 Figure 3-5 Check the Accessories
@@ -78,7 +78,7 @@ Figure 3-5 Check the Accessories
 
 **Standard Material Box**
 
-![](assets/1_to_2-ad81c215a6b8.png){width=12cm}
+![](../../../../assets/1_to_2-ad81c215a6b8.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=89ef616dc8835541 -->
 Figure 3-6 Check the Accessories

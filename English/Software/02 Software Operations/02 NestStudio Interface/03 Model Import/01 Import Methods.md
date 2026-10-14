@@ -12,5 +12,5 @@ The software offers three methods to import models:
 
 3. **Drag and Drop**: Drag the target file directly from the computer desktop into the software workspace to complete the import.
 
-![](assets/6241_Import_Methods-6fb34d15add0.png){width=12cm}
+![](../../../../../assets/6241_Import_Methods-6fb34d15add0.png)<!-- publication-image: {width=12cm} -->
 
