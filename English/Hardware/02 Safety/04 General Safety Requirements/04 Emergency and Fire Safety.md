@@ -1,4 +1,4 @@
-### Emergency and Fire Safety
+### Emergency Safety
 
 - The work area must be equipped with fire extinguishers that comply with local regulations. Check them regularly to ensure they remain effective.
 - Do not store flammable liquids such as alcohol, acetone, or gasoline around the machine.
