@@ -1,8 +1,8 @@
-#### First Startup Update
+#### First-Time Startup Update
 
-After receiving a new machine, it is recommended to update the software immediately to obtain the best user experience.
+After receiving your new machine, we recommend updating the software right away for the best experience.
 
-After the machine is connected to the network, the system automatically checks for new versions. If an update is available, a notification window appears, allowing users to start the update and monitor progress in real time. After the update is completed, the machine automatically restarts and applies the new version.
+Once the machine is connected to the internet, it automatically checks for available updates. If a new version is available, a pop-up notification will appear. Click the notification to update all components with a single click and track the progress in real time. Once the update is complete, the machine will restart automatically to apply the updates.
 
-Update items include software updates, main controller firmware, and accessory firmware. Users may choose individual updates or update all components with one click.
+Updates include the software and peripheral firmware.
 
