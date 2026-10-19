@@ -1,2 +1,2 @@
-### machine Connection
+### Machine Connection
 
