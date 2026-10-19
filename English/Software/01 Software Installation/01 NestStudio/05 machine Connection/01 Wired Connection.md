@@ -1,4 +1,6 @@
 #### Wired Connection
 
-Connect the computer to the machine using a compatible USB cable. View the IP address and pairing code on the machine touchscreen, then enter them in NestStudio.
+1. Connect the computer to the device's Ethernet port using an RJ45 network cable. then tap **Settings > Networks > Mode** on the interactive screen of the device, and select **Ethernet Direct**.
+2. On the device's interactive screen, tap **Settings > Networks** to view the IP address and pairing code.
+3. Enter NestStudio, click **Device**, tap the network icon bellow the device model in the upper left corner, click **Wired**, and enter the IP address and pairing code.
 
