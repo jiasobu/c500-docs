@@ -1,7 +1,10 @@
 ## Laser Requirements
 
 
-The laser operates in an enclosed safety cover. The protective door must be closed and locked before processing. If the cover is not enclosed, the operator must wear laser safety goggles for the specific wavelength.
+The laser operates in an enclosed safety cover. The protective door must be closed and locked before processing. 
+
+> [!danger] Danger
+> Do not start laser processing if the protective door cannot be fully closed or the interlock is not functioning properly. Laser safety eyewear must not be used as a substitute for the protective door or interlock protection.
 
 Please follow these safety rules:
 - Do not operate the machine if any protective parts are missing.

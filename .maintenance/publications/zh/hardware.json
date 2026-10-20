@@ -307,6 +307,16 @@
       "draft": false
     },
     {
+      "id": "n0033",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 5,
+      "title": "激光要求",
+      "file": "中文/硬件/共用章节/02 安全/06 激光要求.md",
+      "draft": false
+    },
+    {
       "id": "n0034",
       "pairId": null,
       "parentId": "n0023",
@@ -1068,7 +1078,7 @@
     },
     {
       "id": "local-1791617237378404200",
-      "pairId": null,
+      "pairId": "pair-b0a52ca1712d46fc9224022c7e8e5757",
       "parentId": "n0080",
       "level": 3,
       "order": 6,
@@ -1078,7 +1088,7 @@
     },
     {
       "id": "local-1791769080356690600",
-      "pairId": null,
+      "pairId": "pair-76b5611188ff4187b7295f57ba1786c8",
       "parentId": "n0053",
       "level": 3,
       "order": 3,
@@ -1088,12 +1098,32 @@
     },
     {
       "id": "local-1792052327776706900",
-      "pairId": null,
+      "pairId": "pair-19084129afca4c08a17bb2a16fbced79",
       "parentId": "n0027",
       "level": 3,
       "order": 4,
       "title": "电气隔离",
       "file": "中文/硬件/02 安全/04 通用安全要求/05 电气隔离.md",
+      "draft": false
+    },
+    {
+      "id": "local-1792145444519962700",
+      "pairId": "pair-ba316b6e5ee34eedb689166424ce02bb",
+      "parentId": "n0036",
+      "level": 3,
+      "order": 0,
+      "title": "FCC 合规声明",
+      "file": "中文/硬件/02 安全/01 FCC 合规声明.md",
+      "draft": false
+    },
+    {
+      "id": "local-1792394266743157000",
+      "pairId": "pair-fd6f6c93a816433f85b37b239858d6a6",
+      "parentId": "n0036",
+      "level": 3,
+      "order": 1,
+      "title": "ISED 合规声明",
+      "file": "中文/硬件/02 安全/02 ISED 合规声明.md",
       "draft": false
     }
   ]
