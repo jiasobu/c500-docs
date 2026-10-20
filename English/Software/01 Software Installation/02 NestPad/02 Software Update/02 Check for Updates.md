@@ -1,6 +1,6 @@
 #### Check for Updates
 
-During daily use, users can check the latest software and firmware versions at any time through **Settings** > **Preferences** > **Update** and review update details.
+Users can check the latest software and firmware versions and review update details at any time by navigating to **Settings > Update**.
 
-When a new version is available, the system displays a **New** label on the update page to remind users to update promptly.
+When a new version is available, a **New** label appears on the Update page to notify users that an update is available.
 
