@@ -307,6 +307,16 @@
       "draft": false
     },
     {
+      "id": "n0033",
+      "pairId": null,
+      "parentId": "n0023",
+      "level": 2,
+      "order": 5,
+      "title": "Laser Requirements",
+      "file": "English/Hardware/Shared Content/02 Safety/06 Laser Requirements.md",
+      "draft": false
+    },
+    {
       "id": "n0034",
       "pairId": null,
       "parentId": "n0023",
@@ -1094,6 +1104,56 @@
       "order": 3,
       "title": "Switching: Rear-Right to Right",
       "file": "English/Hardware/05 Equipment Operation/01 Tool Magazine/02 Magazine Positioning/04 Switching- Rear-Right to Right.md",
+      "draft": false
+    },
+    {
+      "id": "local-1792146269806452000",
+      "pairId": "pair-ba316b6e5ee34eedb689166424ce02bb",
+      "parentId": "n0036",
+      "level": 3,
+      "order": 0,
+      "title": "FCC Compliance Statement",
+      "file": "English/Hardware/02 Safety/01 FCC Compliance Statement.md",
+      "draft": false
+    },
+    {
+      "id": "local-1792394351964815900",
+      "pairId": "pair-fd6f6c93a816433f85b37b239858d6a6",
+      "parentId": "n0036",
+      "level": 3,
+      "order": 1,
+      "title": "ISED Compliance Statement",
+      "file": "English/Hardware/02 Safety/02 ISED Compliance Statement.md",
+      "draft": false
+    },
+    {
+      "id": "local-1792403122241244900",
+      "pairId": "pair-19084129afca4c08a17bb2a16fbced79",
+      "parentId": "n0027",
+      "level": 3,
+      "order": 4,
+      "title": "Power Disconnection Requirements",
+      "file": "English/Hardware/02 Safety/04 General Safety Requirements/05 Power Disconnection Requirements.md",
+      "draft": false
+    },
+    {
+      "id": "local-1792404745455040700",
+      "pairId": "pair-76b5611188ff4187b7295f57ba1786c8",
+      "parentId": "n0053",
+      "level": 3,
+      "order": 3,
+      "title": "Power Supply and Safety Instructions",
+      "file": "English/Hardware/03 Transport and Deployment/03 Installation Requirements/04 Power Supply and Safety Instructions.md",
+      "draft": false
+    },
+    {
+      "id": "local-1792405074662765400",
+      "pairId": "pair-b0a52ca1712d46fc9224022c7e8e5757",
+      "parentId": "n0080",
+      "level": 3,
+      "order": 6,
+      "title": "Initial Power-On Checklist",
+      "file": "English/Hardware/04 Installation and Connection/02 Installation and Setup/05 Initial Power-On Checklist.md",
       "draft": false
     }
   ]

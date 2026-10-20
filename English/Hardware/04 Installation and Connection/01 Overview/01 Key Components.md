@@ -1,7 +1,7 @@
 ### Key Components
 
 
-![](assets/Key_Components1_4-6e8d3220cda4.jpg){width=12cm}
+![](../../../../assets/Key_Components1_4-6e8d3220cda4.jpg)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=2e99c09d71ac89db -->
 Figure 4-1 Key Components
@@ -16,7 +16,7 @@ Figure 4-1 Key Components
 | 4       | **Chip Outlet**        | A discharge channel for chips and waste material, used for the centralized removal of machining debris to facilitate cleaning and maintain internal machine cleanliness.                               |
 
 
-![](assets/Key_Components56_annotated-864273a3f8a2.png){width=12cm}
+![](../../../../assets/Key_Components56_annotated-864273a3f8a2.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=9aad887d395d59b4 -->
 Figure 4-2 Key Components

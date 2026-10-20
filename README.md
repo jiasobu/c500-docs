@@ -6,6 +6,7 @@ Wiki 和用户手册共用一套源文档。按语言和分类查找，内容只
 | --- | --- |
 | [硬件](中文/硬件/README.md) | [Hardware](English/Hardware/README.md) |
 | [软件](中文/软件/README.md) | [Software](English/Software/README.md) |
+| [快速操作指南](中文/快速操作指南/README.md) | — |
 | [首次加工](中文/首次加工/README.md) | [First Machining](English/First%20Machining/README.md) |
 | [工艺库](中文/工艺库/) | [Process Library](English/Process%20Library/) |
 | [FAQ](中文/FAQ/) | [FAQ](English/FAQ/) |

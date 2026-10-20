@@ -4,7 +4,7 @@
 
 Click **Preview** in the center of the top toolbar to enter the Preview interface. Users can review the generated toolpath effects, strategy parameters, and machining paths, and proceed directly to machining or export the G-code file.
 
-![](assets/615_Preview_Page-ffb9ad130d9a.png){width=12cm}
+![](../../../../assets/615_Preview_Page-ffb9ad130d9a.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=b9d86b5ccf4981b2 -->
 Figure 6-8 Preview Page

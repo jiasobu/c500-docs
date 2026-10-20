@@ -4,7 +4,7 @@
 
 Click **Prepare** to enter the ready interface, where users can precisely adjust parameters related to model size, material selection, and process settings.
 
-![](assets/614_Ready_Page-f02704858dde.png){width=12cm}
+![](../../../../assets/614_Ready_Page-f02704858dde.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=6616bb30c4a10cd6 -->
 Figure 6-7 Ready Page

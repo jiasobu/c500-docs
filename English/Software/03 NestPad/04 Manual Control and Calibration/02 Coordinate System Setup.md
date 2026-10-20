@@ -4,7 +4,7 @@ The left side of the interface displays the current machine coordinates and work
 
 
 
-![](assets/Coordinate_System_Setup-c88d28f02ecf.png){width=12cm}
+![](../../../../assets/Coordinate_System_Setup-c88d28f02ecf.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=d5553290d700998c -->
 Figure 6-7 Coordinate System Setup

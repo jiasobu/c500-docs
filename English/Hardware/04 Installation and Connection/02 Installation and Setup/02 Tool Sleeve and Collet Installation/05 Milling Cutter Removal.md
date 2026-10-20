@@ -1,6 +1,6 @@
 ####  Milling Cutter Removal
 
-![](assets/Milling_Cutter_Removal-51d331f45cbb.png){width=12cm}
+![](../../../../../assets/Milling_Cutter_Removal-51d331f45cbb.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=834c2c97a0c379b1 -->
 Figure 4-10 Milling Cutter Removal

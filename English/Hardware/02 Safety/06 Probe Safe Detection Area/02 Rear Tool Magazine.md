@@ -1,6 +1,6 @@
 ### Rear Tool Magazine
 
-![](assets/Safe_Machining_Area_02-89b547efac76.png){width=10cm}
+![](../../../../assets/Safe_Machining_Area_02-89b547efac76.png)<!-- publication-image: {width=10cm} -->
 
 <!-- mdwb:figure id=eceacd4588831e60 -->
 Figure 2-2 Rear Tool Magazine

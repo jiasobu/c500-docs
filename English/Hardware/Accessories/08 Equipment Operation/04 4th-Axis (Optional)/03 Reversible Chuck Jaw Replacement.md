@@ -8,17 +8,17 @@ Depending on the workpiece size and clamping method, the standard or reverse jaw
 
 2. Disconnect the 4th-Axis from the machine. Use the chuck key to loosen the jaw segments until they are removed from the chuck body, and keep the removed jaw segments together.
 
-![](assets/loosen_the_jaw-2b5d8e8f2ac8.jpg){width=10cm}
+![](../../../../../assets/loosen_the_jaw-2b5d8e8f2ac8.jpg)<!-- publication-image: {width=10cm} -->
 
-![](assets/jaw_segments-215cb11d35db.jpg){width=10cm}
+![](../../../../../assets/jaw_segments-215cb11d35db.jpg)<!-- publication-image: {width=10cm} -->
 
 3. Match the jaw segments to be installed with the corresponding numbers (1, 2, 3, 4) in the jaw slots on the chuck body.
 
-![](assets/Match_the_jaw-181a79d1619c.jpg){width=10cm}
+![](../../../../../assets/Match_the_jaw-181a79d1619c.jpg)<!-- publication-image: {width=10cm} -->
 
 4. Strictly follow the numerical order from 1 to 4. Use the chuck key to rotate the internal scroll plate so that its first tooth engages with the first tooth of the corresponding numbered jaw segment.
 
 
 5. Continue tightening with the chuck key until the jaw segments close.
 
-![](assets/jaw_segments_close-4cbde37ba820.jpg){width=10cm}
+![](../../../../../assets/jaw_segments_close-4cbde37ba820.jpg)<!-- publication-image: {width=10cm} -->
