@@ -12,7 +12,7 @@ Wiki and user manuals share the source documents below. Open a chapter to read o
     - [01.1.3 Windows Download and Installation](01%20Software%20Installation/01%20NestStudio/03%20Windows%20Download%20and%20Installation/03%20Windows%20Download%20and%20Installation.md)
       - [01.1.3.1 Windows Software Download](01%20Software%20Installation/01%20NestStudio/03%20Windows%20Download%20and%20Installation/01%20Windows%20Software%20Download.md)
       - [01.1.3.2 Windows Installation](01%20Software%20Installation/01%20NestStudio/03%20Windows%20Download%20and%20Installation/02%20Windows%20Installation.md)
-    - [01.1.4 macOS Download and Installation (Draft)](01%20Software%20Installation/01%20NestStudio/04%20macOS%20Download%20and%20Installation/04%20macOS%20Download%20and%20Installation.md)
+    - [01.1.4 macOS Download and Installation](01%20Software%20Installation/01%20NestStudio/04%20macOS%20Download%20and%20Installation/04%20macOS%20Download%20and%20Installation.md)
       - [01.1.4.1 macOS Software Download](01%20Software%20Installation/01%20NestStudio/04%20macOS%20Download%20and%20Installation/01%20macOS%20Software%20Download.md)
       - [01.1.4.2 MacOS Installation](01%20Software%20Installation/01%20NestStudio/04%20macOS%20Download%20and%20Installation/02%20MacOS%20Installation.md)
     - [01.1.5 machine Connection](01%20Software%20Installation/01%20NestStudio/05%20machine%20Connection/05%20machine%20Connection.md)
