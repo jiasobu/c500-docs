@@ -12,7 +12,7 @@ chapters = 0
 links = 0
 
 for language in ('中文', 'English'):
-    expected = {'硬件', '软件', '首次加工', '工艺库', 'FAQ', '维保'} if language == '中文' else {'Hardware', 'Software', 'First Machining', 'Process Library', 'FAQ', 'Maintenance'}
+    expected = {'硬件', '软件', '快速操作指南', '首次加工', '工艺库', 'FAQ', '维保'} if language == '中文' else {'Hardware', 'Software', 'First Machining', 'Process Library', 'FAQ', 'Maintenance'}
     actual = {p.name for p in (ROOT/language).iterdir() if p.is_dir()}
     if actual != expected:
         errors.append(f'{language}: unexpected categories {actual ^ expected}')
@@ -68,4 +68,4 @@ for path in ROOT.rglob('*'):
 if errors:
     print('\n'.join(errors))
     raise SystemExit(1)
-print(f'PASS: six categories per language, {chapters} chapter references, {links} local links, images and Wiki bindings.')
+print(f'PASS: language categories, {chapters} chapter references, {links} local links, images and Wiki bindings.')

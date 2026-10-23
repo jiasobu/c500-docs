@@ -7,7 +7,7 @@ from urllib.parse import quote
 ROOT=Path(__file__).resolve().parents[2]
 BOOKS={'hardware':('硬件','Hardware'),'software':('软件','Software'),'first-machining':('首次加工','First Machining')}
 LABEL={'zh':('中文','共用章节','选配件'),'en':('English','Shared Content','Accessories')}
-CATEGORIES={'zh':('硬件','软件','首次加工','工艺库','FAQ','维保'),'en':('Hardware','Software','First Machining','Process Library','FAQ','Maintenance')}
+CATEGORIES={'zh':('硬件','软件','快速操作指南','首次加工','工艺库','FAQ','维保'),'en':('Hardware','Software','First Machining','Process Library','FAQ','Maintenance')}
 def write(path,lines):
     path.parent.mkdir(parents=True,exist_ok=True)
     path.write_text('\n'.join(lines)+'\n',encoding='utf-8',newline='\n')
@@ -70,4 +70,4 @@ for lang in ('zh','en'):
         lines.append('- ['+name+']('+quote(target,safe='/.-')+')')
     lines+=['','[完整目录](完整目录.md)' if lang=='zh' else '[Complete contents](完整目录.md)','', '[返回首页](../README.md)' if lang=='zh' else '[Library home](../README.md)']
     write(ROOT/base/'README.md',lines)
-print('Updated bilingual category pages and publication contents; six categories per language.')
+print('Updated bilingual category pages and publication contents.')
