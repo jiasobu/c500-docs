@@ -3,7 +3,7 @@
 
 1. Tool magazine on the X-axis right side
 
-    ![](assets/Machining_Dimensions_Y-f846ea3986ac.png){width=8cm}
+![](../../../../assets/Machining_Dimensions_Y-f846ea3986ac.png)<!-- publication-image: {width=8cm} -->
 
 <!-- mdwb:figure id=9d298c3408f23342 -->
 Figure 9-1 3-Axis Machining Dimensions
