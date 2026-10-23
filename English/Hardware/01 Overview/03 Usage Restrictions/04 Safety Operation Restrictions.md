@@ -1,4 +1,4 @@
-### Safety operation restrictions
+### Safety Operation Restrictions
 
 - It is prohibited to bypass, short-circuit, or modify safety features such as the protective door interlock, Emergency Stop (E-Stop) button, and limit switches without authorization; such actions will invalidate the warranty immediately, and the user shall assume full responsibility for any resulting safety accidents or machine damage.
 - It is prohibited to open the protective door, extend any part of the body into the machining chamber, or touch rotating or moving components, including the spindle, chip auger, and motion axes, while the machine is in operation.
