@@ -1,0 +1,70 @@
+{
+  "version": "title-tree-mvp-v1",
+  "projectName": "C500 快速操作指南",
+  "sourceFile": ".",
+  "sourceCopy": null,
+  "sourceHash": "",
+  "preambleFile": null,
+  "nodes": [
+    {
+      "id": "local-quick-832f36891fb60060",
+      "pairId": null,
+      "title": "前言",
+      "file": "中文/快速操作指南/00 前言.md",
+      "draft": false,
+      "parentId": null,
+      "level": 1,
+      "order": 0
+    },
+    {
+      "id": "local-quick-27c8dbb5197ca4c4",
+      "pairId": null,
+      "title": "使用说明",
+      "file": "中文/快速操作指南/01 使用说明.md",
+      "draft": false,
+      "parentId": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "id": "local-quick-a1ec8111b3737c8d",
+      "pairId": null,
+      "title": "制作木制电子钟表",
+      "file": "中文/快速操作指南/02 制作木制电子钟表.md",
+      "draft": false,
+      "parentId": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "id": "local-quick-5ea8ebf42a26e37d",
+      "pairId": null,
+      "title": "制作黄铜纪念币",
+      "file": "中文/快速操作指南/03 制作黄铜纪念币.md",
+      "draft": false,
+      "parentId": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "id": "local-quick-7836158ab60ed300",
+      "pairId": null,
+      "title": "制作指尖陀螺",
+      "file": "中文/快速操作指南/04 制作指尖陀螺.md",
+      "draft": false,
+      "parentId": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "id": "local-quick-577304d8044e4592",
+      "pairId": null,
+      "title": "制作戒指",
+      "file": "中文/快速操作指南/05 制作戒指.md",
+      "draft": false,
+      "parentId": null,
+      "level": 1,
+      "order": 5
+    }
+  ]
+}
