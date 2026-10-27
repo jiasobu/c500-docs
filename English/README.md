@@ -5,6 +5,7 @@ One set of source documents for the Wiki and user manuals.
 - [Hardware](Hardware/README.md)
 - [Software](Software/README.md)
 - [First Machining](First%20Machining/README.md)
+- [Quick Start Guide](Quick%20Start%20Guide/README.md)
 - [Process Library](Process%20Library/)
 - [FAQ](FAQ/)
 - [Maintenance](Maintenance/)

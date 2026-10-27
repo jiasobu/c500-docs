@@ -8,7 +8,7 @@
   "nodes": [
     {
       "id": "n0001",
-      "pairId": null,
+      "pairId": "pair-5bd71848b3babee7bf98c544e7104051",
       "parentId": null,
       "level": 1,
       "order": 0,
@@ -18,7 +18,7 @@
     },
     {
       "id": "n0003",
-      "pairId": null,
+      "pairId": "pair-ece9062d575ee74f8d3ebf456248e756",
       "parentId": "n0001",
       "level": 2,
       "order": 1,
@@ -28,7 +28,7 @@
     },
     {
       "id": "n0005",
-      "pairId": null,
+      "pairId": "pair-5b19173f5afd4e6e971cfe47e71c9a24",
       "parentId": "n0001",
       "level": 2,
       "order": 3,
@@ -38,7 +38,7 @@
     },
     {
       "id": "n0100",
-      "pairId": null,
+      "pairId": "pair-49df702d5ad34341d799934c0334d7ee",
       "parentId": null,
       "level": 1,
       "order": 1,
@@ -48,7 +48,7 @@
     },
     {
       "id": "n0101",
-      "pairId": null,
+      "pairId": "pair-5bb0141766721f6b17020d582d4944e4",
       "parentId": "n0100",
       "level": 2,
       "order": 0,
@@ -58,7 +58,7 @@
     },
     {
       "id": "n0102",
-      "pairId": null,
+      "pairId": "pair-fefd4ce3c424f641fc155d2325608c42",
       "parentId": "n0101",
       "level": 3,
       "order": 0,
@@ -68,7 +68,7 @@
     },
     {
       "id": "n0103",
-      "pairId": null,
+      "pairId": "pair-0f3ae1b8759c467c071d69c5f82d018a",
       "parentId": "n0101",
       "level": 3,
       "order": 1,
@@ -78,7 +78,7 @@
     },
     {
       "id": "n0104",
-      "pairId": null,
+      "pairId": "pair-629acb6449828a7d6bf8f904e7b3fca4",
       "parentId": "n0101",
       "level": 3,
       "order": 2,
@@ -88,7 +88,7 @@
     },
     {
       "id": "n0105",
-      "pairId": null,
+      "pairId": "pair-e5c98f338ec1ba096d0e8eaa6f2d82a7",
       "parentId": "n0104",
       "level": 4,
       "order": 1,
@@ -98,7 +98,7 @@
     },
     {
       "id": "n0106",
-      "pairId": null,
+      "pairId": "pair-ec9c504dd560323159c4fb0b8d9a8eb2",
       "parentId": "new-bbd3d24586c7454bae894368873bed76",
       "level": 4,
       "order": 1,
@@ -108,7 +108,7 @@
     },
     {
       "id": "n0107",
-      "pairId": null,
+      "pairId": "pair-00ba708d2b1a3e002050eb29c301bfa0",
       "parentId": "n0101",
       "level": 3,
       "order": 4,
@@ -118,7 +118,7 @@
     },
     {
       "id": "n0108",
-      "pairId": null,
+      "pairId": "pair-f9bfc0e53e8c1f55d89962723aad3b35",
       "parentId": "n0107",
       "level": 4,
       "order": 0,
@@ -128,7 +128,7 @@
     },
     {
       "id": "n0109",
-      "pairId": null,
+      "pairId": "pair-b468a5827c1dac992fd7f0caa19daa77",
       "parentId": "n0107",
       "level": 4,
       "order": 1,
@@ -138,7 +138,7 @@
     },
     {
       "id": "n0110",
-      "pairId": null,
+      "pairId": "pair-7c9674f7ccf7d439c75a17f3ff623e1d",
       "parentId": "n0100",
       "level": 2,
       "order": 1,
@@ -148,7 +148,7 @@
     },
     {
       "id": "n0111",
-      "pairId": null,
+      "pairId": "pair-ba4d5af659a1170981af8777f8d93fe3",
       "parentId": "n0110",
       "level": 3,
       "order": 0,
@@ -158,7 +158,7 @@
     },
     {
       "id": "n0112",
-      "pairId": null,
+      "pairId": "pair-d92f65fc9497e79f3c566cb4ae985b06",
       "parentId": "n0110",
       "level": 3,
       "order": 1,
@@ -168,7 +168,7 @@
     },
     {
       "id": "n0113",
-      "pairId": null,
+      "pairId": "pair-8c3075bac45557995484287c5cce365f",
       "parentId": "n0112",
       "level": 4,
       "order": 0,
@@ -178,7 +178,7 @@
     },
     {
       "id": "n0114",
-      "pairId": null,
+      "pairId": "pair-ab4728cfd03454d5223af753ca6ac77d",
       "parentId": "n0112",
       "level": 4,
       "order": 1,
@@ -188,7 +188,7 @@
     },
     {
       "id": "n0115",
-      "pairId": null,
+      "pairId": "pair-dd4164d5aa5a0979e6e897f4e9a0d712",
       "parentId": "n0100",
       "level": 2,
       "order": 2,
@@ -198,7 +198,7 @@
     },
     {
       "id": "n0116",
-      "pairId": null,
+      "pairId": "pair-76b3de00d229d9ef7ef1989152576589",
       "parentId": "n0115",
       "level": 3,
       "order": 0,
@@ -208,7 +208,7 @@
     },
     {
       "id": "n0117",
-      "pairId": null,
+      "pairId": "pair-4ee0eeb9136b67411b2d55dc08fdc8ba",
       "parentId": "n0115",
       "level": 3,
       "order": 1,
@@ -218,7 +218,7 @@
     },
     {
       "id": "n0118",
-      "pairId": null,
+      "pairId": "pair-b54ba2dd8d1f08efb3aa788258f1d815",
       "parentId": "n0115",
       "level": 3,
       "order": 2,
@@ -228,7 +228,7 @@
     },
     {
       "id": "n0119",
-      "pairId": null,
+      "pairId": "pair-16a5f8149cd33b75047cf4b8a33953b4",
       "parentId": null,
       "level": 1,
       "order": 2,
@@ -238,7 +238,7 @@
     },
     {
       "id": "n0120",
-      "pairId": null,
+      "pairId": "pair-30df5b8c33125d7035d71bac04609f4c",
       "parentId": "n0119",
       "level": 2,
       "order": 0,
@@ -248,7 +248,7 @@
     },
     {
       "id": "n0121",
-      "pairId": null,
+      "pairId": "pair-fae6cd677d204e34a624d014c0c8b4db",
       "parentId": "n0120",
       "level": 3,
       "order": 0,
@@ -258,7 +258,7 @@
     },
     {
       "id": "n0122",
-      "pairId": null,
+      "pairId": "pair-f7fb7db9d748bb9852c5c28ce9c1f1fc",
       "parentId": "n0120",
       "level": 3,
       "order": 1,
@@ -268,7 +268,7 @@
     },
     {
       "id": "n0123",
-      "pairId": null,
+      "pairId": "pair-559ad1f1865f49559206a8bba713f277",
       "parentId": "n0120",
       "level": 3,
       "order": 2,
@@ -278,7 +278,7 @@
     },
     {
       "id": "n0124",
-      "pairId": null,
+      "pairId": "pair-6febb279cf604048b01f01cc0f19ea9a",
       "parentId": "n0120",
       "level": 3,
       "order": 3,
@@ -288,7 +288,7 @@
     },
     {
       "id": "n0125",
-      "pairId": null,
+      "pairId": "pair-f1da4e3a0645dc9c21a91c93feaccc6e",
       "parentId": "n0120",
       "level": 3,
       "order": 4,
@@ -298,7 +298,7 @@
     },
     {
       "id": "n0126",
-      "pairId": null,
+      "pairId": "pair-0f3c3de6a4778a69a02117ccd6b0b1fc",
       "parentId": "n0120",
       "level": 3,
       "order": 5,
@@ -308,7 +308,7 @@
     },
     {
       "id": "n0127",
-      "pairId": null,
+      "pairId": "pair-aa299541ae2a93283d9666efd24eca8b",
       "parentId": "n0126",
       "level": 4,
       "order": 0,
@@ -318,7 +318,7 @@
     },
     {
       "id": "n0128",
-      "pairId": null,
+      "pairId": "pair-29c4ff9e3a3b60f54598b6fffac55965",
       "parentId": "n0126",
       "level": 4,
       "order": 1,
@@ -328,7 +328,7 @@
     },
     {
       "id": "n0129",
-      "pairId": null,
+      "pairId": "pair-144eb9002fc86405789e04f19de916bf",
       "parentId": "n0126",
       "level": 4,
       "order": 2,
@@ -338,7 +338,7 @@
     },
     {
       "id": "n0130",
-      "pairId": null,
+      "pairId": "pair-972d399dad2537da72f050de19935ee0",
       "parentId": "n0119",
       "level": 2,
       "order": 1,
@@ -348,7 +348,7 @@
     },
     {
       "id": "n0131",
-      "pairId": null,
+      "pairId": "pair-e75f4bcf83470ae7ee654caf65ca62ec",
       "parentId": "n0130",
       "level": 3,
       "order": 0,
@@ -358,7 +358,7 @@
     },
     {
       "id": "n0132",
-      "pairId": null,
+      "pairId": "pair-945f3996282a875930c45dad3ce61eb8",
       "parentId": "n0130",
       "level": 3,
       "order": 1,
@@ -368,7 +368,7 @@
     },
     {
       "id": "n0133",
-      "pairId": null,
+      "pairId": "pair-fa67d11d3c6357f6ed2920274649c731",
       "parentId": "n0130",
       "level": 3,
       "order": 2,
@@ -378,7 +378,7 @@
     },
     {
       "id": "n0134",
-      "pairId": null,
+      "pairId": "pair-c60539fc51dd1c87cd8b8903a3b61d93",
       "parentId": "n0133",
       "level": 4,
       "order": 0,
@@ -388,7 +388,7 @@
     },
     {
       "id": "n0135",
-      "pairId": null,
+      "pairId": "pair-1df04ff6f3fc5e74852723cd74fffe75",
       "parentId": "n0133",
       "level": 4,
       "order": 1,
@@ -398,7 +398,7 @@
     },
     {
       "id": "n0136",
-      "pairId": null,
+      "pairId": "pair-6c7a5ec5364e9e931a1907c326ac1734",
       "parentId": "n0133",
       "level": 4,
       "order": 2,
@@ -408,7 +408,7 @@
     },
     {
       "id": "n0137",
-      "pairId": null,
+      "pairId": "pair-58392145d041e1108a7ea435ea35f6a3",
       "parentId": "n0130",
       "level": 3,
       "order": 3,
@@ -418,7 +418,7 @@
     },
     {
       "id": "n0138",
-      "pairId": null,
+      "pairId": "pair-9ac410446cddce26b970250a73d99bb1",
       "parentId": "n0137",
       "level": 4,
       "order": 0,
@@ -428,7 +428,7 @@
     },
     {
       "id": "n0139",
-      "pairId": null,
+      "pairId": "pair-f3eef36f46b7440261dfe17b849f655e",
       "parentId": "n0137",
       "level": 4,
       "order": 1,
@@ -438,7 +438,7 @@
     },
     {
       "id": "n0140",
-      "pairId": null,
+      "pairId": "pair-853e131bd9343ee372a07aca2f2c2fdd",
       "parentId": "n0137",
       "level": 4,
       "order": 2,
@@ -448,7 +448,7 @@
     },
     {
       "id": "n0141",
-      "pairId": null,
+      "pairId": "pair-f866615c604dadbfd5a5bb4f0831fa11",
       "parentId": "n0130",
       "level": 3,
       "order": 4,
@@ -458,7 +458,7 @@
     },
     {
       "id": "n0142",
-      "pairId": null,
+      "pairId": "pair-2962268cdac3e5c309567f44f4cbef5c",
       "parentId": "n0141",
       "level": 4,
       "order": 0,
@@ -468,7 +468,7 @@
     },
     {
       "id": "n0143",
-      "pairId": null,
+      "pairId": "pair-ee7dab000168f5ddca83232a64c0420d",
       "parentId": "n0141",
       "level": 4,
       "order": 1,
@@ -478,7 +478,7 @@
     },
     {
       "id": "n0144",
-      "pairId": null,
+      "pairId": "pair-7b176c9b20838194ca154554052fd36c",
       "parentId": "n0130",
       "level": 3,
       "order": 5,
@@ -488,7 +488,7 @@
     },
     {
       "id": "n0145",
-      "pairId": null,
+      "pairId": "pair-d75218d4f3918c585995686ca050700a",
       "parentId": "n0130",
       "level": 3,
       "order": 6,
@@ -498,7 +498,7 @@
     },
     {
       "id": "n0146",
-      "pairId": null,
+      "pairId": "pair-07ed29515d236d609c7fcd39579f8eaa",
       "parentId": "n0130",
       "level": 3,
       "order": 7,
@@ -508,7 +508,7 @@
     },
     {
       "id": "n0147",
-      "pairId": null,
+      "pairId": "pair-525adc2e6193d0b1cde0bceb9c6e44a7",
       "parentId": "n0130",
       "level": 3,
       "order": 8,
@@ -518,7 +518,7 @@
     },
     {
       "id": "n0148",
-      "pairId": null,
+      "pairId": "pair-43fa8903cb911b51b8ef4a345abfae71",
       "parentId": "n0130",
       "level": 3,
       "order": 9,
@@ -528,7 +528,7 @@
     },
     {
       "id": "n0149",
-      "pairId": null,
+      "pairId": "pair-904ef608f7e0d8ccb4bedf569ee2ab5e",
       "parentId": "n0148",
       "level": 4,
       "order": 0,
@@ -538,7 +538,7 @@
     },
     {
       "id": "n0150",
-      "pairId": null,
+      "pairId": "pair-853a5cf50ecec8dd1eb806e470cdf794",
       "parentId": "n0148",
       "level": 4,
       "order": 1,
@@ -548,7 +548,7 @@
     },
     {
       "id": "n0151",
-      "pairId": null,
+      "pairId": "pair-7bbe0c4ba01cb87e5234cb28c1e3e301",
       "parentId": "n0130",
       "level": 3,
       "order": 10,
@@ -558,7 +558,7 @@
     },
     {
       "id": "n0152",
-      "pairId": null,
+      "pairId": "pair-46644ade905b7d372e46d7c712f8e0ea",
       "parentId": "n0130",
       "level": 3,
       "order": 11,
@@ -568,7 +568,7 @@
     },
     {
       "id": "n0153",
-      "pairId": null,
+      "pairId": "pair-14938cbe3a0b58fe3d38f700bab612c9",
       "parentId": "n0152",
       "level": 4,
       "order": 0,
@@ -578,7 +578,7 @@
     },
     {
       "id": "n0154",
-      "pairId": null,
+      "pairId": "pair-a78fe389766e55dc3f8a1dd8ac1dc62f",
       "parentId": "n0152",
       "level": 4,
       "order": 1,
@@ -588,7 +588,7 @@
     },
     {
       "id": "n0155",
-      "pairId": null,
+      "pairId": "pair-fd88e2ef8a60f2b23caadc00a4bf50b4",
       "parentId": "n0130",
       "level": 3,
       "order": 12,
@@ -598,7 +598,7 @@
     },
     {
       "id": "n0156",
-      "pairId": null,
+      "pairId": "pair-d693f35970c92b5fc13c77576ead2155",
       "parentId": "n0155",
       "level": 4,
       "order": 0,
@@ -608,7 +608,7 @@
     },
     {
       "id": "n0157",
-      "pairId": null,
+      "pairId": "pair-4f6c1652ada153b84841a43db5d5111d",
       "parentId": "n0155",
       "level": 4,
       "order": 1,
@@ -618,7 +618,7 @@
     },
     {
       "id": "n0158",
-      "pairId": null,
+      "pairId": "pair-598a97541a51b7e1390a85d312be6ff3",
       "parentId": "n0155",
       "level": 4,
       "order": 2,
@@ -628,7 +628,7 @@
     },
     {
       "id": "n0159",
-      "pairId": null,
+      "pairId": "pair-05eaaa49c31d125b8393020fb9afbbcf",
       "parentId": "n0155",
       "level": 4,
       "order": 3,
@@ -638,7 +638,7 @@
     },
     {
       "id": "n0160",
-      "pairId": null,
+      "pairId": "pair-455947cf430f144c672f743e88a95029",
       "parentId": "n0130",
       "level": 3,
       "order": 13,
@@ -648,7 +648,7 @@
     },
     {
       "id": "n0161",
-      "pairId": null,
+      "pairId": "pair-78ca8533423e6bb1cb74f763dbb1ef87",
       "parentId": "n0160",
       "level": 4,
       "order": 0,
@@ -658,7 +658,7 @@
     },
     {
       "id": "n0162",
-      "pairId": null,
+      "pairId": "pair-f4d81cc80dfe7e06b64a7cf4642cc460",
       "parentId": "n0160",
       "level": 4,
       "order": 1,
@@ -668,7 +668,7 @@
     },
     {
       "id": "n0163",
-      "pairId": null,
+      "pairId": "pair-79729e3201da793ac42ed4adc6412193",
       "parentId": "n0160",
       "level": 4,
       "order": 2,
@@ -678,7 +678,7 @@
     },
     {
       "id": "n0164",
-      "pairId": null,
+      "pairId": "pair-28dcb8a444114b860a73a5c596e754c7",
       "parentId": "n0160",
       "level": 4,
       "order": 3,
@@ -688,7 +688,7 @@
     },
     {
       "id": "n0165",
-      "pairId": null,
+      "pairId": "pair-7a360a542fc3d4760409be38becea12d",
       "parentId": "n0130",
       "level": 3,
       "order": 14,
@@ -698,7 +698,7 @@
     },
     {
       "id": "n0166",
-      "pairId": null,
+      "pairId": "pair-d69962c604b7706cec3cf2376ba627fa",
       "parentId": "n0130",
       "level": 3,
       "order": 15,
@@ -708,7 +708,7 @@
     },
     {
       "id": "n0167",
-      "pairId": null,
+      "pairId": "pair-61caa0d1eb36cd4ec549490f9c3170e2",
       "parentId": "n0130",
       "level": 3,
       "order": 16,
@@ -718,7 +718,7 @@
     },
     {
       "id": "n0168",
-      "pairId": null,
+      "pairId": "pair-504f757cecd9cdea4a96532a24a00e34",
       "parentId": null,
       "level": 1,
       "order": 3,
@@ -728,7 +728,7 @@
     },
     {
       "id": "n0169",
-      "pairId": null,
+      "pairId": "pair-d3504f00e5a0ce5acac2794e0e6779b9",
       "parentId": "n0168",
       "level": 2,
       "order": 0,
@@ -738,7 +738,7 @@
     },
     {
       "id": "n0170",
-      "pairId": null,
+      "pairId": "pair-89fc85ff9452aaeb687adeb675d945ba",
       "parentId": "n0169",
       "level": 3,
       "order": 0,
@@ -748,7 +748,7 @@
     },
     {
       "id": "n0171",
-      "pairId": null,
+      "pairId": "pair-055bd810cc606c3bb093e5f19ae8b064",
       "parentId": "n0168",
       "level": 2,
       "order": 1,
@@ -758,7 +758,7 @@
     },
     {
       "id": "n0172",
-      "pairId": null,
+      "pairId": "pair-a30616a2b07fd91fc03ac3b44ca8841a",
       "parentId": "n0171",
       "level": 3,
       "order": 0,
@@ -768,7 +768,7 @@
     },
     {
       "id": "n0173",
-      "pairId": null,
+      "pairId": "pair-19b655d122ae0602b7ae233ea5865d7c",
       "parentId": "n0171",
       "level": 3,
       "order": 1,
@@ -778,7 +778,7 @@
     },
     {
       "id": "n0174",
-      "pairId": null,
+      "pairId": "pair-7215f419f2ccd9c824a4dad582425590",
       "parentId": "n0171",
       "level": 3,
       "order": 2,
@@ -788,7 +788,7 @@
     },
     {
       "id": "n0175",
-      "pairId": null,
+      "pairId": "pair-b0637a269525c27b09d4997bca80b1b2",
       "parentId": "n0171",
       "level": 3,
       "order": 3,
@@ -798,7 +798,7 @@
     },
     {
       "id": "n0176",
-      "pairId": null,
+      "pairId": "pair-5fe029d02de6a55d5631948930c375e7",
       "parentId": "n0168",
       "level": 2,
       "order": 2,
@@ -808,7 +808,7 @@
     },
     {
       "id": "n0177",
-      "pairId": null,
+      "pairId": "pair-900f39d8c5d3ca256b9d339be7b6a8fb",
       "parentId": "n0168",
       "level": 2,
       "order": 3,
@@ -818,7 +818,7 @@
     },
     {
       "id": "n0178",
-      "pairId": null,
+      "pairId": "pair-8fe40f85470d87e81ce6cd312920911d",
       "parentId": "n0177",
       "level": 3,
       "order": 0,
@@ -828,7 +828,7 @@
     },
     {
       "id": "n0179",
-      "pairId": null,
+      "pairId": "pair-582509217a8b1a2e0f13ce443a49a9ec",
       "parentId": "n0177",
       "level": 3,
       "order": 1,
@@ -838,7 +838,7 @@
     },
     {
       "id": "n0180",
-      "pairId": null,
+      "pairId": "pair-90149bcf63d54a87171298113c4dc1ec",
       "parentId": "n0177",
       "level": 3,
       "order": 2,
@@ -848,7 +848,7 @@
     },
     {
       "id": "n0181",
-      "pairId": null,
+      "pairId": "pair-5d47975d62bb89fc84037f341161e996",
       "parentId": "n0177",
       "level": 3,
       "order": 3,
@@ -858,7 +858,7 @@
     },
     {
       "id": "n0182",
-      "pairId": null,
+      "pairId": "pair-a45de39b4963f93485f751e1149f78c3",
       "parentId": "n0168",
       "level": 2,
       "order": 4,
@@ -868,7 +868,7 @@
     },
     {
       "id": "n0183",
-      "pairId": null,
+      "pairId": "pair-2e779115ccf439283996933c154fa9f8",
       "parentId": "n0168",
       "level": 2,
       "order": 5,
@@ -878,7 +878,7 @@
     },
     {
       "id": "n0184",
-      "pairId": null,
+      "pairId": "pair-151be31919ae0ff94a2d2e1b9391d6a7",
       "parentId": "n0183",
       "level": 3,
       "order": 0,
@@ -888,7 +888,7 @@
     },
     {
       "id": "n0185",
-      "pairId": null,
+      "pairId": "pair-a5f7a30edc1e6e5dc7793709a812dd77",
       "parentId": "n0183",
       "level": 3,
       "order": 1,
@@ -898,7 +898,7 @@
     },
     {
       "id": "n0186",
-      "pairId": null,
+      "pairId": "pair-d4905e28b593c065178a14a0c685a978",
       "parentId": "n0183",
       "level": 3,
       "order": 2,
@@ -908,7 +908,7 @@
     },
     {
       "id": "n0187",
-      "pairId": null,
+      "pairId": "pair-c92f730732887e13c2007b19f52beab7",
       "parentId": "n0183",
       "level": 3,
       "order": 3,
@@ -918,7 +918,7 @@
     },
     {
       "id": "n0188",
-      "pairId": null,
+      "pairId": "pair-b09418f2e82dd0cab73e3a005084fad3",
       "parentId": "n0183",
       "level": 3,
       "order": 4,
@@ -928,7 +928,7 @@
     },
     {
       "id": "n0189",
-      "pairId": null,
+      "pairId": "pair-0b66776ea05b90d0f54e22fc2c3ba771",
       "parentId": "n0183",
       "level": 3,
       "order": 5,
@@ -938,7 +938,7 @@
     },
     {
       "id": "n0247",
-      "pairId": null,
+      "pairId": "pair-2ed6a0b9ff9a4de85646e36f7f08e91f",
       "parentId": "n0169",
       "level": 3,
       "order": 1,
@@ -948,7 +948,7 @@
     },
     {
       "id": "new-c686394efa8a4061947aba3aceeb521f",
-      "pairId": null,
+      "pairId": "pair-56345ffa74a1ab00c91b2c68ddc70269",
       "parentId": "n0104",
       "level": 4,
       "order": 0,
@@ -958,7 +958,7 @@
     },
     {
       "id": "new-bbd3d24586c7454bae894368873bed76",
-      "pairId": null,
+      "pairId": "pair-ac08b2a7cdfe9219b3559d659dd7aed5",
       "parentId": "n0101",
       "level": 3,
       "order": 3,
@@ -968,7 +968,7 @@
     },
     {
       "id": "new-dd44ae950bcb489680bf90320a2cf1fc",
-      "pairId": null,
+      "pairId": "pair-ee93affbfa9689ff59aa630fa2b051b6",
       "parentId": "new-bbd3d24586c7454bae894368873bed76",
       "level": 4,
       "order": 0,
@@ -976,5 +976,6 @@
       "file": "English/Software/01 Software Installation/01 NestStudio/04 macOS Download and Installation/01 macOS Software Download.md",
       "draft": false
     }
-  ]
+  ],
+  "explicitBilingualPairs": true
 }

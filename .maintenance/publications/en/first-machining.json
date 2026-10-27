@@ -8,7 +8,7 @@
   "nodes": [
     {
       "id": "n0001",
-      "pairId": null,
+      "pairId": "pair-0e5c2d6cf55475b393ca6622766b52de",
       "parentId": null,
       "level": 1,
       "order": 0,
@@ -18,7 +18,7 @@
     },
     {
       "id": "n0003",
-      "pairId": null,
+      "pairId": "pair-49b2e03cd3bb7b2eb98bd363ff4eb28c",
       "parentId": "n0001",
       "level": 2,
       "order": 1,
@@ -28,7 +28,7 @@
     },
     {
       "id": "n0005",
-      "pairId": null,
+      "pairId": "pair-aa877f39960c54280509d4d1072ebee9",
       "parentId": "n0001",
       "level": 2,
       "order": 3,
@@ -38,7 +38,7 @@
     },
     {
       "id": "n0190",
-      "pairId": null,
+      "pairId": "pair-449e1ca7d71b018310b2c961e4a9a7f5",
       "parentId": null,
       "level": 1,
       "order": 1,
@@ -48,7 +48,7 @@
     },
     {
       "id": "n0191",
-      "pairId": null,
+      "pairId": "pair-a0f5a835c9112a9eb5559909cfa077e5",
       "parentId": "n0190",
       "level": 2,
       "order": 0,
@@ -58,7 +58,7 @@
     },
     {
       "id": "n0192",
-      "pairId": null,
+      "pairId": "pair-96eb93517826bdd874c07c3a47f82d3e",
       "parentId": "n0190",
       "level": 2,
       "order": 1,
@@ -68,7 +68,7 @@
     },
     {
       "id": "n0193",
-      "pairId": null,
+      "pairId": "pair-bf7296b960fff27277d7678cd149eb77",
       "parentId": "n0190",
       "level": 2,
       "order": 2,
@@ -78,7 +78,7 @@
     },
     {
       "id": "n0194",
-      "pairId": null,
+      "pairId": "pair-c4bee61deff28e775bc8f531ce666e78",
       "parentId": "n0190",
       "level": 2,
       "order": 3,
@@ -88,7 +88,7 @@
     },
     {
       "id": "n0195",
-      "pairId": null,
+      "pairId": "pair-bbcc84332c400b1e50fb2a7ea5a3752f",
       "parentId": "n0190",
       "level": 2,
       "order": 4,
@@ -98,7 +98,7 @@
     },
     {
       "id": "n0196",
-      "pairId": null,
+      "pairId": "pair-634358661f30f07c762e5166a2cb2cce",
       "parentId": "n0190",
       "level": 2,
       "order": 5,
@@ -108,7 +108,7 @@
     },
     {
       "id": "n0197",
-      "pairId": null,
+      "pairId": "pair-209a4db9d716b1a3e0d3b4ed262ad3a5",
       "parentId": "n0190",
       "level": 2,
       "order": 6,
@@ -116,5 +116,6 @@
       "file": "English/First Machining/01 Initial Operation/07 Real-Time Monitoring.md",
       "draft": false
     }
-  ]
+  ],
+  "explicitBilingualPairs": true
 }
