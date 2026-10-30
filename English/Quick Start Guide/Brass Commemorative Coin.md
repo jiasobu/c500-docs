@@ -2,7 +2,8 @@
 
 In this project, the C500 is used to machine a double-sided brass commemorative coin from a blank measuring Φ50 × 5 mm.
 
-This project follows the same three-axis, double-sided machining workflow as the wooden digital clock project. This tutorial focuses on the material, tools, workholding method, and project settings specific to the brass commemorative coin. Common operations, including machine connection, tool data reading, automatic centering, toolpath generation, and back-side machining, are not covered again.
+This project follows the same three-axis, double-sided machining workflow as the wooden digital clock project. 
+This tutorial focuses on the material, tools, workholding method, and project settings specific to the brass commemorative coin. Common operations, including machine connection, tool data reading, automatic centering, toolpath generation, and back-side machining, are not covered again.
 
 ## Materials and Tools
 
