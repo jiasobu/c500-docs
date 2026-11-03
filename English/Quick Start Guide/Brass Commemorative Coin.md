@@ -9,7 +9,7 @@ This tutorial focuses on the material, tools, workholding method, and project se
 
 Prepare the materials and tools shown below.
 
-**picture position**
+![Materials and Tools](../../assets/quick-guide/Coin_en.png)
 
 ## Machining Workflow
 ### Workpiece Clamping
