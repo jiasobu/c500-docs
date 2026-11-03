@@ -40,3 +40,6 @@ Prepare the materials and tools shown below.
 1. Select the front-side toolpaths and start machining.
 2. Once front-side machining is complete, remove any surface chips. Flip the coin over and secure it again, making sure to follow the flip direction specified in the previous settings.
 3. Remove the coin and clear any chips from its surface and engraved details. Finish the edges and remove any burrs as needed.
+
+## Finished Workpiece
+![Finished Workpiece](../../assets/quick-guide/黄铜纪念币正方面展示.jpg)
