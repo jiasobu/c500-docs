@@ -5,7 +5,7 @@ NestPad 提供直观可靠的本地操作界面，无需连接 PC 即可完成�
 ![](../../../../assets/nestpad/界面概览-zh.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=e18aed79bf71e3bb -->
-Figure 6-1 界面预览
+图 6-1 界面预览
 <!-- /mdwb:figure -->
 
 **表 6-1 NestPad 界面概览** <!-- mdwb:table id=58e3221f96d3aeb7 -->
