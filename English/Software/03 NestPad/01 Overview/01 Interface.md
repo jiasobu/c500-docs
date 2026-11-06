@@ -3,7 +3,7 @@
 NestPad provides an intuitive and reliable local control interface, allowing users to perform core operations such as file import, workpiece origin setup, machining monitoring, and accessory control without the need for a PC connection.
 
 
-![](../../../../assets/Interface_Overview-18affe124653.png)<!-- publication-image: {width=12cm} -->
+![](../../../../assets/nestpad/界面概览-en.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=e18aed79bf71e3bb -->
 Figure 6-1 Interface
@@ -11,7 +11,7 @@ Figure 6-1 Interface
 
 
 | NO. | Function     | Description                                                                                                                                                                                       |
-| --- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :--- | :------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Files**    | Browse program files stored locally or on a USB drive and start machining. When connected and logged in, users can also sync, access, and download favorite programs.                             |
 | 2   | **Status**   | Displays real-time status of machine subsystems, including lighting, cleaning, cooling system monitoring, feed rate adjustment, and temperature monitoring.                                       |
 | 3   | **Control**  | Spindle motion control. Supports manual **XYZ** axis movement and motion parameter adjustment, providing functions such as quick zero return, spindle reset, and manual workpiece origin setting. |
