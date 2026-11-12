@@ -4,13 +4,10 @@ Machine zero return is a fundamental calibration function that drives all axes b
 Performing a machine zero return relocks the mechanical origin, restores coordinate accuracy, and ensures subsequent movements, tool offsets, and machining dimensions are precise.
 
 
-![](../../../../assets/Machine_Zero_Return-10684a2f1f80.png)<!-- publication-image: {width=12cm} -->
-
-<!-- mdwb:figure id=0aad71a98ea19d4f -->
-Figure 6-8 Machine Zero Return
-<!-- /mdwb:figure -->
-
-
 Click the **Machine Zero Return** button to initiate a confirmation prompt. After confirming, the spindle moves slowly to its initial position, and the software interface displays the execution status.
 
+![](../../../../assets/nestpad/机械回零二次确认-en.png)<!-- publication-image: {width=12cm} -->
+
+<!-- mdwb:figure id=0aad71a98ea19d4f -->
+<!-- /mdwb:figure -->
 
