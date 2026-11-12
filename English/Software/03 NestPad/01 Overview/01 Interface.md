@@ -6,11 +6,10 @@ NestPad provides an intuitive and reliable local control interface, allowing use
 ![](../../../../assets/nestpad/界面概览-en.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=e18aed79bf71e3bb -->
-Figure 6-1 Interface
 <!-- /mdwb:figure -->
 
 
-| NO. | Function     | Description                                                                                                                                                                                       |
+| **NO.** | **Function**     | **Description**                                                                                                                                                                                       |
 | :--- | :------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Files**    | Browse program files stored locally or on a USB drive and start machining. When connected and logged in, users can also sync, access, and download favorite programs.                             |
 | 2   | **Status**   | Displays real-time status of machine subsystems, including lighting, cleaning, cooling system monitoring, feed rate adjustment, and temperature monitoring.                                       |
