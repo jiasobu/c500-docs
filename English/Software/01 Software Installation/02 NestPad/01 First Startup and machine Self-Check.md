@@ -6,7 +6,7 @@ When powering on the Nestworks C500 for the first time, the system provides pref
 - **Language Settings**  
   Supports switching between Chinese and English.
 
-- **machine Naming**  
+- **Machine Naming**  
   Users can customize the machine name of the C500.
 
 - **Network Settings**  
@@ -25,7 +25,7 @@ When powering on the Nestworks C500 for the first time, the system provides pref
 | ![](../../../../assets/status_fault-e7393196cc1c.png)<!-- publication-image: {width=2cm} -->  | A module fault has been detected. Restart the machine first. If the issue persists, contact technical support.                                                                     |
 | Grayed-out text                                                                        | The module is not installed. If the hardware is physically installed, check the installation status and reconnect the interface. If the issue persists, contact technical support. |
 
-To manually run the self-check function, click **Settings** > **Calibration** > **Start Self-Check**.  
+To manually run the self-check function, click **Settings** > **Calibration** > **Self Diagnosis**.  
 
-Users may also enable or disable **Run Automatically at Startup** as needed.
+Users may also enable or disable **Auto-Start when device power on** as needed.
 

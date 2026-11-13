@@ -1,19 +1,18 @@
 ## Submodules and Accessories
 
-This page provides control switches and status monitoring for all machine submodules, as well as settings for extended accessories.
+On the home page, tap **Status** to access the submodules and accessories page. This page provides control switches and status monitoring for all machine submodules, as well as settings for extended accessories.
 
 
 
 
-![](../../../assets/Submodules-e516d1fac5b1.png)<!-- publication-image: {width=12cm} -->
+![](../../../assets/nestpad/子模块与配件-en.png)<!-- publication-image: {width=12cm} -->
 
 <!-- mdwb:figure id=fb844933d170fc05 -->
-Figure 6-5 Submodules and Accessories
 <!-- /mdwb:figure -->
 
 
-| No. | Module                         | Description                                                                                                                                                                                                                                                                                                                                                                                                        |
-| --- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **No.** | **Module**                         | **Description**                                                                                                                                                                                                                                                                                                                                                                                                        |
+| :--- | :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | **Light**                          | Tap once to turn the enclosure interior light on or off.                                                                                                                                                                                                                                                                                                                                                           |
 | 2   | **Fan**                            | Used for debris cleaning and airflow control, including:• **Air Purification**: Automatically enabled during machining and can be manually turned off for air circulation and exhaust ventilation.• **Chip Cleaning**: The bottom air-blow system removes chips toward the chip outlet for vacuum extraction.• **Worktable Cleaning**: The fan mounted above the spindle clears debris from the worktable surface. |
 | 3   | **Chip Auger**                     | Located beneath the machine table and used to control the left, right, and front chip augers. When the safety door is closed, tap once to start. When the safety door is open, press and hold to operate, and release to stop.                                                                                                                                                                                     |
