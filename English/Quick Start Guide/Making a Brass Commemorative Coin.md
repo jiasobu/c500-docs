@@ -8,7 +8,7 @@ This project follows the 3-axis, double-sided machining workflow introduced in *
 
 Prepare the materials and tools shown below.
 
-![Materials and Tools](../../assets/quick-guide/Coin_en.png)
+![Materials and Tools](../../assets/quick-guide/toolandmaterial.png)
 
 ## Machining Workflow
 
