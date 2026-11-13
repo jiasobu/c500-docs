@@ -1,8 +1,8 @@
 ## Making a Brass Commemorative Coin
 
-This project uses the C500 to machine a double-sided brass commemorative coin from a blank measuring Φ50 × 5 mm.
+This project uses the C500 to machine a double-sided brass commemorative coin from a brass workpiece blank measuring Φ50 × 5 mm.
 
-The project follows the 3-Axis, double-sided machining workflow described in Making a Wooden Electronic Clock. This tutorial focuses on the materials, cutting tools, workholding method, and project settings specific to the brass coin. Common operations, such as fixture calibration, machine connection, and tool detection, are not covered again. 
+This project follows the 3-axis, double-sided machining workflow introduced in **Making a Wooden Electronic Clock**. This tutorial focuses on the materials, cutting tools, workholding method, and project settings specific to the brass coin. Common steps, such as fixture calibration, software connection, and tool setup, are not repeated here.
 
 ## Materials and Tools
 
@@ -11,11 +11,16 @@ Prepare the materials and tools shown below.
 ![Materials and Tools](../../assets/quick-guide/Coin_en.png)
 
 ## Machining Workflow
+
 ### Workpiece Clamping
 1. Install the fixture plate and insert the two dowel pins, then install the L-shaped locating fixture.
-2. Position the Φ50 × 5 mm brass workpiece blank in the designated location. Install and tighten the two OK clamps, ensuring the blank is securely held.
+2. Position the Φ50 × 5 mm brass workpiece blank in the designated location. Install and tighten the two OK clamps, ensuring the workpiece blank is securely held.
 
 ![Workpiece Clamping](../../assets/quick-guide/20261027-164144.jpg)
+
+### Tool Setup
+1. Install the 3 mm 3-flute flat end mill, 3 mm 2-flute ball-nose end mill, and V-bit in the tool magazine.
+2. Check the tool information in Tool Management and confirm that the software records match the tools installed in the magazine.
 
 ## Start Machining
 
@@ -36,7 +41,7 @@ Enter the **Home** page and import the G-code file for the front side of the coi
 
 ![automatic centering](../../assets/quick-guide/sssss.jpg)
 
-3. Once front-side centering is complete, start machining the front side of the workpiece.
+3. Once front-side centering is complete, start machining the front side of the workpiece blank.
 
 ### Back-Side Machining
 1. Once front-side machining is complete, remove any chips from the surface, flip the coin over, and secure it again.
