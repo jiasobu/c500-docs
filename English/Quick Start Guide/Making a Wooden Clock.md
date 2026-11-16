@@ -6,6 +6,8 @@ This tutorial covers the complete making process, including material and tool pr
 ## Materials and Tools
 Before machining, prepare the required materials, tools, and accessories as shown below.
 
+![](../../assets/quick-guide/upscale1794815446828.png)<!-- publication-image: {width=12cm} -->
+
 ## Machining Workflow
 
 ### L-shaped Locating Fixture Calibration
