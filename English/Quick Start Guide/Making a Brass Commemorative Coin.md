@@ -1,4 +1,4 @@
-## Making a Brass Commemorative Coin
+# Making a Brass Commemorative Coin
 
 This project uses the C500 to machine a double-sided brass commemorative coin from a brass workpiece blank measuring Φ50 × 5 mm.
 
