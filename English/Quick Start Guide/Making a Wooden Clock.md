@@ -57,7 +57,7 @@ On the NestPad home screen, tap the **Settings** icon firstly, and then tap **Ca
 ### Model and Material Setup
 1. Return to the **Prepare** page and import the wooden clock model file.
 
-![](../../assets/quick-guide/24b8bdede83354fa827751adaab3b852fdc9aad57a265617d57060a4f5bd0ebc.png)<!-- publication-image: {width=12cm} -->
+![](../../assets/quick-guide/zzzz.jpg)<!-- publication-image: {width=12cm} -->
 
 2. Click the **Smart Material Recognition** icon on the right, then scan the QR code to automatically populate the workpiece parameters.
 
