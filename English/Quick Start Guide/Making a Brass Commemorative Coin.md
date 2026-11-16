@@ -2,7 +2,7 @@
 
 This project uses the C500 to machine a double-sided brass commemorative coin from a brass workpiece blank measuring Φ50 × 5 mm.
 
-This project follows the 3-axis, double-sided machining workflow introduced in [Making a Wooden Clock](<English/Quick Start Guide/Making a Wooden Clock.md>). This tutorial focuses on the materials, cutting tools, workholding method, and project settings specific to the brass coin. Common steps, such as fixture calibration, software connection, and tool setup, are not repeated here.
+This project follows the 3-axis, double-sided machining workflow introduced in [Making a Wooden Clock](<../../English/Quick Start Guide/Making a Wooden Clock.md>). This tutorial focuses on the materials, cutting tools, workholding method, and project settings specific to the brass coin. Common steps, such as fixture calibration, software connection, and tool setup, are not repeated here.
 
 ## Materials and Tools
 
