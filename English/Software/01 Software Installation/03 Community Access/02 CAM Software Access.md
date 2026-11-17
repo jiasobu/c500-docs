@@ -1,7 +1,6 @@
 ### CAM Software Access
 
 1. Double-click the **NestStudio** to launch the software. If not installed, users can download it from the [www.nestworks.ai](http://www.nestworks.ai) .
-2. Click **Creator Center** on the left side to enter the WorksBase.
+2. Click the **User Account** in the top-right corner of the software toolbar, then select **Creator Center** from the dropdown menu to access WorksBase.
 
-![](../../../../assets/CAM_Software_Access-c0e2a15426d7.png)<!-- publication-image: {width=12cm} -->
-
+![](../../../../assets/neststudio/creator-center-en.png)<!-- publication-image: {width=12cm} -->
