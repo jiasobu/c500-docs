@@ -1,10 +1,7 @@
 ### Machine Calibration
 
-The Machine Calibration page includes the Device Information and Device Calibration modules. The Device Information page displays device status and operating information, while the Device Calibration page allows hardware diagnostics and parameter adjustment to improve machining accuracy and stability.
+Click **Devices > Machine Calibration** to enter the Machine Calibration page, the page includes the Device Information and Device Calibration modules. 
 
-![](../../../../../assets/5Machine_Calibration-8f05f7a2e5d6.png)<!-- publication-image: {width=12cm} -->
+The Device Information page displays device status and operating information. The Device Calibration page allows hardware diagnostics and parameter adjustment to improve machining accuracy and stability.
 
-<!-- mdwb:figure id=1532b667c911135f -->
-Figure 6-20 Machine Calibration
-<!-- /mdwb:figure -->
 
