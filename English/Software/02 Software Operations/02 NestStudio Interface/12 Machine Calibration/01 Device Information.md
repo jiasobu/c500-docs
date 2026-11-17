@@ -1,26 +1,25 @@
 #### Device Information
 
-**Basic Device Information**  
-
-Displays device model, connection method, total operating time, and firmware version.
-
-Users can also configure automatic homing and check firmware versions.
+![](https://docs.worksbase.com/neststudio/%E8%8B%B1%E6%96%87/device-machinecalibration-deviceinformation-en.png)<!-- publication-image: {width=12cm} -->
 
 
-![](../../../../../assets/Basic_Device_Information-a4daa9d6b9fb.png)<!-- publication-image: {width=8cm} -->
+**Basic Device Information** 
 
-<!-- mdwb:figure id=b7040dc9b0d18696 -->
-Figure 6-21 Device Information
-<!-- /mdwb:figure -->
+Displays device model, connection method, total operating time, and current firmware version.
+
+Additionally, settings are available for auto-homing on startup and automatic homing after machining, along with the current firmware version.
 
 
-**Status Parameters**  
+**Runtime Logs**
 
-Displays real-time device status parameters, motion parameters, and machine parameters.
+Click **Export Logs** to download the device operation logs to your local computer.
 
-![](../../../../../assets/Status_Parameters-9c3e6d77de87.png)<!-- publication-image: {width=12cm} -->
 
-<!-- mdwb:figure id=89cf3e3af27f6e2f -->
-Figure 6-22 Device Information
-<!-- /mdwb:figure -->
+**Device Status**
 
+View real-time device status parameters, motion and position coordinates, machining task status, and auxiliary module status.
+
+
+**Machine Parameters**
+
+View machine specifications and parameters, including maximum travel, tool changing system, maximum spindle speed, and other specifications.
