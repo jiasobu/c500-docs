@@ -2,7 +2,7 @@
 
 
 
-On the **Prepare** page, click **Fixture** in the process tree on the left, then select the fixture type from the drop-down menu on the right.
+On the Prepare page, click **Fixture** in the process tree on the left, then select the fixture type from the drop-down menu on the right.
 - **Fixture Type**: Supports OK Clamp, Flat Panel Clamp, Side Clamp, Electric Vise Assembly, and Low-profile Vise.
 - **Automatic Rendering and Adaptation**: After selecting a fixture type, the workbench automatically renders the corresponding fixture model. The fixture's clamping opening is also automatically adjusted to accommodate the current material dimensions.
 
