@@ -1,7 +1,7 @@
 #### Model Settings
 
 
-On the **Prepare** page, click **Model** in the process tree on the left or on the workbench to open the **Model** Settings panel. Adjust the model's dimensions, position, rotation, and alignment as needed.
+On the Prepare page, click **Model** in the process tree on the left or on the workbench to open the **Model** Settings panel. Adjust the model's dimensions, position, rotation, and alignment as needed.
 
 > [!note] Notice
 > 
