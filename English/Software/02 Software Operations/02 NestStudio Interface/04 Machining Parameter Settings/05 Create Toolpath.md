@@ -5,7 +5,7 @@
 
 After setting the basic parameters, click **Create Toolpath**. The system will automatically generate a process tree and determine the machining faces based on the part geometry.
 
-In the **Create Toolpath** settings dialog, machining parameters can be adjusted as needed, including tool settings (e.g., plunge angle, spindle speed, feed rate, and stepover) and coolant settings.
+In the Create Toolpath settings dialog, machining parameters can be adjusted as needed, including tool settings (e.g., plunge angle, spindle speed, feed rate, and stepover) and coolant settings.
 
 - **Basic Parameters**: If the default One-Click Smart Machining parameters have not been modified, the system will generate the toolpath using the recommended parameters.
 - **Adjust Machining Parameters**: The toolpath is generated based on the updated machining parameters.
