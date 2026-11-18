@@ -6,7 +6,3 @@
 
 ![](../../../../../assets/neststudio/无线连接-en.png)<!-- publication-image: {width=12cm} -->
 
-<!-- mdwb:figure id=2b8c9dbe80d8e56f -->
-Figure 5-4 Wireless Connection
-<!-- /mdwb:figure -->
-

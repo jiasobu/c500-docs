@@ -6,7 +6,4 @@
 
 ![](../../../../assets/neststudio/软件获取与安装-en.png)<!-- publication-image: {width=12cm} -->
 
-<!-- mdwb:figure id=bd068506716f51a7 -->
-Figure 5-1 Overview
-<!-- /mdwb:figure -->
 
