@@ -1,6 +1,6 @@
 #### Material Size Settings
 
-On the **Prepare** page, click **Material Size** in the process tree on the left to open the Stock Settings panel. The following parameters can be configured:
+On the Prepare page, click **Material Size** in the process tree on the left to open the Stock Settings panel. The following parameters can be configured:
 
 - **Origin Position**: Select either the center point or the lower-left corner as the material origin.
 - **Sizes**: Set the material dimensions along the X, Y, and Z axes.
