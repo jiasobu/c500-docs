@@ -1,10 +1,7 @@
 ## Creating a New Project
 
-Click **Create New Project** to open the drop-down menu, then create a new project based on the model type.
+Click **New Project** to open the drop-down menu, then select the machining mode based on the workpiece feature.
 
-![](../../../assets/Create_New_Project-017b5828cd56.png)<!-- publication-image: {width=12cm} -->
+![](https://docs.worksbase.com/neststudio/%E8%8B%B1%E6%96%87/%E5%88%9B%E5%BB%BA%E6%96%B0%E9%A1%B9%E7%9B%AE-en.png)<!-- publication-image: {width=12cm} -->
 
-<!-- mdwb:figure id=8414b7aae9487ef7 -->
-Figure 7-1 Creating a New Project
-<!-- /mdwb:figure -->
 
