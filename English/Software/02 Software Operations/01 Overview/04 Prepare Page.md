@@ -3,7 +3,7 @@
 
 Click **Prepare** to enter the ready interface, where users can precisely adjust parameters related to model size, material selection, and process settings.
 
-![](../../../../assets/neststudio/preparepage-en.png)<!-- publication-image: {width=12cm} -->
+![](https://docs.worksbase.com/neststudio/%E8%8B%B1%E6%96%87/preparepage-en.png)<!-- publication-image: {width=12cm} -->
 
 
 
