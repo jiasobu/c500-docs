@@ -6,21 +6,39 @@ The spindle and worktable fixing bracket prevents the spindle and worktable from
 
 1. Use a hex key to slowly loosen the spindle fixing screws and worktable fixing screws.
 
-![](../../../../../assets/Spindle_Worktable_Bracket_01-573e0535d5e5.png)<!-- publication-image: {width=10cm} -->
+   <p align="center">
+       <img src="https://docs.worksbase.com/c500-manual/unpacking33.png" alt="" width="400px" style="max-width:100%; height:auto;"><br><br>
+       <img src="https://docs.worksbase.com/c500-manual/unpacking10.jpg" alt="" width="400px" style="max-width:100%; height:auto;">
+   </p>
 
 2. After the screws are fully loosened, carefully remove the sheet-metal fixing bracket to release the transport lock between the spindle and the worktable.
 
+3. Connect the machine to power.
+
+   <p align="center">
+       <img src="https://docs.worksbase.com/c500-manual/unpacking12.png" alt="" width="400px" style="max-width:100%; height:auto;">
+   </p>
+
+4. Rotate the E-Stop clockwise to release it.
+
+   <p align="center">
+       <img src="https://docs.worksbase.com/c500-manual/unpacking34.png" alt="" width="400px" style="max-width:100%; height:auto;">
+   </p>
+
+5. Tap **Language Settings**, **Machine Naming**, and **Network Settings** in NestPad. After startup, the machine runs a quick self-check to ensure everything is ready for normal operation.
+
+   <div class="c500-callout c500-callout-caution" style="position:relative;border:1px solid #ed8b00;border-left:6px solid #ed8b00;border-radius:3px;margin:25px 0 16px;padding:1px 18px 12px;background:#fff;">
+   <div style="position:absolute;top:-14px;left:10px;background:#fff;border:1px solid #ed8b00;border-radius:2px;padding:2px 10px;color:#ed8b00;font-weight:700;line-height:22px;">⚠ Caution</div>
+   <div style="padding-top:0px;line-height:1.75;color:#333;"><br>- Keep this function enabled during machining for added safety.</div>
+   </div>
 
 
-3. A bag of spindle-side sheet-metal fixing screws is supplied inside the machine. Install the screws into the corresponding sheet-metal mounting holes and tighten them securely.
+   <p align="center">
+       <img src="https://docs.worksbase.com/c500-manual/unpacking35.png" alt="" width="400px" style="max-width:100%; height:auto;">
+   </p>
 
-![](../../../../../assets/Spindle_Worktable_Bracket_03-3ce0b7023c47.jpg)<!-- publication-image: {width=10cm} -->
+6. Use the control system to move the spindle to an appropriate height, then turn off the power.
 
-4. Connect the machine to power.
-
-![](../../../../../assets/08_1-9edadd8f7299.png)<!-- publication-image: {width=10cm} -->
-
-5. Use the control system to move the spindle to an appropriate height, then turn off the power.
-
-![](../../../../../assets/adjust_spindle_height-74058f26f6b2.jpeg)<!-- publication-image: {width=10cm} -->
-
+   <p align="center">
+       <img src="https://docs.worksbase.com/c500-manual/unpacking13.png" alt="" width="400px" style="max-width:100%; height:auto;">
+   </p>
