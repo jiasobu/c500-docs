@@ -12,6 +12,6 @@
 | 3 mm tool holders                              | —                                                                                         |   5 pcs. |
 | 3 mm spindle collet                            | —                                                                                         |    1 pc. |
 | 6 mm spindle collet                            | —                                                                                         |    1 pc. |
-| 6 mm tool holder and reducer sleeve            | Includes a 6 mm tool holder and a 6-to-3 mm reducer sleeve                                |    1 set |
+| 6-to-3 mm reducer sleeve                       | —                                                                                         |   5 pcs. |
 | Desiccant                                      | 10 g                                                                                      |        — |
 
