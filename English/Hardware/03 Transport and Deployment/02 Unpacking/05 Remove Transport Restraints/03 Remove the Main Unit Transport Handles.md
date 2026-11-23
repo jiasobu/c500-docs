@@ -5,7 +5,9 @@ Remove the main unit transport handles after the machine has been moved and all 
 
 1. Use a suitable tool to remove the fixing screws from the transport handles on both sides of the machine, then remove the transport handles.
 
-![](../../../../../assets/01-e5466cb54d10.png)<!-- publication-image: {width=12cm} -->
+   <p align="center">
+       <img src="https://docs.worksbase.com/c500-manual/unpacking20.png" alt="" width="400px" style="max-width:100%; height:auto;"><br><br>
+       <img src="https://docs.worksbase.com/c500-manual/unpacking22.png" alt="" width="400px" style="max-width:100%; height:auto;">
+   </p>
 
 2. Store the removed handles and fixing screws properly.
-
