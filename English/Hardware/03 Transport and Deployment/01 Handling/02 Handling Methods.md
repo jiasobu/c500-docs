@@ -15,7 +15,7 @@ At least two people must work together during handling and lifting. One person o
 <div style="padding-top:0px;line-height:1.75;color:#333;"><br>- The machine's center of gravity is toward the rear and lower portion. During lifting and handling, the rear of the machine may naturally sink while the front rises.</div>
 </div>
 
-
+<br>
 <div class="c500-callout c500-callout-danger" style="position:relative;border:1px solid #d93025;border-left:6px solid #d93025;border-radius:3px;margin:25px 0 16px;padding:1px 18px 12px;background:#fff;">
 <div style="position:absolute;top:-14px;left:10px;background:#fff;border:1px solid #d93025;border-radius:2px;padding:2px 10px;color:#d93025;font-weight:700;line-height:22px;">⚡ Danger</div>
 <div style="padding-top:0px;line-height:1.75;color:#333;"><br>- The assistant must remain at a safe distance behind the machine or on either side of it. Do not stand directly behind the machine, in its potential tipping path, or beneath a suspended load.<br>- Immediately signal if the machine tilts, a sling becomes loose, or unusual noises occur.</div>
