@@ -113,7 +113,7 @@
       "level": 3,
       "order": 4,
       "title": "machine Connection",
-      "file": "English/Software/01 Software Installation/01 NestStudio/05 machine Connection/05 machine Connection.md",
+      "file": "English/Software/01 Software Installation/01 NestStudio/05 Machine Connection/05 Machine Connection.md",
       "draft": false
     },
     {
@@ -123,7 +123,7 @@
       "level": 4,
       "order": 0,
       "title": "Wired Connection",
-      "file": "English/Software/01 Software Installation/01 NestStudio/05 machine Connection/01 Wired Connection.md",
+      "file": "English/Software/01 Software Installation/01 NestStudio/05 Machine Connection/01 Wired Connection.md",
       "draft": false
     },
     {
@@ -133,7 +133,7 @@
       "level": 4,
       "order": 1,
       "title": "Wireless Connection",
-      "file": "English/Software/01 Software Installation/01 NestStudio/05 machine Connection/02 Wireless Connection.md",
+      "file": "English/Software/01 Software Installation/01 NestStudio/05 Machine Connection/02 Wireless Connection.md",
       "draft": false
     },
     {
@@ -417,36 +417,6 @@
       "draft": false
     },
     {
-      "id": "n0138",
-      "pairId": "pair-9ac410446cddce26b970250a73d99bb1",
-      "parentId": "n0137",
-      "level": 4,
-      "order": 0,
-      "title": "Basic Information",
-      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/01 Basic Information.md",
-      "draft": false
-    },
-    {
-      "id": "n0139",
-      "pairId": "pair-f3eef36f46b7440261dfe17b849f655e",
-      "parentId": "n0137",
-      "level": 4,
-      "order": 1,
-      "title": "Parameter Overview",
-      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/02 Parameter Overview.md",
-      "draft": false
-    },
-    {
-      "id": "n0140",
-      "pairId": "pair-853e131bd9343ee372a07aca2f2c2fdd",
-      "parentId": "n0137",
-      "level": 4,
-      "order": 2,
-      "title": "Custom Settings",
-      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/03 Custom Settings.md",
-      "draft": false
-    },
-    {
       "id": "n0141",
       "pairId": "pair-f866615c604dadbfd5a5bb4f0831fa11",
       "parentId": "n0130",
@@ -677,31 +647,11 @@
       "draft": false
     },
     {
-      "id": "n0164",
-      "pairId": "pair-28dcb8a444114b860a73a5c596e754c7",
-      "parentId": "n0160",
-      "level": 4,
-      "order": 3,
-      "title": "Cloud Storage",
-      "file": "English/Software/02 Software Operations/02 NestStudio Interface/14 User Account/04 Cloud Storage.md",
-      "draft": false
-    },
-    {
-      "id": "n0165",
-      "pairId": "pair-7a360a542fc3d4760409be38becea12d",
-      "parentId": "n0130",
-      "level": 3,
-      "order": 14,
-      "title": "Folders",
-      "file": "English/Software/02 Software Operations/02 NestStudio Interface/15 Folders.md",
-      "draft": false
-    },
-    {
       "id": "n0166",
       "pairId": "pair-d69962c604b7706cec3cf2376ba627fa",
       "parentId": "n0130",
       "level": 3,
-      "order": 15,
+      "order": 14,
       "title": "Settings",
       "file": "English/Software/02 Software Operations/02 NestStudio Interface/16 Settings.md",
       "draft": false
@@ -711,7 +661,7 @@
       "pairId": "pair-61caa0d1eb36cd4ec549490f9c3170e2",
       "parentId": "n0130",
       "level": 3,
-      "order": 16,
+      "order": 15,
       "title": "Software E-Stop",
       "file": "English/Software/02 Software Operations/02 NestStudio Interface/17 Software E-Stop.md",
       "draft": false
@@ -974,6 +924,96 @@
       "order": 0,
       "title": "macOS Software Download",
       "file": "English/Software/01 Software Installation/01 NestStudio/04 macOS Download and Installation/01 macOS Software Download.md",
+      "draft": false
+    },
+    {
+      "id": "auto-30841f458c465a36b46fc05249bb05df",
+      "title": "Device Status",
+      "parentId": "n0126",
+      "level": 4,
+      "order": 3,
+      "file": "English/Software/02 Software Operations/01 Overview/06 Device Page/04 Device Status.md",
+      "draft": false
+    },
+    {
+      "id": "auto-a1847920ece6561bb7e9babbee114790",
+      "title": "Model Feature Recognition",
+      "parentId": "n0133",
+      "level": 4,
+      "order": 3,
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/03 Model Import/04 Model Feature Recognition.md",
+      "draft": false
+    },
+    {
+      "id": "auto-e2a6dea3563e54228605f40d74345865",
+      "title": "Model Settings",
+      "parentId": "n0137",
+      "level": 4,
+      "order": 0,
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/01 Model Settings.md",
+      "draft": false
+    },
+    {
+      "id": "auto-8dde80e2118f5351a46c49a1b2eff212",
+      "title": "Material Size Settings",
+      "parentId": "n0137",
+      "level": 4,
+      "order": 1,
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/02 Material Size Settings.md",
+      "draft": false
+    },
+    {
+      "id": "auto-f2febd8eafe45c03b645e7c367d9621d",
+      "title": "Fixture Settings",
+      "parentId": "n0137",
+      "level": 4,
+      "order": 2,
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/03 Fixture Settings.md",
+      "draft": false
+    },
+    {
+      "id": "auto-476ff3f2db735a249fca48a26ad3318c",
+      "title": "Create Toolpath",
+      "parentId": "n0137",
+      "level": 4,
+      "order": 3,
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/05 Create Toolpath.md",
+      "draft": false
+    },
+    {
+      "id": "auto-5de607cd65545d6e89968d22b01cf95a",
+      "title": "Custom Operations",
+      "parentId": "n0137",
+      "level": 4,
+      "order": 4,
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/06 Custom Operations.md",
+      "draft": false
+    },
+    {
+      "id": "auto-c2ee22e2dd655ce7ab4b25c8716bd3cf",
+      "title": "Simulation Preview",
+      "parentId": "n0130",
+      "level": 3,
+      "order": 16,
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/18 Simulation Preview.md",
+      "draft": false
+    },
+    {
+      "id": "auto-4485f5a304ac50d085dd885d88f5afa9",
+      "title": "Start Machining",
+      "parentId": "n0130",
+      "level": 3,
+      "order": 17,
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/19 Start Machining.md",
+      "draft": false
+    },
+    {
+      "id": "auto-3f74bf1142f55d0eaa8c4a52fbcf369b",
+      "title": "Messages Management",
+      "parentId": "n0168",
+      "level": 2,
+      "order": 6,
+      "file": "English/Software/03 NestPad/07 Messages Management.md",
       "draft": false
     }
   ],

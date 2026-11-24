@@ -61,7 +61,7 @@
       "pairId": "pair-66f117155be283813f1c69c971f6b8d7",
       "parentId": null,
       "level": 1,
-      "order": 1,
+      "order": 5,
       "title": "Overview",
       "file": "English/Hardware/01 Overview/01 Overview.md",
       "draft": false
@@ -103,7 +103,7 @@
       "level": 3,
       "order": 0,
       "title": "Environmental usage restrictions",
-      "file": "English/Hardware/01 Overview/03 Usage Restrictions/01 Environmental usage restrictions.md",
+      "file": "English/Hardware/01 Overview/03 Usage Restrictions/01 Environmental Usage Restrictions.md",
       "draft": false
     },
     {
@@ -133,7 +133,7 @@
       "level": 3,
       "order": 3,
       "title": "Safety operation restrictions",
-      "file": "English/Hardware/01 Overview/03 Usage Restrictions/04 Safety operation restrictions.md",
+      "file": "English/Hardware/01 Overview/03 Usage Restrictions/04 Safety Operation Restrictions.md",
       "draft": false
     },
     {
@@ -151,7 +151,7 @@
       "pairId": "pair-8e507e5d65c580d1f07e8b1fe71b5046",
       "parentId": null,
       "level": 1,
-      "order": 10,
+      "order": 16,
       "title": "Appendix",
       "file": "English/Hardware/07 Appendix/07 Appendix.md",
       "draft": false
@@ -231,7 +231,7 @@
       "pairId": "pair-be766ca52ee5004466b3090f0f5361b9",
       "parentId": null,
       "level": 1,
-      "order": 2,
+      "order": 9,
       "title": "Safety",
       "file": "English/Hardware/02 Safety/02 Safety.md",
       "draft": false
@@ -371,7 +371,7 @@
       "pairId": "pair-461478d5d60144cd612f3b1d3ffaac0a",
       "parentId": null,
       "level": 1,
-      "order": 3,
+      "order": 12,
       "title": "Transport and Deployment",
       "file": "English/Hardware/03 Transport and Deployment/03 Transport and Deployment.md",
       "draft": false
@@ -402,8 +402,8 @@
       "parentId": "n0038",
       "level": 3,
       "order": 1,
-      "title": "Handling Tool Requirements",
-      "file": "English/Hardware/03 Transport and Deployment/01 Handling/02 Handling Tool Requirements.md",
+      "title": "Handling Methods",
+      "file": "English/Hardware/03 Transport and Deployment/01 Handling/02 Handling Methods.md",
       "draft": false
     },
     {
@@ -571,7 +571,7 @@
       "pairId": "pair-7a10aeaa087647eb75eabc582f4239ba",
       "parentId": null,
       "level": 1,
-      "order": 4,
+      "order": 13,
       "title": "Installation and Connection",
       "file": "English/Hardware/04 Installation and Connection/04 Installation and Connection.md",
       "draft": false
@@ -1001,7 +1001,7 @@
       "pairId": "pair-49df702d5ad34341d799934c0334d7ee",
       "parentId": null,
       "level": 1,
-      "order": 5,
+      "order": 7,
       "title": "Software Installation",
       "file": "English/Software/01 Software Installation/01 Software Installation.md",
       "draft": false
@@ -1073,7 +1073,7 @@
       "level": 3,
       "order": 4,
       "title": "machine Connection",
-      "file": "English/Software/01 Software Installation/01 NestStudio/05 machine Connection/05 machine Connection.md",
+      "file": "English/Software/01 Software Installation/01 NestStudio/05 Machine Connection/05 Machine Connection.md",
       "draft": false
     },
     {
@@ -1083,7 +1083,7 @@
       "level": 4,
       "order": 0,
       "title": "Wired Connection",
-      "file": "English/Software/01 Software Installation/01 NestStudio/05 machine Connection/01 Wired Connection.md",
+      "file": "English/Software/01 Software Installation/01 NestStudio/05 Machine Connection/01 Wired Connection.md",
       "draft": false
     },
     {
@@ -1093,7 +1093,7 @@
       "level": 4,
       "order": 1,
       "title": "Wireless Connection",
-      "file": "English/Software/01 Software Installation/01 NestStudio/05 machine Connection/02 Wireless Connection.md",
+      "file": "English/Software/01 Software Installation/01 NestStudio/05 Machine Connection/02 Wireless Connection.md",
       "draft": false
     },
     {
@@ -1191,7 +1191,7 @@
       "pairId": "pair-16a5f8149cd33b75047cf4b8a33953b4",
       "parentId": null,
       "level": 1,
-      "order": 6,
+      "order": 11,
       "title": "Software Operations",
       "file": "English/Software/02 Software Operations/02 Software Operations.md",
       "draft": false
@@ -1374,36 +1374,6 @@
       "order": 3,
       "title": "Machining Parameter Settings",
       "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/04 Machining Parameter Settings.md",
-      "draft": false
-    },
-    {
-      "id": "n0138",
-      "pairId": "pair-9ac410446cddce26b970250a73d99bb1",
-      "parentId": "n0137",
-      "level": 4,
-      "order": 0,
-      "title": "Basic Information",
-      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/01 Basic Information.md",
-      "draft": false
-    },
-    {
-      "id": "n0139",
-      "pairId": "pair-f3eef36f46b7440261dfe17b849f655e",
-      "parentId": "n0137",
-      "level": 4,
-      "order": 1,
-      "title": "Parameter Overview",
-      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/02 Parameter Overview.md",
-      "draft": false
-    },
-    {
-      "id": "n0140",
-      "pairId": "pair-853e131bd9343ee372a07aca2f2c2fdd",
-      "parentId": "n0137",
-      "level": 4,
-      "order": 2,
-      "title": "Custom Settings",
-      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/03 Custom Settings.md",
       "draft": false
     },
     {
@@ -1637,31 +1607,11 @@
       "draft": false
     },
     {
-      "id": "n0164",
-      "pairId": "pair-28dcb8a444114b860a73a5c596e754c7",
-      "parentId": "n0160",
-      "level": 4,
-      "order": 3,
-      "title": "Cloud Storage",
-      "file": "English/Software/02 Software Operations/02 NestStudio Interface/14 User Account/04 Cloud Storage.md",
-      "draft": false
-    },
-    {
-      "id": "n0165",
-      "pairId": "pair-7a360a542fc3d4760409be38becea12d",
-      "parentId": "n0130",
-      "level": 3,
-      "order": 14,
-      "title": "Folders",
-      "file": "English/Software/02 Software Operations/02 NestStudio Interface/15 Folders.md",
-      "draft": false
-    },
-    {
       "id": "n0166",
       "pairId": "pair-d69962c604b7706cec3cf2376ba627fa",
       "parentId": "n0130",
       "level": 3,
-      "order": 15,
+      "order": 14,
       "title": "Settings",
       "file": "English/Software/02 Software Operations/02 NestStudio Interface/16 Settings.md",
       "draft": false
@@ -1671,7 +1621,7 @@
       "pairId": "pair-61caa0d1eb36cd4ec549490f9c3170e2",
       "parentId": "n0130",
       "level": 3,
-      "order": 16,
+      "order": 15,
       "title": "Software E-Stop",
       "file": "English/Software/02 Software Operations/02 NestStudio Interface/17 Software E-Stop.md",
       "draft": false
@@ -1690,7 +1640,7 @@
       "id": "n0169",
       "pairId": "pair-d3504f00e5a0ce5acac2794e0e6779b9",
       "parentId": "n0168",
-      "level": 3,
+      "level": 2,
       "order": 0,
       "title": "Overview",
       "file": "English/Software/03 NestPad/01 Overview/01 Overview.md",
@@ -1700,7 +1650,7 @@
       "id": "n0170",
       "pairId": "pair-89fc85ff9452aaeb687adeb675d945ba",
       "parentId": "n0169",
-      "level": 4,
+      "level": 3,
       "order": 0,
       "title": "Interface",
       "file": "English/Software/03 NestPad/01 Overview/01 Interface.md",
@@ -1710,7 +1660,7 @@
       "id": "n0171",
       "pairId": "pair-055bd810cc606c3bb093e5f19ae8b064",
       "parentId": "n0168",
-      "level": 3,
+      "level": 2,
       "order": 1,
       "title": "Machining Execution and Monitoring",
       "file": "English/Software/03 NestPad/02 Machining Execution and Monitoring/02 Machining Execution and Monitoring.md",
@@ -1720,7 +1670,7 @@
       "id": "n0172",
       "pairId": "pair-a30616a2b07fd91fc03ac3b44ca8841a",
       "parentId": "n0171",
-      "level": 4,
+      "level": 3,
       "order": 0,
       "title": "File Import",
       "file": "English/Software/03 NestPad/02 Machining Execution and Monitoring/01 File Import.md",
@@ -1730,7 +1680,7 @@
       "id": "n0173",
       "pairId": "pair-19b655d122ae0602b7ae233ea5865d7c",
       "parentId": "n0171",
-      "level": 4,
+      "level": 3,
       "order": 1,
       "title": "File Verification and Parsing",
       "file": "English/Software/03 NestPad/02 Machining Execution and Monitoring/02 File Verification and Parsing.md",
@@ -1740,7 +1690,7 @@
       "id": "n0174",
       "pairId": "pair-7215f419f2ccd9c824a4dad582425590",
       "parentId": "n0171",
-      "level": 4,
+      "level": 3,
       "order": 2,
       "title": "Machining Control",
       "file": "English/Software/03 NestPad/02 Machining Execution and Monitoring/03 Machining Control.md",
@@ -1750,7 +1700,7 @@
       "id": "n0175",
       "pairId": "pair-b0637a269525c27b09d4997bca80b1b2",
       "parentId": "n0171",
-      "level": 4,
+      "level": 3,
       "order": 3,
       "title": "Machining Status",
       "file": "English/Software/03 NestPad/02 Machining Execution and Monitoring/04 Machining Status.md",
@@ -1760,7 +1710,7 @@
       "id": "n0176",
       "pairId": "pair-5fe029d02de6a55d5631948930c375e7",
       "parentId": "n0168",
-      "level": 3,
+      "level": 2,
       "order": 2,
       "title": "Submodules and Accessories",
       "file": "English/Software/03 NestPad/03 Submodules and Accessories.md",
@@ -1770,7 +1720,7 @@
       "id": "n0177",
       "pairId": "pair-900f39d8c5d3ca256b9d339be7b6a8fb",
       "parentId": "n0168",
-      "level": 3,
+      "level": 2,
       "order": 3,
       "title": "Manual Control and Calibration",
       "file": "English/Software/03 NestPad/04 Manual Control and Calibration/04 Manual Control and Calibration.md",
@@ -1780,7 +1730,7 @@
       "id": "n0178",
       "pairId": "pair-8fe40f85470d87e81ce6cd312920911d",
       "parentId": "n0177",
-      "level": 4,
+      "level": 3,
       "order": 0,
       "title": "Spindle Motion Panel",
       "file": "English/Software/03 NestPad/04 Manual Control and Calibration/01 Spindle Motion Panel.md",
@@ -1790,7 +1740,7 @@
       "id": "n0179",
       "pairId": "pair-582509217a8b1a2e0f13ce443a49a9ec",
       "parentId": "n0177",
-      "level": 4,
+      "level": 3,
       "order": 1,
       "title": "Coordinate System Setup",
       "file": "English/Software/03 NestPad/04 Manual Control and Calibration/02 Coordinate System Setup.md",
@@ -1800,7 +1750,7 @@
       "id": "n0180",
       "pairId": "pair-90149bcf63d54a87171298113c4dc1ec",
       "parentId": "n0177",
-      "level": 4,
+      "level": 3,
       "order": 2,
       "title": "Machine Zero Return",
       "file": "English/Software/03 NestPad/04 Manual Control and Calibration/03 Machine Zero Return.md",
@@ -1810,7 +1760,7 @@
       "id": "n0181",
       "pairId": "pair-5d47975d62bb89fc84037f341161e996",
       "parentId": "n0177",
-      "level": 4,
+      "level": 3,
       "order": 3,
       "title": "Motion Parameter Settings",
       "file": "English/Software/03 NestPad/04 Manual Control and Calibration/04 Motion Parameter Settings.md",
@@ -1820,7 +1770,7 @@
       "id": "n0182",
       "pairId": "pair-a45de39b4963f93485f751e1149f78c3",
       "parentId": "n0168",
-      "level": 3,
+      "level": 2,
       "order": 4,
       "title": "Tool Management",
       "file": "English/Software/03 NestPad/05 Tool Management.md",
@@ -1830,7 +1780,7 @@
       "id": "n0183",
       "pairId": "pair-2e779115ccf439283996933c154fa9f8",
       "parentId": "n0168",
-      "level": 3,
+      "level": 2,
       "order": 5,
       "title": "Basic Settings",
       "file": "English/Software/03 NestPad/06 Basic Settings/06 Basic Settings.md",
@@ -1840,7 +1790,7 @@
       "id": "n0184",
       "pairId": "pair-151be31919ae0ff94a2d2e1b9391d6a7",
       "parentId": "n0183",
-      "level": 4,
+      "level": 3,
       "order": 0,
       "title": "Account Settings",
       "file": "English/Software/03 NestPad/06 Basic Settings/01 Account Settings.md",
@@ -1850,7 +1800,7 @@
       "id": "n0185",
       "pairId": "pair-a5f7a30edc1e6e5dc7793709a812dd77",
       "parentId": "n0183",
-      "level": 4,
+      "level": 3,
       "order": 1,
       "title": "Network Settings",
       "file": "English/Software/03 NestPad/06 Basic Settings/02 Network Settings.md",
@@ -1860,7 +1810,7 @@
       "id": "n0186",
       "pairId": "pair-d4905e28b593c065178a14a0c685a978",
       "parentId": "n0183",
-      "level": 4,
+      "level": 3,
       "order": 2,
       "title": "Updates",
       "file": "English/Software/03 NestPad/06 Basic Settings/03 Updates.md",
@@ -1870,7 +1820,7 @@
       "id": "n0187",
       "pairId": "pair-c92f730732887e13c2007b19f52beab7",
       "parentId": "n0183",
-      "level": 4,
+      "level": 3,
       "order": 3,
       "title": "Storage Management",
       "file": "English/Software/03 NestPad/06 Basic Settings/04 Storage Management.md",
@@ -1880,7 +1830,7 @@
       "id": "n0188",
       "pairId": "pair-b09418f2e82dd0cab73e3a005084fad3",
       "parentId": "n0183",
-      "level": 4,
+      "level": 3,
       "order": 4,
       "title": "Calibration and Tools",
       "file": "English/Software/03 NestPad/06 Basic Settings/05 Calibration and Tools.md",
@@ -1890,7 +1840,7 @@
       "id": "n0189",
       "pairId": "pair-0b66776ea05b90d0f54e22fc2c3ba771",
       "parentId": "n0183",
-      "level": 4,
+      "level": 3,
       "order": 5,
       "title": "Preferences",
       "file": "English/Software/03 NestPad/06 Basic Settings/06 Preferences.md",
@@ -1901,7 +1851,7 @@
       "pairId": "pair-449e1ca7d71b018310b2c961e4a9a7f5",
       "parentId": null,
       "level": 1,
-      "order": 7,
+      "order": 8,
       "title": "Initial Operation",
       "file": "English/First Machining/01 Initial Operation/01 Initial Operation.md",
       "draft": false
@@ -1981,7 +1931,7 @@
       "pairId": "pair-7db614976bd358d4f6a36384b9a89e53",
       "parentId": null,
       "level": 1,
-      "order": 8,
+      "order": 14,
       "title": "Equipment Operation",
       "file": "English/Hardware/05 Equipment Operation/05 Equipment Operation.md",
       "draft": false
@@ -2391,7 +2341,7 @@
       "pairId": "pair-df024d43b4c955781a37bc2187e2ce59",
       "parentId": null,
       "level": 1,
-      "order": 9,
+      "order": 15,
       "title": "Technical Specifications",
       "file": "English/Hardware/06 Technical Specifications/06 Technical Specifications.md",
       "draft": false
@@ -2470,7 +2420,7 @@
       "id": "n0247",
       "pairId": "pair-2ed6a0b9ff9a4de85646e36f7f08e91f",
       "parentId": "n0169",
-      "level": 4,
+      "level": 3,
       "order": 1,
       "title": "Header Bar",
       "file": "English/Software/03 NestPad/01 Overview/02 Header Bar.md",
@@ -2664,6 +2614,204 @@
       "order": 6,
       "title": "Initial Power-On Checklist",
       "file": "English/Hardware/04 Installation and Connection/02 Installation and Setup/05 Initial Power-On Checklist.md",
+      "draft": false
+    },
+    {
+      "id": "auto-ce64475568bc542c8d358da256ca95f6",
+      "title": "Preface",
+      "parentId": null,
+      "level": 1,
+      "order": 2,
+      "file": "English/First Machining/00 Preface/00 Preface.md",
+      "draft": false
+    },
+    {
+      "id": "auto-fac6cbc3ee3a52d299dfbcd05480c881",
+      "title": "Revisions",
+      "parentId": "auto-ce64475568bc542c8d358da256ca95f6",
+      "level": 2,
+      "order": 0,
+      "file": "English/First Machining/00 Preface/01 Revisions.md",
+      "draft": false
+    },
+    {
+      "id": "auto-9b4726081c235872bb908968b155ed51",
+      "title": "About This Guide",
+      "parentId": "auto-ce64475568bc542c8d358da256ca95f6",
+      "level": 2,
+      "order": 1,
+      "file": "English/First Machining/00 Preface/02 About This Guide.md",
+      "draft": false
+    },
+    {
+      "id": "auto-4c4af9ef9fa85cfca6287dba110c7943",
+      "title": "Preface",
+      "parentId": null,
+      "level": 1,
+      "order": 3,
+      "file": "English/Hardware/00 Preface/00 Preface.md",
+      "draft": false
+    },
+    {
+      "id": "auto-1654aae370a45f46942ef7dd5e6a7a46",
+      "title": "Revisions",
+      "parentId": "auto-4c4af9ef9fa85cfca6287dba110c7943",
+      "level": 2,
+      "order": 0,
+      "file": "English/Hardware/00 Preface/01 Revisions.md",
+      "draft": false
+    },
+    {
+      "id": "auto-8ef392b4072655bdacc6b0567ce99053",
+      "title": "About This Manual",
+      "parentId": "auto-4c4af9ef9fa85cfca6287dba110c7943",
+      "level": 2,
+      "order": 1,
+      "file": "English/Hardware/00 Preface/02 About This Manual.md",
+      "draft": false
+    },
+    {
+      "id": "auto-31f2a15e386a582081be3d50c1cd92e2",
+      "title": "Brass Commemorative Coin",
+      "parentId": null,
+      "level": 1,
+      "order": 1,
+      "file": "English/Quick Start Guide/Brass Commemorative Coin.md",
+      "draft": false
+    },
+    {
+      "id": "auto-7eaa862f7f45524b80c3f59f5f90a969",
+      "title": "Making a Brass Commemorative Coin",
+      "parentId": null,
+      "level": 1,
+      "order": 6,
+      "file": "English/Quick Start Guide/Making a Brass Commemorative Coin.md",
+      "draft": false
+    },
+    {
+      "id": "auto-6de2827a0fb55652aead5978a639cecf",
+      "title": "Making a Wooden Clock",
+      "parentId": null,
+      "level": 1,
+      "order": 10,
+      "file": "English/Quick Start Guide/Making a Wooden Clock.md",
+      "draft": false
+    },
+    {
+      "id": "auto-cc0120c52b955bff9bb23f7819e82186",
+      "title": "Preface",
+      "parentId": null,
+      "level": 1,
+      "order": 4,
+      "file": "English/Software/00 Preface/00 Preface.md",
+      "draft": false
+    },
+    {
+      "id": "auto-4ddbed24a6905fef888b83c7f69ecb72",
+      "title": "Revisions",
+      "parentId": "auto-cc0120c52b955bff9bb23f7819e82186",
+      "level": 2,
+      "order": 0,
+      "file": "English/Software/00 Preface/01 Revisions.md",
+      "draft": false
+    },
+    {
+      "id": "auto-a038064ecbe35c689f8b1ff6c83aa0cf",
+      "title": "About This Manual",
+      "parentId": "auto-cc0120c52b955bff9bb23f7819e82186",
+      "level": 2,
+      "order": 1,
+      "file": "English/Software/00 Preface/02 About This Manual.md",
+      "draft": false
+    },
+    {
+      "id": "auto-30841f458c465a36b46fc05249bb05df",
+      "title": "Device Status",
+      "parentId": "n0126",
+      "level": 4,
+      "order": 3,
+      "file": "English/Software/02 Software Operations/01 Overview/06 Device Page/04 Device Status.md",
+      "draft": false
+    },
+    {
+      "id": "auto-a1847920ece6561bb7e9babbee114790",
+      "title": "Model Feature Recognition",
+      "parentId": "n0133",
+      "level": 4,
+      "order": 3,
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/03 Model Import/04 Model Feature Recognition.md",
+      "draft": false
+    },
+    {
+      "id": "auto-e2a6dea3563e54228605f40d74345865",
+      "title": "Model Settings",
+      "parentId": "n0137",
+      "level": 4,
+      "order": 0,
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/01 Model Settings.md",
+      "draft": false
+    },
+    {
+      "id": "auto-8dde80e2118f5351a46c49a1b2eff212",
+      "title": "Material Size Settings",
+      "parentId": "n0137",
+      "level": 4,
+      "order": 1,
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/02 Material Size Settings.md",
+      "draft": false
+    },
+    {
+      "id": "auto-f2febd8eafe45c03b645e7c367d9621d",
+      "title": "Fixture Settings",
+      "parentId": "n0137",
+      "level": 4,
+      "order": 2,
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/03 Fixture Settings.md",
+      "draft": false
+    },
+    {
+      "id": "auto-476ff3f2db735a249fca48a26ad3318c",
+      "title": "Create Toolpath",
+      "parentId": "n0137",
+      "level": 4,
+      "order": 3,
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/05 Create Toolpath.md",
+      "draft": false
+    },
+    {
+      "id": "auto-5de607cd65545d6e89968d22b01cf95a",
+      "title": "Custom Operations",
+      "parentId": "n0137",
+      "level": 4,
+      "order": 4,
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/04 Machining Parameter Settings/06 Custom Operations.md",
+      "draft": false
+    },
+    {
+      "id": "auto-c2ee22e2dd655ce7ab4b25c8716bd3cf",
+      "title": "Simulation Preview",
+      "parentId": "n0130",
+      "level": 3,
+      "order": 16,
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/18 Simulation Preview.md",
+      "draft": false
+    },
+    {
+      "id": "auto-4485f5a304ac50d085dd885d88f5afa9",
+      "title": "Start Machining",
+      "parentId": "n0130",
+      "level": 3,
+      "order": 17,
+      "file": "English/Software/02 Software Operations/02 NestStudio Interface/19 Start Machining.md",
+      "draft": false
+    },
+    {
+      "id": "auto-3f74bf1142f55d0eaa8c4a52fbcf369b",
+      "title": "Messages Management",
+      "parentId": "n0168",
+      "level": 2,
+      "order": 6,
+      "file": "English/Software/03 NestPad/07 Messages Management.md",
       "draft": false
     }
   ],

@@ -5,5 +5,33 @@
   "sourceCopy": null,
   "sourceHash": "",
   "preambleFile": null,
-  "nodes": []
+  "nodes": [
+    {
+      "id": "auto-31f2a15e386a582081be3d50c1cd92e2",
+      "title": "Brass Commemorative Coin",
+      "parentId": null,
+      "level": 1,
+      "order": 0,
+      "file": "English/Quick Start Guide/Brass Commemorative Coin.md",
+      "draft": false
+    },
+    {
+      "id": "auto-7eaa862f7f45524b80c3f59f5f90a969",
+      "title": "Making a Brass Commemorative Coin",
+      "parentId": null,
+      "level": 1,
+      "order": 1,
+      "file": "English/Quick Start Guide/Making a Brass Commemorative Coin.md",
+      "draft": false
+    },
+    {
+      "id": "auto-6de2827a0fb55652aead5978a639cecf",
+      "title": "Making a Wooden Clock",
+      "parentId": null,
+      "level": 1,
+      "order": 2,
+      "file": "English/Quick Start Guide/Making a Wooden Clock.md",
+      "draft": false
+    }
+  ]
 }
