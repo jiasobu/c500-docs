@@ -10,7 +10,7 @@
 | 2-flute chamfer mill (3.175 mm shank)             | 1/8" Dia. × 1/4" LOC × 1/8" Shank × 90° × 2" OAL × 2F× DLC; includes 6.35 mm tool holder and 6.35-to-3.175 mm reducer sleeve |   1 tool |
 | 6.35 mm tool holder                               | —                                                                                                                            |   5 pcs. |
 | 3.175 mm tool holder                              | —                                                                                                                            |   5 pcs. |
-| 6.35 mm tool holder and reducer sleeve            | Includes a 6.35 mm tool holder and a 6.35-to-3.175 mm reducer sleeve                                                         |    1 set |
+| 6.35-to-3.175 mm reducer sleeve            | —                                                         |    5 pcs. |
 | 6.35 mm spindle collet                            | —                                                                                                                            |    1 pc. |
 | 3.175 mm spindle collet                           | —                                                                                                                            |    1 pc. |
 | Desiccant                                         | —                                                                                                                            |        — |
