@@ -34,7 +34,7 @@
       "draft": false,
       "parentId": null,
       "level": 1,
-      "order": 2
+      "order": 3
     },
     {
       "id": "local-quick-5ea8ebf42a26e37d",
@@ -44,7 +44,7 @@
       "draft": false,
       "parentId": null,
       "level": 1,
-      "order": 3
+      "order": 4
     },
     {
       "id": "local-quick-7836158ab60ed300",
@@ -54,7 +54,7 @@
       "draft": false,
       "parentId": null,
       "level": 1,
-      "order": 4
+      "order": 5
     },
     {
       "id": "local-quick-577304d8044e4592",
@@ -64,7 +64,16 @@
       "draft": false,
       "parentId": null,
       "level": 1,
-      "order": 5
+      "order": 6
+    },
+    {
+      "id": "auto-81bb3d4981145274841eae57115d3c01",
+      "title": "黄铜纪念币教程",
+      "parentId": null,
+      "level": 1,
+      "order": 2,
+      "file": "中文/快速操作指南/01 黄铜纪念币教程.md",
+      "draft": false
     }
   ]
 }

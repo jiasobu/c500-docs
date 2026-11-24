@@ -83,7 +83,7 @@
       "level": 3,
       "order": 0,
       "title": "Environmental usage restrictions",
-      "file": "English/Hardware/01 Overview/03 Usage Restrictions/01 Environmental usage restrictions.md",
+      "file": "English/Hardware/01 Overview/03 Usage Restrictions/01 Environmental Usage Restrictions.md",
       "draft": false
     },
     {
@@ -113,7 +113,7 @@
       "level": 3,
       "order": 3,
       "title": "Safety operation restrictions",
-      "file": "English/Hardware/01 Overview/03 Usage Restrictions/04 Safety operation restrictions.md",
+      "file": "English/Hardware/01 Overview/03 Usage Restrictions/04 Safety Operation Restrictions.md",
       "draft": false
     },
     {
@@ -382,8 +382,8 @@
       "parentId": "n0038",
       "level": 3,
       "order": 1,
-      "title": "Handling Tool Requirements",
-      "file": "English/Hardware/03 Transport and Deployment/01 Handling/02 Handling Tool Requirements.md",
+      "title": "Handling Methods",
+      "file": "English/Hardware/03 Transport and Deployment/01 Handling/02 Handling Methods.md",
       "draft": false
     },
     {

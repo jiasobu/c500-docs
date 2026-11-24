@@ -61,7 +61,7 @@
       "pairId": "pair-66f117155be283813f1c69c971f6b8d7",
       "parentId": null,
       "level": 1,
-      "order": 1,
+      "order": 5,
       "title": "简介",
       "file": "中文/硬件/01 简介/01 简介.md",
       "draft": false
@@ -151,7 +151,7 @@
       "pairId": "pair-8e507e5d65c580d1f07e8b1fe71b5046",
       "parentId": null,
       "level": 1,
-      "order": 10,
+      "order": 20,
       "title": "附录",
       "file": "中文/硬件/07 附录/07 附录.md",
       "draft": false
@@ -231,7 +231,7 @@
       "pairId": "pair-be766ca52ee5004466b3090f0f5361b9",
       "parentId": null,
       "level": 1,
-      "order": 2,
+      "order": 10,
       "title": "安全",
       "file": "中文/硬件/02 安全/02 安全.md",
       "draft": false
@@ -371,7 +371,7 @@
       "pairId": "pair-461478d5d60144cd612f3b1d3ffaac0a",
       "parentId": null,
       "level": 1,
-      "order": 3,
+      "order": 13,
       "title": "运输与部署",
       "file": "中文/硬件/03 运输与部署/03 运输与部署.md",
       "draft": false
@@ -571,7 +571,7 @@
       "pairId": "pair-7a10aeaa087647eb75eabc582f4239ba",
       "parentId": null,
       "level": 1,
-      "order": 4,
+      "order": 15,
       "title": "安装与连接",
       "file": "中文/硬件/04 安装与连接/04 安装与连接.md",
       "draft": false
@@ -971,7 +971,7 @@
       "pairId": "pair-49df702d5ad34341d799934c0334d7ee",
       "parentId": null,
       "level": 1,
-      "order": 5,
+      "order": 7,
       "title": "软件安装",
       "file": "中文/软件/01 软件安装/01 软件安装.md",
       "draft": false
@@ -1161,7 +1161,7 @@
       "pairId": "pair-16a5f8149cd33b75047cf4b8a33953b4",
       "parentId": null,
       "level": 1,
-      "order": 6,
+      "order": 11,
       "title": "软件功能与使用",
       "file": "中文/软件/02 软件功能与使用/02 软件功能与使用.md",
       "draft": false
@@ -1214,16 +1214,6 @@
       "order": 3,
       "title": "准备页面",
       "file": "中文/软件/02 软件功能与使用/01 软件界面概览/04 准备页面.md",
-      "draft": false
-    },
-    {
-      "id": "n0123",
-      "pairId": "pair-f1da4e3a0645dc9c21a91c93feaccc6e",
-      "parentId": "n0118",
-      "level": 3,
-      "order": 4,
-      "title": "预览页面概览",
-      "file": "中文/软件/02 软件功能与使用/01 软件界面概览/05 预览页面概览.md",
       "draft": false
     },
     {
@@ -1344,36 +1334,6 @@
       "order": 3,
       "title": "加工参数设置",
       "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/04 加工参数设置.md",
-      "draft": false
-    },
-    {
-      "id": "n0136",
-      "pairId": "pair-9ac410446cddce26b970250a73d99bb1",
-      "parentId": "n0135",
-      "level": 4,
-      "order": 0,
-      "title": "基础信息",
-      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/01 基础信息.md",
-      "draft": false
-    },
-    {
-      "id": "n0137",
-      "pairId": "pair-f3eef36f46b7440261dfe17b849f655e",
-      "parentId": "n0135",
-      "level": 4,
-      "order": 1,
-      "title": "参数设置概览",
-      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/02 参数设置概览.md",
-      "draft": false
-    },
-    {
-      "id": "n0138",
-      "pairId": "pair-853e131bd9343ee372a07aca2f2c2fdd",
-      "parentId": "n0135",
-      "level": 4,
-      "order": 2,
-      "title": "自定义设置",
-      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/03 自定义设置.md",
       "draft": false
     },
     {
@@ -1607,31 +1567,11 @@
       "draft": false
     },
     {
-      "id": "n0162",
-      "pairId": "pair-28dcb8a444114b860a73a5c596e754c7",
-      "parentId": "n0158",
-      "level": 4,
-      "order": 3,
-      "title": "云空间",
-      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/14 用户账号/04 云空间.md",
-      "draft": false
-    },
-    {
-      "id": "n0163",
-      "pairId": "pair-7a360a542fc3d4760409be38becea12d",
-      "parentId": "n0128",
-      "level": 3,
-      "order": 14,
-      "title": "文件夹",
-      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/15 文件夹.md",
-      "draft": false
-    },
-    {
       "id": "n0164",
       "pairId": "pair-d69962c604b7706cec3cf2376ba627fa",
       "parentId": "n0128",
       "level": 3,
-      "order": 15,
+      "order": 14,
       "title": "设置",
       "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/16 设置.md",
       "draft": false
@@ -1641,7 +1581,7 @@
       "pairId": "pair-61caa0d1eb36cd4ec549490f9c3170e2",
       "parentId": "n0128",
       "level": 3,
-      "order": 16,
+      "order": 15,
       "title": "软急停",
       "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/17 软急停.md",
       "draft": false
@@ -1660,7 +1600,7 @@
       "id": "n0167",
       "pairId": "pair-d3504f00e5a0ce5acac2794e0e6779b9",
       "parentId": "n0166",
-      "level": 3,
+      "level": 2,
       "order": 0,
       "title": "功能概览",
       "file": "中文/软件/03 NestPad/01 功能概览/01 功能概览.md",
@@ -1670,7 +1610,7 @@
       "id": "n0168",
       "pairId": "pair-89fc85ff9452aaeb687adeb675d945ba",
       "parentId": "n0167",
-      "level": 4,
+      "level": 3,
       "order": 0,
       "title": "NestPad 界面概览",
       "file": "中文/软件/03 NestPad/01 功能概览/01 NestPad 界面概览.md",
@@ -1680,7 +1620,7 @@
       "id": "n0169",
       "pairId": "pair-2ed6a0b9ff9a4de85646e36f7f08e91f",
       "parentId": "n0167",
-      "level": 4,
+      "level": 3,
       "order": 1,
       "title": "顶部导航栏",
       "file": "中文/软件/03 NestPad/01 功能概览/02 顶部导航栏.md",
@@ -1690,7 +1630,7 @@
       "id": "n0170",
       "pairId": "pair-055bd810cc606c3bb093e5f19ae8b064",
       "parentId": "n0166",
-      "level": 3,
+      "level": 2,
       "order": 1,
       "title": "加工执行与监控",
       "file": "中文/软件/03 NestPad/02 加工执行与监控/02 加工执行与监控.md",
@@ -1700,7 +1640,7 @@
       "id": "n0171",
       "pairId": "pair-a30616a2b07fd91fc03ac3b44ca8841a",
       "parentId": "n0170",
-      "level": 4,
+      "level": 3,
       "order": 0,
       "title": "文件导入",
       "file": "中文/软件/03 NestPad/02 加工执行与监控/01 文件导入.md",
@@ -1710,7 +1650,7 @@
       "id": "n0172",
       "pairId": "pair-19b655d122ae0602b7ae233ea5865d7c",
       "parentId": "n0170",
-      "level": 4,
+      "level": 3,
       "order": 1,
       "title": "文件校验和解析",
       "file": "中文/软件/03 NestPad/02 加工执行与监控/02 文件校验和解析.md",
@@ -1720,7 +1660,7 @@
       "id": "n0173",
       "pairId": "pair-7215f419f2ccd9c824a4dad582425590",
       "parentId": "n0170",
-      "level": 4,
+      "level": 3,
       "order": 2,
       "title": "加工管控",
       "file": "中文/软件/03 NestPad/02 加工执行与监控/03 加工管控.md",
@@ -1730,7 +1670,7 @@
       "id": "n0174",
       "pairId": "pair-b0637a269525c27b09d4997bca80b1b2",
       "parentId": "n0170",
-      "level": 4,
+      "level": 3,
       "order": 3,
       "title": "加工状态",
       "file": "中文/软件/03 NestPad/02 加工执行与监控/04 加工状态.md",
@@ -1740,7 +1680,7 @@
       "id": "n0175",
       "pairId": "pair-5fe029d02de6a55d5631948930c375e7",
       "parentId": "n0166",
-      "level": 3,
+      "level": 2,
       "order": 2,
       "title": "子模块与配件",
       "file": "中文/软件/03 NestPad/03 子模块与配件.md",
@@ -1750,7 +1690,7 @@
       "id": "n0176",
       "pairId": "pair-900f39d8c5d3ca256b9d339be7b6a8fb",
       "parentId": "n0166",
-      "level": 3,
+      "level": 2,
       "order": 3,
       "title": "手动操控与校准",
       "file": "中文/软件/03 NestPad/04 手动操控与校准/04 手动操控与校准.md",
@@ -1760,7 +1700,7 @@
       "id": "n0177",
       "pairId": "pair-8fe40f85470d87e81ce6cd312920911d",
       "parentId": "n0176",
-      "level": 4,
+      "level": 3,
       "order": 0,
       "title": "主轴运动面板",
       "file": "中文/软件/03 NestPad/04 手动操控与校准/01 主轴运动面板.md",
@@ -1770,7 +1710,7 @@
       "id": "n0178",
       "pairId": "pair-582509217a8b1a2e0f13ce443a49a9ec",
       "parentId": "n0176",
-      "level": 4,
+      "level": 3,
       "order": 1,
       "title": "坐标系设置",
       "file": "中文/软件/03 NestPad/04 手动操控与校准/02 坐标系设置.md",
@@ -1780,7 +1720,7 @@
       "id": "n0179",
       "pairId": "pair-90149bcf63d54a87171298113c4dc1ec",
       "parentId": "n0176",
-      "level": 4,
+      "level": 3,
       "order": 2,
       "title": "机械回零",
       "file": "中文/软件/03 NestPad/04 手动操控与校准/03 机械回零.md",
@@ -1790,7 +1730,7 @@
       "id": "n0180",
       "pairId": "pair-5d47975d62bb89fc84037f341161e996",
       "parentId": "n0176",
-      "level": 4,
+      "level": 3,
       "order": 3,
       "title": "运动参数设置",
       "file": "中文/软件/03 NestPad/04 手动操控与校准/04 运动参数设置.md",
@@ -1800,7 +1740,7 @@
       "id": "n0181",
       "pairId": "pair-a45de39b4963f93485f751e1149f78c3",
       "parentId": "n0166",
-      "level": 3,
+      "level": 2,
       "order": 4,
       "title": "刀具管理",
       "file": "中文/软件/03 NestPad/05 刀具管理.md",
@@ -1810,7 +1750,7 @@
       "id": "n0182",
       "pairId": "pair-2e779115ccf439283996933c154fa9f8",
       "parentId": "n0166",
-      "level": 3,
+      "level": 2,
       "order": 5,
       "title": "基础设置",
       "file": "中文/软件/03 NestPad/06 基础设置/06 基础设置.md",
@@ -1820,7 +1760,7 @@
       "id": "n0183",
       "pairId": "pair-151be31919ae0ff94a2d2e1b9391d6a7",
       "parentId": "n0182",
-      "level": 4,
+      "level": 3,
       "order": 0,
       "title": "账号设置",
       "file": "中文/软件/03 NestPad/06 基础设置/01 账号设置.md",
@@ -1830,7 +1770,7 @@
       "id": "n0184",
       "pairId": "pair-a5f7a30edc1e6e5dc7793709a812dd77",
       "parentId": "n0182",
-      "level": 4,
+      "level": 3,
       "order": 1,
       "title": "网络设置",
       "file": "中文/软件/03 NestPad/06 基础设置/02 网络设置.md",
@@ -1840,7 +1780,7 @@
       "id": "n0185",
       "pairId": "pair-d4905e28b593c065178a14a0c685a978",
       "parentId": "n0182",
-      "level": 4,
+      "level": 3,
       "order": 2,
       "title": "更新",
       "file": "中文/软件/03 NestPad/06 基础设置/03 更新.md",
@@ -1850,7 +1790,7 @@
       "id": "n0186",
       "pairId": "pair-c92f730732887e13c2007b19f52beab7",
       "parentId": "n0182",
-      "level": 4,
+      "level": 3,
       "order": 3,
       "title": "存储管理",
       "file": "中文/软件/03 NestPad/06 基础设置/04 存储管理.md",
@@ -1860,7 +1800,7 @@
       "id": "n0187",
       "pairId": "pair-b09418f2e82dd0cab73e3a005084fad3",
       "parentId": "n0182",
-      "level": 4,
+      "level": 3,
       "order": 4,
       "title": "校准与工具",
       "file": "中文/软件/03 NestPad/06 基础设置/05 校准与工具.md",
@@ -1870,7 +1810,7 @@
       "id": "n0188",
       "pairId": "pair-0b66776ea05b90d0f54e22fc2c3ba771",
       "parentId": "n0182",
-      "level": 4,
+      "level": 3,
       "order": 5,
       "title": "偏好设置",
       "file": "中文/软件/03 NestPad/06 基础设置/06 偏好设置.md",
@@ -1881,7 +1821,7 @@
       "pairId": "pair-449e1ca7d71b018310b2c961e4a9a7f5",
       "parentId": null,
       "level": 1,
-      "order": 7,
+      "order": 8,
       "title": "首次加工",
       "file": "中文/首次加工/01 首次加工/01 首次加工.md",
       "draft": false
@@ -1961,7 +1901,7 @@
       "pairId": "pair-7db614976bd358d4f6a36384b9a89e53",
       "parentId": null,
       "level": 1,
-      "order": 8,
+      "order": 17,
       "title": "设备操作",
       "file": "中文/硬件/05 设备操作/05 设备操作.md",
       "draft": false
@@ -2371,7 +2311,7 @@
       "pairId": "pair-df024d43b4c955781a37bc2187e2ce59",
       "parentId": null,
       "level": 1,
-      "order": 9,
+      "order": 19,
       "title": "技术参数",
       "file": "中文/硬件/06 技术参数/06 技术参数.md",
       "draft": false
@@ -2644,7 +2584,7 @@
       "draft": false,
       "parentId": null,
       "level": 1,
-      "order": 11
+      "order": 1
     },
     {
       "id": "local-quick-27c8dbb5197ca4c4",
@@ -2654,7 +2594,7 @@
       "draft": false,
       "parentId": null,
       "level": 1,
-      "order": 12
+      "order": 9
     },
     {
       "id": "local-quick-a1ec8111b3737c8d",
@@ -2664,7 +2604,7 @@
       "draft": false,
       "parentId": null,
       "level": 1,
-      "order": 13
+      "order": 12
     },
     {
       "id": "local-quick-5ea8ebf42a26e37d",
@@ -2684,7 +2624,7 @@
       "draft": false,
       "parentId": null,
       "level": 1,
-      "order": 15
+      "order": 16
     },
     {
       "id": "local-quick-577304d8044e4592",
@@ -2694,7 +2634,196 @@
       "draft": false,
       "parentId": null,
       "level": 1,
-      "order": 16
+      "order": 18
+    },
+    {
+      "id": "auto-81bb3d4981145274841eae57115d3c01",
+      "title": "黄铜纪念币教程",
+      "parentId": null,
+      "level": 1,
+      "order": 6,
+      "file": "中文/快速操作指南/01 黄铜纪念币教程.md",
+      "draft": false
+    },
+    {
+      "id": "auto-68eecdbf7536515daebb980b6d0d8225",
+      "title": "前言",
+      "parentId": null,
+      "level": 1,
+      "order": 2,
+      "file": "中文/硬件/00 前言/00 前言.md",
+      "draft": false
+    },
+    {
+      "id": "auto-76a6b5ab1b78584e9a52ce8e3bb2e6a5",
+      "title": "修订记录",
+      "parentId": "auto-68eecdbf7536515daebb980b6d0d8225",
+      "level": 2,
+      "order": 0,
+      "file": "中文/硬件/00 前言/01 修订记录.md",
+      "draft": false
+    },
+    {
+      "id": "auto-3b83d7d87974532890acbb97dfe635e3",
+      "title": "关于本手册",
+      "parentId": "auto-68eecdbf7536515daebb980b6d0d8225",
+      "level": 2,
+      "order": 1,
+      "file": "中文/硬件/00 前言/02 关于本手册.md",
+      "draft": false
+    },
+    {
+      "id": "auto-37eefa6737b35258bde2ad908382d843",
+      "title": "前言",
+      "parentId": null,
+      "level": 1,
+      "order": 3,
+      "file": "中文/软件/00 前言/00 前言.md",
+      "draft": false
+    },
+    {
+      "id": "auto-91f79ce611df5382bc52009c29a0c77f",
+      "title": "修订记录",
+      "parentId": "auto-37eefa6737b35258bde2ad908382d843",
+      "level": 2,
+      "order": 0,
+      "file": "中文/软件/00 前言/01 修订记录.md",
+      "draft": false
+    },
+    {
+      "id": "auto-9f4bf19b65de588ab8102a6c68b186b7",
+      "title": "关于本手册",
+      "parentId": "auto-37eefa6737b35258bde2ad908382d843",
+      "level": 2,
+      "order": 1,
+      "file": "中文/软件/00 前言/02 关于本手册.md",
+      "draft": false
+    },
+    {
+      "id": "auto-11ac8e81f3dc56869806ce99335cc8c7",
+      "title": "预览页面",
+      "parentId": "n0118",
+      "level": 3,
+      "order": 4,
+      "file": "中文/软件/02 软件功能与使用/01 软件界面概览/05 预览页面.md",
+      "draft": false
+    },
+    {
+      "id": "auto-14f11a75185f59d3b676f3ec878515e4",
+      "title": "设备状态",
+      "parentId": "n0124",
+      "level": 4,
+      "order": 3,
+      "file": "中文/软件/02 软件功能与使用/01 软件界面概览/06 设备页面/04 设备状态.md",
+      "draft": false
+    },
+    {
+      "id": "auto-3b5cf67bd6f454948b8f96ea12aaaec9",
+      "title": "模型特征识别",
+      "parentId": "n0131",
+      "level": 4,
+      "order": 3,
+      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/03 模型导入/04 模型特征识别.md",
+      "draft": false
+    },
+    {
+      "id": "auto-2f95dd2ef2105555bbcb56d08a31c734",
+      "title": "模型设置",
+      "parentId": "n0135",
+      "level": 4,
+      "order": 0,
+      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/01 模型设置.md",
+      "draft": false
+    },
+    {
+      "id": "auto-4f1eaf2770be5f7595f60626fef7b468",
+      "title": "毛坯设置",
+      "parentId": "n0135",
+      "level": 4,
+      "order": 1,
+      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/02 毛坯设置.md",
+      "draft": false
+    },
+    {
+      "id": "auto-0bc0242055255353878ce6dc304b8b77",
+      "title": "夹具设置",
+      "parentId": "n0135",
+      "level": 4,
+      "order": 2,
+      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/03 夹具设置.md",
+      "draft": false
+    },
+    {
+      "id": "auto-c68de2cdafee533cba4f4c12529d6428",
+      "title": "生成刀路",
+      "parentId": "n0135",
+      "level": 4,
+      "order": 3,
+      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/05 生成刀路.md",
+      "draft": false
+    },
+    {
+      "id": "auto-de758110c9d4526faac91db6c3bb6b8d",
+      "title": "自定义工序",
+      "parentId": "n0135",
+      "level": 4,
+      "order": 4,
+      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/06 自定义工序.md",
+      "draft": false
+    },
+    {
+      "id": "auto-156fa12ea0805830875a42dd9353178b",
+      "title": "仿真预览",
+      "parentId": "n0128",
+      "level": 3,
+      "order": 16,
+      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/18 仿真预览.md",
+      "draft": false
+    },
+    {
+      "id": "auto-3f00f8be6b55596ca9fc446fd4f6ad06",
+      "title": "开始加工",
+      "parentId": "n0128",
+      "level": 3,
+      "order": 17,
+      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/19 开始加工.md",
+      "draft": false
+    },
+    {
+      "id": "auto-3e079f50249253b08d5875303d461e2b",
+      "title": "日志管理",
+      "parentId": "n0166",
+      "level": 2,
+      "order": 6,
+      "file": "中文/软件/03 NestPad/07 日志管理.md",
+      "draft": false
+    },
+    {
+      "id": "auto-b5b01ae994b253718e61e75521f679f2",
+      "title": "前言",
+      "parentId": null,
+      "level": 1,
+      "order": 4,
+      "file": "中文/首次加工/00 前言/00 前言.md",
+      "draft": false
+    },
+    {
+      "id": "auto-a2c1e9c6838a5822a2377461ea31dfdf",
+      "title": "修订记录",
+      "parentId": "auto-b5b01ae994b253718e61e75521f679f2",
+      "level": 2,
+      "order": 0,
+      "file": "中文/首次加工/00 前言/01 修订记录.md",
+      "draft": false
+    },
+    {
+      "id": "auto-57c581ff425e57a1af0bd323e9f64ee9",
+      "title": "关于本指南",
+      "parentId": "auto-b5b01ae994b253718e61e75521f679f2",
+      "level": 2,
+      "order": 1,
+      "file": "中文/首次加工/00 前言/02 关于本指南.md",
+      "draft": false
     }
   ],
   "explicitBilingualPairs": true

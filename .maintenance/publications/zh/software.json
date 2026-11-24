@@ -287,16 +287,6 @@
       "draft": false
     },
     {
-      "id": "n0123",
-      "pairId": "pair-f1da4e3a0645dc9c21a91c93feaccc6e",
-      "parentId": "n0118",
-      "level": 3,
-      "order": 4,
-      "title": "预览页面概览",
-      "file": "中文/软件/02 软件功能与使用/01 软件界面概览/05 预览页面概览.md",
-      "draft": false
-    },
-    {
       "id": "n0124",
       "pairId": "pair-0f3c3de6a4778a69a02117ccd6b0b1fc",
       "parentId": "n0118",
@@ -414,36 +404,6 @@
       "order": 3,
       "title": "加工参数设置",
       "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/04 加工参数设置.md",
-      "draft": false
-    },
-    {
-      "id": "n0136",
-      "pairId": "pair-9ac410446cddce26b970250a73d99bb1",
-      "parentId": "n0135",
-      "level": 4,
-      "order": 0,
-      "title": "基础信息",
-      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/01 基础信息.md",
-      "draft": false
-    },
-    {
-      "id": "n0137",
-      "pairId": "pair-f3eef36f46b7440261dfe17b849f655e",
-      "parentId": "n0135",
-      "level": 4,
-      "order": 1,
-      "title": "参数设置概览",
-      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/02 参数设置概览.md",
-      "draft": false
-    },
-    {
-      "id": "n0138",
-      "pairId": "pair-853e131bd9343ee372a07aca2f2c2fdd",
-      "parentId": "n0135",
-      "level": 4,
-      "order": 2,
-      "title": "自定义设置",
-      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/03 自定义设置.md",
       "draft": false
     },
     {
@@ -677,31 +637,11 @@
       "draft": false
     },
     {
-      "id": "n0162",
-      "pairId": "pair-28dcb8a444114b860a73a5c596e754c7",
-      "parentId": "n0158",
-      "level": 4,
-      "order": 3,
-      "title": "云空间",
-      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/14 用户账号/04 云空间.md",
-      "draft": false
-    },
-    {
-      "id": "n0163",
-      "pairId": "pair-7a360a542fc3d4760409be38becea12d",
-      "parentId": "n0128",
-      "level": 3,
-      "order": 14,
-      "title": "文件夹",
-      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/15 文件夹.md",
-      "draft": false
-    },
-    {
       "id": "n0164",
       "pairId": "pair-d69962c604b7706cec3cf2376ba627fa",
       "parentId": "n0128",
       "level": 3,
-      "order": 15,
+      "order": 14,
       "title": "设置",
       "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/16 设置.md",
       "draft": false
@@ -711,7 +651,7 @@
       "pairId": "pair-61caa0d1eb36cd4ec549490f9c3170e2",
       "parentId": "n0128",
       "level": 3,
-      "order": 16,
+      "order": 15,
       "title": "软急停",
       "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/17 软急停.md",
       "draft": false
@@ -974,6 +914,105 @@
       "order": 0,
       "title": "macOS 软件下载",
       "file": "中文/软件/01 软件安装/01 NestStudio/04 macOS 下载与安装/01 macOS 软件下载.md",
+      "draft": false
+    },
+    {
+      "id": "auto-11ac8e81f3dc56869806ce99335cc8c7",
+      "title": "预览页面",
+      "parentId": "n0118",
+      "level": 3,
+      "order": 4,
+      "file": "中文/软件/02 软件功能与使用/01 软件界面概览/05 预览页面.md",
+      "draft": false
+    },
+    {
+      "id": "auto-14f11a75185f59d3b676f3ec878515e4",
+      "title": "设备状态",
+      "parentId": "n0124",
+      "level": 4,
+      "order": 3,
+      "file": "中文/软件/02 软件功能与使用/01 软件界面概览/06 设备页面/04 设备状态.md",
+      "draft": false
+    },
+    {
+      "id": "auto-3b5cf67bd6f454948b8f96ea12aaaec9",
+      "title": "模型特征识别",
+      "parentId": "n0131",
+      "level": 4,
+      "order": 3,
+      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/03 模型导入/04 模型特征识别.md",
+      "draft": false
+    },
+    {
+      "id": "auto-2f95dd2ef2105555bbcb56d08a31c734",
+      "title": "模型设置",
+      "parentId": "n0135",
+      "level": 4,
+      "order": 0,
+      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/01 模型设置.md",
+      "draft": false
+    },
+    {
+      "id": "auto-4f1eaf2770be5f7595f60626fef7b468",
+      "title": "毛坯设置",
+      "parentId": "n0135",
+      "level": 4,
+      "order": 1,
+      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/02 毛坯设置.md",
+      "draft": false
+    },
+    {
+      "id": "auto-0bc0242055255353878ce6dc304b8b77",
+      "title": "夹具设置",
+      "parentId": "n0135",
+      "level": 4,
+      "order": 2,
+      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/03 夹具设置.md",
+      "draft": false
+    },
+    {
+      "id": "auto-c68de2cdafee533cba4f4c12529d6428",
+      "title": "生成刀路",
+      "parentId": "n0135",
+      "level": 4,
+      "order": 3,
+      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/05 生成刀路.md",
+      "draft": false
+    },
+    {
+      "id": "auto-de758110c9d4526faac91db6c3bb6b8d",
+      "title": "自定义工序",
+      "parentId": "n0135",
+      "level": 4,
+      "order": 4,
+      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/04 加工参数设置/06 自定义工序.md",
+      "draft": false
+    },
+    {
+      "id": "auto-156fa12ea0805830875a42dd9353178b",
+      "title": "仿真预览",
+      "parentId": "n0128",
+      "level": 3,
+      "order": 16,
+      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/18 仿真预览.md",
+      "draft": false
+    },
+    {
+      "id": "auto-3f00f8be6b55596ca9fc446fd4f6ad06",
+      "title": "开始加工",
+      "parentId": "n0128",
+      "level": 3,
+      "order": 17,
+      "file": "中文/软件/02 软件功能与使用/02 NestStudio 界面功能/19 开始加工.md",
+      "draft": false
+    },
+    {
+      "id": "auto-3e079f50249253b08d5875303d461e2b",
+      "title": "日志管理",
+      "parentId": "n0166",
+      "level": 2,
+      "order": 6,
+      "file": "中文/软件/03 NestPad/07 日志管理.md",
       "draft": false
     }
   ],
