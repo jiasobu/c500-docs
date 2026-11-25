@@ -29,11 +29,13 @@ Prepare the materials and tools shown below.
 2. Go to **Custom**, select the three cutting tools used in this project, then generate and preview the toolpaths for the front side.
 
 ![tool selection](../../assets/quick-guide/20261027-164154.jpg)
+
 ![toolpath generation](../../assets/quick-guide/20261027-164428.jpg)
 
 4. Add **Flip Setting**, select the cutting tools required for machining the back side, then generate and preview the toolpaths for the back side.
 
 ![Flip Settings](../../assets/quick-guide/20261027-164202.jpg)
+
 ![back-side toolpath](../../assets/quick-guide/20261027-164437.jpg)
 
 ### Start Machining
@@ -42,4 +44,5 @@ Prepare the materials and tools shown below.
 3. Remove the coin and clear any chips from its surface and engraved details. Finish the edges and remove any burrs as needed.
 
 ## Finished Workpiece
-![Finished Workpiece](../../assets/quick-guide/黄铜纪念币正方面展示.jpg)
+
+![Finished Workpiece](../../assets/quick-guide/%E9%BB%84%E9%93%9C%E7%BA%AA%E5%BF%B5%E5%B8%81%E6%AD%A3%E6%96%B9%E9%9D%A2%E5%B1%95%E7%A4%BA.jpg)

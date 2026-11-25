@@ -11,7 +11,7 @@ The Calibration and Tools page provides device self-check and device setup tools
 After this function is enabled, the device automatically starts the self-check when powered on. You can also tap **Start Diagnosis** on the current page to manually start the check and verify whether communication with each functional module is normal.
 
 
-![](../../../../assets/nestpad/开机自检-en.png)<!-- publication-image: {width=10cm} -->
+![](../../../../assets/nestpad/%E5%BC%80%E6%9C%BA%E8%87%AA%E6%A3%80-en.png)<!-- publication-image: {width=10cm} -->
 
 
 #### Probe Control
@@ -48,24 +48,29 @@ Probe calibration corrects probe offsets along the X, Y, and Z axes to improve t
 **Calibration Procedure**
 
 1. Secure the aluminum calibration blank (at least 50 × 50 × 20 mm) on the worktable. Ensure it is firmly clamped and that a 6 mm flat end mill compatible with the calibration program is installed in tool position T1.
-![](../../../../assets/nestpad/探针校准-装夹毛坯工件.png)<!-- publication-image: {width=12cm} -->
+
+![](../../../../assets/nestpad/%E6%8E%A2%E9%92%88%E6%A0%A1%E5%87%86-%E8%A3%85%E5%A4%B9%E6%AF%9B%E5%9D%AF%E5%B7%A5%E4%BB%B6.png)<!-- publication-image: {width=12cm} -->
 
 
 2. Tap **Home > Settings > Calibration > Probe Calibration** to enter the probe calibration page in NestPad. Check the on-screen instructions and machine status, then tap **Start Calibration**.
-![](../../../../assets/nestpad/探针校准1-en.png)<!-- publication-image: {width=12cm} -->
+
+![](../../../../assets/nestpad/%E6%8E%A2%E9%92%88%E6%A0%A1%E5%87%861-en.png)<!-- publication-image: {width=12cm} -->
 
 
 3. After calibration is complete, the system switches to the automatic centering interface. Follow the instructions provided on the interface.
-![](../../../../assets/nestpad/探针校准2-en.png)<!-- publication-image: {width=12cm} -->
+
+![](../../../../assets/nestpad/%E6%8E%A2%E9%92%88%E6%A0%A1%E5%87%862-en.png)<!-- publication-image: {width=12cm} -->
 
 
 4. After automatic centering is complete, the system switches to the machining interface. Recheck the blank, tool, and protective door. Close the protective door and tap **Start**. Wait for the calibration groove to finish machining.
-![](../../../../assets/nestpad/探针校准3-en.png)<!-- publication-image: {width=12cm} -->
+
+![](../../../../assets/nestpad/%E6%8E%A2%E9%92%88%E6%A0%A1%E5%87%863-en.png)<!-- publication-image: {width=12cm} -->
 
 
 
 5. After machining is complete, the system returns to the calibration interface and prompts you to remove the chips. Wait until the machine has come to a complete stop, then open the protective door in accordance with the machine's safety procedures. Use a soft brush or vacuum cleaner to remove chips from the groove. Keep the blank and fixture in place during cleaning. After cleaning, close the protective door and tap **Continue**.
-![](../../../../assets/nestpad/探针校准4-en.png)<!-- publication-image: {width=12cm} -->
+
+![](../../../../assets/nestpad/%E6%8E%A2%E9%92%88%E6%A0%A1%E5%87%864-en.png)<!-- publication-image: {width=12cm} -->
 
 
 6. The system automatically extends the probe to measure the bottom and surrounding area of the groove, then verifies the calibration result. Do not move the machine manually or touch the blank or probe during this process.
@@ -109,7 +114,7 @@ After confirming that it is safe to proceed, tap **Home > Settings > Calibration
 
 #### Tool Box Calibration
 
-![](../../../../assets/nestpad/校准工具-刀库校准-en.png)<!-- publication-image: {width=10cm} -->
+![](../../../../assets/nestpad/%E6%A0%A1%E5%87%86%E5%B7%A5%E5%85%B7-%E5%88%80%E5%BA%93%E6%A0%A1%E5%87%86-en.png)<!-- publication-image: {width=10cm} -->
 
 
 
@@ -130,6 +135,7 @@ After confirming that it is safe to proceed, tap **Home > Settings > Calibration
 1. Select any tool position on the left, then tap **Check Position**. After the tool magazine cover opens, the spindle moves above the corresponding tool. Visually check whether the spindle is aligned with the tool.
 3. Use the motion control panel on the right to move the spindle and adjust its position. Once the spindle is aligned with the tool, tap **Save Position** to save and update the coordinates of the current tool position.
 4. After confirming that the spindle is aligned with the tool, you can also tap **Test** to verify that the tool pickup and return operations work properly and that the positions are accurate. Once everything is confirmed, tap **Confirm** on the calibration completion screen to save and update the coordinates of the current tool position.
+
    ![](../../../../assets/Calibration_steps-851983b825d4.png)<!-- publication-image: {width=10cm} -->
 
    > [!caution] Caution
@@ -148,13 +154,15 @@ The device supports independent rotation settings for the Monitoring Camera and 
 **Procedure**
 
 1. Go to **Settings > Calibration > Camera Rotation** to enter the Camera Rotation page. Tap either the **Monitoring Camera** or **Centering Camera** to enter the corresponding preview and adjustment interface.
-![](../../../../assets/nestpad/校准工具-摄像头旋转1-en.png)<!-- publication-image: {width=10cm} -->
+
+![](../../../../assets/nestpad/%E6%A0%A1%E5%87%86%E5%B7%A5%E5%85%B7-%E6%91%84%E5%83%8F%E5%A4%B4%E6%97%8B%E8%BD%AC1-en.png)<!-- publication-image: {width=10cm} -->
 
 2. The left side shows the real-time camera preview, while the right side displays the current camera rotation angle.
    - Rotation Direction: Click **CW (clockwise)** or **CCW (counterclockwise)** to rotate the image.
    - Rotation Step: Select from 1°, 5°, 15°, or 90°. Click the step button to change the rotation increment applied each time.
    - The preview updates in real time as the image rotates, and the angle value updates accordingly.
-   ![](../../../../assets/nestpad/校准工具-摄像头旋转2-en.png)<!-- publication-image: {width=10cm} -->
+
+   ![](../../../../assets/nestpad/%E6%A0%A1%E5%87%86%E5%B7%A5%E5%85%B7-%E6%91%84%E5%83%8F%E5%A4%B4%E6%97%8B%E8%BD%AC2-en.png)<!-- publication-image: {width=10cm} -->
 
 
 3. Adjust the image until its orientation matches the machine's physical orientation, then tap **Confirm** to save the settings. The settings are saved permanently and remain in effect even after the machine restarts.
@@ -189,7 +197,8 @@ Execute the L-shaped locating fixture calibration only after all the above condi
 **Procedure**
 1. Secure the L-fixture in the designated position on the worktable, ensuring it is firmly clamped.
 2. Tap **Home > Settings > Calibration > L-Fixture Calibration** to enter the calibration page, and then tap **Calibrate**. The system will enter the automatic execution process.
-![](../../../../assets/nestpad/校准工具-L型夹具校准-en.png)<!-- publication-image: {width=10cm} -->
+
+![](../../../../assets/nestpad/%E6%A0%A1%E5%87%86%E5%B7%A5%E5%85%B7-L%E5%9E%8B%E5%A4%B9%E5%85%B7%E6%A0%A1%E5%87%86-en.png)<!-- publication-image: {width=10cm} -->
 
 3. The probe will sequentially complete the Z-axis surface height measurement of the worktable, X-axis edge finding, and Y-axis edge finding to collect the fixture's reference points and automatically determine the fixture's installation mode. After point collection is completed, the probe will retract, and the spindle will return to the safe height.
 
@@ -228,7 +237,8 @@ Before calibration, please confirm the following conditions are met:
 
 **Procedure**
 1. Tap **Home > Settings > Calibration > Soft Limit Configuration** to enter the soft limit settings page, and then tap **Start**. The system will enter the automatic calibration process.
-![](../../../../assets/nestpad/校准工具-软限制设置-en.png)<!-- publication-image: {width=10cm} -->
+
+![](../../../../assets/nestpad/%E6%A0%A1%E5%87%86%E5%B7%A5%E5%85%B7-%E8%BD%AF%E9%99%90%E5%88%B6%E8%AE%BE%E7%BD%AE-en.png)<!-- publication-image: {width=10cm} -->
 
 2. Once calibration starts, the spindle will move sequentially towards the hard limits in the following directions: X-axis left, Y-axis rear, and Z-axis downward. Upon touching the hard limit, it will rebound by 1 mm in the opposite direction, and this position will be recorded as the soft limit boundary for the corresponding axis.
 
