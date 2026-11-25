@@ -35,7 +35,7 @@ Enter the **Home** page and import the G-code file for the front side of the coi
 #### Automatic Centering
 1. Click **Switch Other Fixture**, select **CNC Milling**, and click **Confirm**.
 
-![automatic centering](../../assets/quick-guide/mergeimage,org-20261112022442-Picsart-AiImageEnhancer.jpg)
+![automatic centering](../../assets/quick-guide/mergeimage%2Corg-20261112022442-Picsart-AiImageEnhancer.jpg)
 
 2. Click **Switch Coordinate Input Mode** > **Next** > **Automatic** to automatically center the front side.
 
@@ -53,5 +53,6 @@ Enter the **Home** page and import the G-code file for the front side of the coi
 3. Remove the coin and clear any chips from its surface and engraved details. Finish the edges and remove any burrs as needed.
 
 ## Finished Workpiece
-![Finished Workpiece](../../assets/quick-guide/黄铜纪念币正方面展示.jpg)
+
+![Finished Workpiece](../../assets/quick-guide/%E9%BB%84%E9%93%9C%E7%BA%AA%E5%BF%B5%E5%B8%81%E6%AD%A3%E6%96%B9%E9%9D%A2%E5%B1%95%E7%A4%BA.jpg)
 
