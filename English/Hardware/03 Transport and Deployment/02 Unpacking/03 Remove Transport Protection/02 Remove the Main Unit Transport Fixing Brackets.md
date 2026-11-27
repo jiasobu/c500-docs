@@ -4,7 +4,7 @@ After removing the external packaging, remove the four fixing brackets between t
 
 1. Use a 5 mm hex key to remove the fixing screws from the four groups of main unit transport fixing brackets, then remove all transport fixing brackets in order.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking5.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
@@ -12,7 +12,7 @@ After removing the external packaging, remove the four fixing brackets between t
 
 3. Slowly remove the inner packaging bag, taking care not to scratch the machine surface.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking6.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
