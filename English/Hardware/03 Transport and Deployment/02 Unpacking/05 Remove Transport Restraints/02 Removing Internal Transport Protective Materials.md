@@ -2,37 +2,37 @@
 
 1. Remove the protective cover from the spindle prober nozzle.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking17.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
 2. Remove the protective pads from the worktable and any remaining transport protective materials from inside the machine.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking14.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
 3. Remove the EPE foam and other cushioning materials from the outside of the chip removal assembly.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking15.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
 4. Remove the protective EPE foam from the rear of the machine and around the bellows cover, then take out the included chip removal accessories.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking16.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
 5. Remove the securing tape and protective film from the tool magazine.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking18.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
 6. Remove the protective covers from the internal air nozzle and spindle tool-clamping position.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking25.png" alt="" width="400px" style="max-width:100%; height:auto;"><br><br>
        <img src="https://docs.worksbase.com/c500-manual/unpacking26.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
