@@ -6,7 +6,7 @@ The spindle and worktable fixing bracket prevents the spindle and worktable from
 
 1. Use a hex key to slowly loosen the spindle fixing screws and worktable fixing screws.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking33.png" alt="" width="400px" style="max-width:100%; height:auto;"><br><br>
        <img src="https://docs.worksbase.com/c500-manual/unpacking10.jpg" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
@@ -15,13 +15,13 @@ The spindle and worktable fixing bracket prevents the spindle and worktable from
 
 3. Connect the machine to power.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking12.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
 4. Rotate the E-Stop clockwise to release it.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking34.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
@@ -33,12 +33,12 @@ The spindle and worktable fixing bracket prevents the spindle and worktable from
    </div>
 
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking35.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
 6. Use the control system to move the spindle to an appropriate height, then turn off the power.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking13.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>

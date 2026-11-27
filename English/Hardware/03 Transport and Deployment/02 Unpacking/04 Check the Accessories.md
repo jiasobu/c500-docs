@@ -8,7 +8,7 @@
    </div>
 
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking7.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
@@ -19,24 +19,24 @@
 
 4. Remove the EPE foam block at the front of the machine and the front accessory packaging box.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking8.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
 5. Remove the tool kit, standard accessories, maintenance consumables, and other supplied accessories.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking9.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking27.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
 6. Remove the raw material packaging boxes and related accessories inside the machine and on the worktable.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking28.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
