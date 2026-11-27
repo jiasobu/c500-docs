@@ -30,7 +30,7 @@
    </p>
 
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking27.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
