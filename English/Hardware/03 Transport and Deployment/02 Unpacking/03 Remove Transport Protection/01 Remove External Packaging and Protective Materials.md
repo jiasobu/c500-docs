@@ -15,7 +15,7 @@ After completing the outer packaging inspection and confirming that the packagin
 
 2. Check the inner packaging protection of the machine. The machine body is wrapped with a dedicated dustproof bag. The sides and corners of the machine are protected by dedicated EPE foam to absorb vibration and impact during transportation.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking3.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
@@ -23,6 +23,6 @@ After completing the outer packaging inspection and confirming that the packagin
 
 4. After confirming that the inner packaging protection is normal, gently remove the dustproof bag outside the machine and remove the external EPE foam and other protective materials.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/unpacking4.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
