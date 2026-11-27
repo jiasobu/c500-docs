@@ -3,8 +3,8 @@
 | Item                | Specification |
 | ------------------- | ------------- |
 | Spindle Power       | 800 W         |
-| Power source        | 110-240VAC    |
+| Power source        | 100-240VAC    |
 | Operating Frequency | 50/60 Hz      |
-| Total Power         | 1.6 kW        |
+| Total Power         | 2 kW        |
 | Phases              | Single-Phase  |
 
