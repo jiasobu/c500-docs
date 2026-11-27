@@ -9,9 +9,9 @@ Before connecting the machine to power, make sure the power supply circuit meets
 
 | Item                  | Requirement                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------ |
-| Input voltage         | 110 ~ 240 VAC                                                                                    |
+| Input voltage         | 100 ~ 240 VAC                                                                                    |
 | Frequency             | 50 / 60 Hz                                                                                       |
-| Total power           | 1.6 kW                                                                                           |
+| Total power           | 2 kW                                                                                           |
 | Power supply circuit  | A dedicated power supply circuit is recommended                                                  |
 | Leakage Protection    | Install a residual current device with a rated residual operating current of not less than 30 mA |
 | Grounding Requirement | The power outlet must be properly grounded                                                       |
