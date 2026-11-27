@@ -34,7 +34,7 @@ At least two people must work together during handling and lifting. One person o
    </div>
 
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/handing1.jpg" alt="" width="200px" style="max-width:100%; height:auto;">
    </p>
 
@@ -46,7 +46,7 @@ At least two people must work together during handling and lifting. One person o
    </div>
 
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/handing2.png" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
@@ -58,7 +58,7 @@ At least two people must work together during handling and lifting. One person o
    </div>
 
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/handing3.jpg" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
@@ -78,7 +78,7 @@ At least two people must work together during handling and lifting. One person o
 
 2. Position the forklift at the designated fork-entry side of the pallet. Adjust the fork spacing and align the forks with the pallet's load-bearing areas. Slowly insert the forks, ensuring they are fully inserted into the pallet without contacting the crate or machine.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/handing4.jpg" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
@@ -86,13 +86,13 @@ At least two people must work together during handling and lifting. One person o
 
 4. Move slowly to the destination. Avoid sharp turns, sudden braking, and uneven surfaces. Keep the crate low while moving, and watch for nearby people and obstacles.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/handing5.jpg" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
 5. At the destination, slowly lower the crate until the pallet rests securely on the ground. Once the crate is stable, fully lower the forks and carefully withdraw them.
 
-   <p align="center">
+<p align="center">
        <img src="https://docs.worksbase.com/c500-manual/handing6.jpg" alt="" width="400px" style="max-width:100%; height:auto;">
    </p>
 
